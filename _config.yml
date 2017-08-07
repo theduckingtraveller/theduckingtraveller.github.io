@@ -1,4 +1,5 @@
-banner-title: The Ducking Traveller
+banner-title: > 
+  The Ducking Traveller
 email: theduckingtraveller@gmail.com
 banner-desc: > # this means to ignore newlines until "baseurl:"
   In Pursuit of Nirvana
