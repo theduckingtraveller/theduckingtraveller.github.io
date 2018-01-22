@@ -1,3 +1,8 @@
-<footer class="pv4 ph3 ph5-m ph6-l mid-gray bg-black-90">
-  <small class="avenir f6 db tc">© 2017 <b class="ttu"> Designed by - </b> The Ducking Traveller </small>
-</footer>
+<footer class="main_footer">
+  <div class="wrapper">
+    {% include social_footer.html %}
+    <div class="copyright">
+      <p>&copy; {{site.time | date: '%Y'}} All rights reserved. Design by <a href="https://artemsheludko.github.io" target="_blank">Artem Sheludko</a></p>
+    </div>
+  </div>
+</footer> <!-- End Section Footer -->
