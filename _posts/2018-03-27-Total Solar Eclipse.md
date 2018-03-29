@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Total Solar Eclipse – Madras, Oregon 2017"
-img: total.jpg 
+img: madras-9.jpg 
 date: 2018-03-27 12:00:00 +0300
 description: 
 tag: [Travel, Blogging, Mountains, Nature]
