@@ -29,13 +29,16 @@ The Stonehenge is open most of the year for tourists and is one of the most popu
 #### When to go:
 For the kind of breathtaking experience that you get by actually touching the henges, plan on going sometime during either the Summer/Winter Solstice or March/September Equinox. The tour bus will pick you up, drive you to the Stonehenge, and drive you back all before breakfast!
 
+![image2]({{site.baseurl}}/assets/img/stone3.jpg){:height="650px" width="840px"}
+
+
 ### Useful Tips:
 1. Layers my friend! Wear lots of layers as the weather can get super windy and chilly especially if you are going early and during the colder months.
 2. Carry your own water, food. Energy bars come very handy here.
 3. You will spend about 2 hours here so pack accordingly. Don't get a really heavy backpack for a short time.
 4. The busiest time is between 10 am and 1 pm. If you want to avoid the tourist traffic, plan accordingly.
 
-![image2]({{site.baseurl}}/assets/img/stone3.jpg){:height="650px" width="840px"}
+![image2]({{site.baseurl}}/assets/img/stone5.jpg){:height="650px" width="840px"}
 
 The top highlights from the Stonehenge Tour apart from the wonders themselves are:
 1. The new-age ethnic-groups such as the Pagans, Druids, and Wiccans all come together on the days to celebrate!
