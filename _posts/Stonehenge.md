@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The Mysterious Stonehenge during Summer Equinox"
-img: kerala_1.jpg
-date: 2018-01-12 12:00:00 +0300
+img: stone2.jpg
+date: 2018-08-12 12:00:00 +0300
 description:
 tag: [Travel, Blogging, Wonders]
 ---
