@@ -18,9 +18,13 @@ Driving is your best bet here. The 250 mile drive takes about 4 hours to get to 
 #### TIPS:
 
 > It can get really hot during summer so apply generous amounts of sunscreen.
+
 > Carry plenty of water with you.
+
 > I highly recommend having a pair of sunglasses and a hat.
+
 > You can get really dusty on the hikes so carry extra socks!
+
 > You will reach a height of 8000 feet and the air tends to be thinner here. Don't be alarmed if you find yourself grasping for breath!
 
 #### Where to stay:
