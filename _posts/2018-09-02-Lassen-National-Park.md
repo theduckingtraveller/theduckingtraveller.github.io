@@ -1,4 +1,5 @@
 ---
+sortingnumber: 5
 layout: post
 title: "A weekend trip to Lassen Volcanic National Park"
 img: lassen3.jpg # Add image post (optional)
