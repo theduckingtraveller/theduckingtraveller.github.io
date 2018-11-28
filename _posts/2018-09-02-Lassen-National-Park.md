@@ -2,8 +2,8 @@
 sortingnumber: 1
 layout: post
 title: "A weekend trip to Lassen Volcanic National Park"
-img: lassen7.jpg # Add image post (optional)
-date: 2018-09-02 12:00:00 +0300
+img: lassen7.jpg
+date: 2018-09-02 12:00:00 +0400
 description:
 tag: [Travel, Blogging, National Park]
 ---
