@@ -1,9 +1,10 @@
 ---
+sortingnumber: 2
 layout: post
 title: "El Paso - Texas"
 img: el_paso_4.jpg # Add image post (optional)
 date: 2017-07-12 12:55:00 +0300
-description: 
+description:
 tag: [Travel, Blogging, Mountains]
 ---
 
@@ -81,6 +82,3 @@ That’s it for my trip to El Paso. There is so much more to do and explore but 
 –
 
 Amrita
-
-
-

@@ -1,4 +1,5 @@
 ---
+sortingnumber: 1
 layout: post
 title: "A weekend trip to Lassen Volcanic National Park"
 img: lassen3.jpg # Add image post (optional)
@@ -95,7 +96,7 @@ On your drive out of the park, you can stop by Lake Helen for a light snack/picn
 - Sulphur Works:
 The most easily accessible location in the park, Sulphur works is just off the road. You can see boiling mud pots, smell the strong sulphur and also see how this affects the rocks around it. Since the spot is so easily accessible, there is always a lot of foot and car traffic in the area.
 
-We stopped at the Kohm Ya-mah-nee Visitor Center on our way out to grab some souvenirs and headed back to the bay. So there you have it - A fun 2 days at Lassen Volcanic Park! 
+We stopped at the Kohm Ya-mah-nee Visitor Center on our way out to grab some souvenirs and headed back to the bay. So there you have it - A fun 2 days at Lassen Volcanic Park!
 
 ![image6]({{site.baseurl}}/assets/img/lassen6.jpg){:height="800px" width="840px"}
 
@@ -106,4 +107,3 @@ Other locations that you can check out if you have time:
 ![image6]({{site.baseurl}}/assets/img/lassen10.jpg){:height="800px" width="840px"}
 4. Boiling Spring Lake (2.5 mi roundtrip)
 5. Juniper Lake
-
