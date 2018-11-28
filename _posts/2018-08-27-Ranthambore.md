@@ -9,7 +9,7 @@ tag: [Travel, Blogging, Forest, Culture]
 
 My relationship with wildlife and national parks is long and pleasant. Each time I get to see wild animals in their habitat, it makes my heart soar! Ranthambore was a very special experience for me as it was the first time I saw a Tiger in the wild! Those majestic yet shy beasts are really hard to spot but if you do, you have the story of your life!!
 
-## Stop 1: Where to stay?
+## Where to stay?
 
 ![image1]({{site.baseurl}}/assets/img/ran2.jpg){:height="650px" width="840px"}
 
@@ -17,13 +17,13 @@ Although there are many fancy resorts and hotels that you can choose from at the
 
 The resort has a private chef who cooks whatever you are in the mood for and the food is fresh, hot and delicious. When I went here, the place was deserted and I was the only guest but I felt very welcome and safe! The staff is available on call and even sets up a bonfire on request.
 
-## Stop 1: How to get here?
+## How to get here?
 The national park is 130 km from Jaipur. You can hire a chauffeur driven vehicle from Jaipur to get to the park. To enter the park itself, you have to use the government-sanctioned tour vehicles. It costs about 1400 INR to go on a Jeep and 1000 INR to tour in a canter.
 
-## Stop 1: What to eat?
+## What to eat?
 As everywhere in Rajasthan, you have food for all dietary restrictions available. We ate at our restaurant as the food was really good and fresh.
 
-## Stop 1: What to wear?
+## What to wear?
 No matter where you go on a safari, weather plays a huge role in deciding what to wear. I went to the Ranthambore national park during winter and it was pretty cold and dry, especially during the early morning safari. The best thing to wear during the morning safaris is layers! You can take the layers off if it gets warm but being uncomfortably cold makes no one happy.
 
 Be sure to also carry sunglasses, sunscreen, water and a hat. If you are sensitive to dust, be sure to carry a mask or a scarf.

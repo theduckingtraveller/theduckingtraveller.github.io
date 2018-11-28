@@ -1,10 +1,11 @@
 ----
+sortingnumber: 10
 layout: post
-title: "Total Solar Eclipse – Madras, Oregon 2017"
-img: madras-1.jpg{:height="400px" width="840px"}
-date: 2018-03-27 12:00:00 +0300
+title: "Total Solar Eclipse 2017"
+img: madras-1.jpg
+date: 2018-09-02 12:00:00 +0400
 description:
-tag: [Travel, Blogging, Mountains, Nature]
+tag: [Travel, Blogging, National Park]
 ---
 
 I wanted to write a post on the Eclipse as soon as I returned from Madras, OR but I decided to wait a few months. The planning for the trip was a total last-minute decision and the preparation was fast but precise. I hadn’t seen a total solar eclipse before so I was really pumped up to drive for almost 9 hours to reach the point from where I could see totality. Even my Snapchat feed was excited for me!
