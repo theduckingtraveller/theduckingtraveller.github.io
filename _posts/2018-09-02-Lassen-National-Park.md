@@ -2,7 +2,7 @@
 sortingnumber: 16
 layout: post
 title: "A weekend trip to Lassen Volcanic National Park"
-img: lassen2.jpg width="750" height="450"
+img: lassen2.jpg 
 date: 2018-09-02 12:00:00 +0400
 description:
 tag: [Travel, Blogging, National Park]
@@ -114,4 +114,4 @@ Other locations that you can check out if you have time:
 
  <li> Juniper Lake </li>
 
-</ul> 
+</ul>
