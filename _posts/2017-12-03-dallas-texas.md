@@ -2,7 +2,7 @@
 sortingnumber: 6
 layout: post
 title: "Texas - Dallas"
-img: dallas_5.jpg
+img: dallas_5.jpg {:height="750px" width="400px"}
 date: 2017-12-03 12:00:00 +0300
 description:
 tag: [Travel, Blogging, Mountains]

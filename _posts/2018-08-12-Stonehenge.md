@@ -2,7 +2,7 @@
 sortingnumber: 13
 layout: post
 title: "The Mysterious Stonehenge during Summer Equinox"
-img: stone2.jpg
+img: stone2.jpg {:height="750px" width="400px"}
 date: 2018-08-12 12:00:00 +0300
 description:
 tag: [Travel, Blogging, Wonders]

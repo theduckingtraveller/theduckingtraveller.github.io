@@ -2,7 +2,7 @@
 sortingnumber: 4
 layout: post
 title: "Aspen and Glenwood Springs"
-img: aspen_1.jpg
+img: aspen_1.jpg {:height="750px" width="400px"}
 date: 2017-08-24 12:00:00 +0300
 description:
 tag: [Travel, Blogging, Mountains]

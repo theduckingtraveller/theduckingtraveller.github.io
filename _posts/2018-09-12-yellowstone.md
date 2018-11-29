@@ -2,7 +2,7 @@
 sortingnumber: 17
 layout: post
 title: "Yellowstone and Teton National Parks – A Journey through the Geysers"
-img: ys.jpg # Add image post (optional)
+img: ys.jpg {:height="750px" width="400px"}
 date: 2018-09-12 12:55:00 +0300
 description:
 tag: [Travel, Blogging, Mountains]

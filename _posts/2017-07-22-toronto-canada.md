@@ -2,7 +2,7 @@
 sortingnumber: 2
 layout: post
 title: "Toronto - Canada's Biggest City"
-img: toronto_1.jpg # Add image post (optional)
+img: toronto_1.jpg {:height="750px" width="400px"}
 date: 2017-07-22 12:55:00 +0300
 description:
 tag: [Travel, Blogging, Mountains]

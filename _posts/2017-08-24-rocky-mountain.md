@@ -2,7 +2,7 @@
 sortingnumber: 5
 layout: post
 title: "Rocky Mountain National Park"
-img: rocky_1.jpg
+img: rocky_1.jpg {:height="750px" width="400px"}
 date: 2017-08-13 12:00:00 +0300
 description: "Time Crunching Road Trip"
 tag: [Travel, Blogging, Mountains]
