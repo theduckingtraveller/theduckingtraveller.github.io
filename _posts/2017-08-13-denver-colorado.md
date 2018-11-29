@@ -1,9 +1,10 @@
 ---
+sortingnumber: 3
 layout: post
 title: "Denver - The Mile High City"
-img: denver_1.jpg 
+img: denver_1.jpg
 date: 2017-08-13 12:00:00 +0300
-description: 
+description:
 tag: [Travel, Blogging, Mountains]
 ---
 
@@ -13,7 +14,7 @@ I know the winters here are surreal and this is a famous destination known for i
 
 Here are a few of the innumerable things you could be doing when you visit the Mile-High City.
 
- 
+
 
 ### Denver Downtown:
 Downtown Denver is one of the liveliest downtown areas that I have been to. It is full of art, crafts, and music. The area has a lot of fun activities including brewery tours and shopping malls. A few places I would recommend are:
@@ -92,6 +93,6 @@ Venice: If you are looking for an intimate family dining experience, the Venice 
 
 ![image8]({{site.baseurl}}/assets/img/denver_8.jpg){:height="600px" width="640px"}
 
- 
+
 
 For information on the Rockie Mountains National Park or about visiting Aspen during Summer, log into the National Park section of the website.

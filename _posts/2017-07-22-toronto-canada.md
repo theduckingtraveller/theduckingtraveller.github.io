@@ -1,9 +1,10 @@
 ---
+sortingnumber: 2
 layout: post
 title: "Toronto - Canada's Biggest City"
 img: toronto_1.jpg # Add image post (optional)
 date: 2017-07-22 12:55:00 +0300
-description: 
+description:
 tag: [Travel, Blogging, Mountains]
 ---
 
@@ -27,7 +28,7 @@ Book your tickets to CN tower and other tourist attractions online to save time 
 
 ![image2]({{site.baseurl}}/assets/img/toronto_2.jpg){:height="800px" width="840px"}
 
-The CN tower is one of the most popular tourist spots in downtown Toronto. At 550m, it is the tallest free-standing structure in the Northern Hemisphere. You get a 360-degree panoramic view of the city and if you are lucky, you may even get to see the Niagara Falls. A part of the floor on the viewing deck is glass and you can see 500m directly below the deck. This is a really cool yet terrifying experience. You can also go to the rotating restaurant on the upper deck for a nice meal with a spectacular view. 
+The CN tower is one of the most popular tourist spots in downtown Toronto. At 550m, it is the tallest free-standing structure in the Northern Hemisphere. You get a 360-degree panoramic view of the city and if you are lucky, you may even get to see the Niagara Falls. A part of the floor on the viewing deck is glass and you can see 500m directly below the deck. This is a really cool yet terrifying experience. You can also go to the rotating restaurant on the upper deck for a nice meal with a spectacular view.
 
 ![image3]({{site.baseurl}}/assets/img/toronto_3.jpg){:height="800px" width="840px"}
 
@@ -51,7 +52,7 @@ The district is also home to wonderful modern architecture to promote love and p
 
 ![image7]({{site.baseurl}}/assets/img/toronto_7.jpg){:height="800px" width="840px"}
 
-At the intersection of Yonge St and Dundas St lies the heart of downtown Toronto. Since it is one of the main tourist attractions, the streets are always buzzing with people. The financial district is close by so the intersection gets very active with tourists and locals. You can compare the busy streets here with Time Square in New York or the Piccadilly Square in London. 
+At the intersection of Yonge St and Dundas St lies the heart of downtown Toronto. Since it is one of the main tourist attractions, the streets are always buzzing with people. The financial district is close by so the intersection gets very active with tourists and locals. You can compare the busy streets here with Time Square in New York or the Piccadilly Square in London.
 
 ![image8]({{site.baseurl}}/assets/img/toronto_8.jpg){:height="800px" width="840px"}
 

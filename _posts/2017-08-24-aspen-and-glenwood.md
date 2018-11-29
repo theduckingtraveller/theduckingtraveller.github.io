@@ -1,9 +1,10 @@
 ---
+sortingnumber: 4
 layout: post
 title: "Aspen and Glenwood Springs"
-img: aspen_1.jpg 
+img: aspen_1.jpg
 date: 2017-08-24 12:00:00 +0300
-description: 
+description:
 tag: [Travel, Blogging, Mountains]
 ---
 A 160mi drive from Denver, Aspen and Glenwood Springs are both gorgeous cities hidden among the mountains. While in Colorado, I would surely recommend awakening the adventurer inside you and driving down to the winter towns during summer.
@@ -31,7 +32,7 @@ Located just 10mi west of Aspen, the 14,000 ft peaks truly magnifies the glamour
 
 ![image4]({{site.baseurl}}/assets/img/aspen_4.jpg){:height="500px" width="840px"}
 
- 
+
 Since this is a very popular tourist spot, the road is restricted during peak tourist season. You can drive to Aspen Highlands and park your car there. You need to catch a shuttle from Aspen Highlands to Maroon Bells at a fee of $10 per person.
 
 The hike is a 1mi round trip and the terrain is very easy to walk on and is very serene. The Maroon lake is calm and makes for a wonderful place to sit back and enjoy the CGI- like scenery in front of you.
@@ -47,7 +48,7 @@ The hike is a 1mi round trip and the terrain is very easy to walk on and is very
 One of the most adventurous experience you can have when you are here is going white water rafting on the Colorado River. This should be on your list of things to do and trust me it is a lot of fun. If you are not a good swimmer or if this will be your first time choose the level 1 or 2 rapids. If you feel really confident, the level 3 rapids are extremely bumpy and will get your adrenaline flowing for sure.
 
 ![image6]({{site.baseurl}}/assets/img/aspen_6.jpg){:height="550px" width="840px"}
- 
+
 There are a ton of white water rafting companies that provide level 1-6 rafting experiences for people of all ages. I choose the Whitewater Rafting LLC. They drove us to a location and caught the Rapids back to the main parking lot. The entire session from getting on a bus to the departure zone and back takes about 3 hours.
 
 ### Hot Springs:
@@ -84,4 +85,3 @@ There are no restrooms or garbage disposal bins at the top so you need to be pre
 ### Georgetown:
 
 On your return trip back to Denver, I would recommend taking a break at Georgetown. This quirky little town was known for its mining industry but is now known for its Victorian architecture and will probably be the smallest downtown you have ever visited. They have a really tasty homemade ice cream store that you must check out.
-

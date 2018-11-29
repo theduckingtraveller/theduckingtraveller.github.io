@@ -1,5 +1,5 @@
 ---
-sortingnumber: 1
+sortingnumber: 16
 layout: post
 title: "A weekend trip to Lassen Volcanic National Park"
 img: lassen7.jpg
@@ -14,7 +14,7 @@ If you haven't been to Yellowstone National Park but want to witness similar nat
 
 #### Getting here:
 
-Driving is your best bet here. The 250 mile drive takes about 4 hours to get to from San Francisco via the Manzanita entrance. Within the park, you will have to rely on the map provided at the ranger station as there is very limited cellphone coverage. Check out the park map here https://www.nps.gov/lavo/planyourvisit/maps.htm
+Driving is your best bet here. The 250 mile drive takes about 4 hours to get to from San Francisco via the Manzanita entrance. Within the park, you will have to rely on the map provided at the ranger station as there is very limited cellphone coverage. Check out the park map here <a href= "https://www.nps.gov/lavo/planyourvisit/maps.htm"> MAP </a>
 
 #### TIPS:
 

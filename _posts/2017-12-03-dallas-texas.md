@@ -1,9 +1,10 @@
 ---
+sortingnumber: 6
 layout: post
 title: "Texas - Dallas"
-img: dallas_5.jpg 
+img: dallas_5.jpg
 date: 2017-12-03 12:00:00 +0300
-description: 
+description:
 tag: [Travel, Blogging, Mountains]
 ---
 
@@ -31,7 +32,7 @@ I had to kill time one afternoon and I decided to check out White Rock Lake. It 
 
 ![image4]({{site.baseurl}}/assets/img/dallas_4.jpeg){:height="650px" width="840px"}
 
- 
+
 ### Reunion Tower
 
 ![image5]({{site.baseurl}}/assets/img/dallas_5.jpg){:height="600px" width="840px"}
@@ -50,7 +51,7 @@ The memorial plaza is very tranquil and the people visiting are very respectful 
 
 Have you ever heard a park located over a freeway? No? Klyde Warren Park is! It is one of the unique places in Dallas where you can play games, have some food and enjoy fresh air while being in the middle of the city, over one of the busiest freeways in the city.
 
-### Giant Eyeball 
+### Giant Eyeball
 
 ![image8]({{site.baseurl}}/assets/img/dallas_8.jpg){:height="950px" width="840px"}
 
@@ -58,7 +59,7 @@ A giant 30 ft eyeball in the middle of the city is just what the city was missin
 
 ### Mexican Food:
 
-RJ Mexican Cuisine –> 
+RJ Mexican Cuisine –>
 
 I love myself some good spicy Mexican food at all times of the day and night. If you are as much of a foodie as I am and love Mexican cuisine, you should stop for dinner at the RJ Mexican Cuisine. They serve delicious food in huge quantities and also provide a very calm and classy atmosphere with outdoor seating. It is located at the North Market Street in downtown Dallas.
 

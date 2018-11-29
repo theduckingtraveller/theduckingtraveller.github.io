@@ -1,4 +1,5 @@
 ---
+sortingnumber: 17
 layout: post
 title: "Yellowstone and Teton National Parks – A Journey through the Geysers"
 img: ys.jpg # Add image post (optional)
@@ -52,7 +53,7 @@ Yellowstone and Grand Teton National Park Map
 
 ![image5]({{site.baseurl}}/assets/img/ys5.jpg){:height="800px" width="840px"}
 
-https://www.nps.gov/yell/planyourvisit/maps.htm
+<a href= "https://www.nps.gov/yell/planyourvisit/maps.htm"> MAP </a>
 
 The national parks lie in three states: Idaho, Wyoming(mostly here), and Montana. It was really exciting to visit three new states out of the 50. It is always a good practice to start the day early so that you can cover more ground. Let me tell you that 4 days is not enough time to cover the entire park but we tried to cover the main points of interest.
 

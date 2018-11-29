@@ -1,7 +1,8 @@
 ---
+sortingnumber: 5
 layout: post
 title: "Rocky Mountain National Park"
-img: rocky_1.jpg 
+img: rocky_1.jpg
 date: 2017-08-13 12:00:00 +0300
 description: "Time Crunching Road Trip"
 tag: [Travel, Blogging, Mountains]
@@ -76,7 +77,7 @@ There are restrooms, café and a souvenir store here. You can have a pit stop to
 One of the most dramatic and panoramic views of the park can be seen from the Forest Canyon Overlook. It is located on the Trail Ridge Road and parking can be tricky here.
 
 ![image9]({{site.baseurl}}/assets/img/rocky_9.jpg){:height="300px" width="840px"}
- 
+
 You can enter the Rocky Mountains from Aspen and Glenwood Springs as well. The joint trip will be more than a weekend-long but is an exciting experience. To know more about Aspen, Vail and Glenwood Springs, visit the blog post on Aspen!
 
 Happy Travels!
