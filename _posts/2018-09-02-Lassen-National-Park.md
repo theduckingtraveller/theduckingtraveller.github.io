@@ -44,7 +44,7 @@ There is a serious lack of restaurants within the park. Your best bet is to carr
 
 - Lake Manzanita:
 
-![image2]({{site.baseurl}}/assets/img/lassen4.jpg){:height="800px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/lassen4.jpg){:height="800px" width="840px"}
 
 We drove into Redding on a Friday and rested up before starting fresh on Saturday. Drive in from Redding directly into Lake Manzanita. This lake is one of the most popular camping spots in the park and has amenities like bathroom, toilet, grocery store and kayak rentals. The lake itself is gorgeous and huge. There is a hiking trail spanning about 2 miles going all around the lake. If you have time try other hikes in the area such as the Reflection lake trail and the Craigs Lake trail. This is a great spot to star gaze as well.
 
@@ -52,7 +52,7 @@ We drove into Redding on a Friday and rested up before starting fresh on Saturda
 
 Butte Lake is about 32 miles from Manzanita lake. Drive down there via Old Station. Be sure to use your maps as the road to get here can be really confusing. Part of the road to Butte lake is unpaved although most vehicles can make it through the gravel road. Butte lake has more secluded and limited campsites.
 
-![image4]({{site.baseurl}}/assets/img/lassen1.jpg){:height="800px" width="840px"}
+![image2]({{site.baseurl}}/assets/img/lassen1.jpg){:height="800px" width="840px"}
 
 - Cider Cone Trail:
 
@@ -60,15 +60,15 @@ One of the most popular trails in the park is the Cider Cone Trail located off B
 
 Be prepared to be covered in dust from the gravely hike trail. The loose sand makes it a little more challenging to hike although the hard work does pay off.
 
-![image5]({{site.baseurl}}/assets/img/lassen2.jpg){:height="800px" width="840px"}
+![image3]({{site.baseurl}}/assets/img/lassen2.jpg){:height="800px" width="840px"}
 
 The fantastic Lava bed was formed during the 1650s Cider Cone Eruption. On the foothill of the Cider Cone is the last bit of shade you will find. Take full advantage of this before you begin your almost vertical ascend to the peak in gravel. Every step you take will drag you 2 steps back. The peak feels very far from reach and there is no side-rails to hold onto. This makes the hike very challenging. You climb 500feet in less than half a mile and it will tire you. But it is all worth it in the end.
 
-![image6]({{site.baseurl}}/assets/img/lassen3.jpg){:height="800px" width="840px"}
+![image4]({{site.baseurl}}/assets/img/lassen3.jpg){:height="800px" width="840px"}
 
 The painted dunes visible from the top along with the Fantastic belt on one side and the gorgeous forest on the other makes this a wonderful spot to sit back and enjoy nature at its best. Take your time up here to regain energy before you make your way back down.
 
-![image6]({{site.baseurl}}/assets/img/lassen8.jpg){:height="800px" width="840px"}
+![image5]({{site.baseurl}}/assets/img/lassen8.jpg){:height="800px" width="840px"}
 
 The Cider cone trail along with other hikes will tire you enough to call it a day.
 
@@ -84,12 +84,12 @@ We hiked the 3 mi roundtrip hike to Cold Boiling lake instead of the Bumpass Hel
 
 - Bumpass Hell:
 
-![image6]({{site.baseurl}}/assets/img/lassen9.jpg){:height="800px" width="840px"}
+![image7]({{site.baseurl}}/assets/img/lassen9.jpg){:height="800px" width="840px"}
 Bumpass Hell is the park's most visited location. It is also the park's largest hydrothermal area. With its mud-pots, boiling water and rotten egg smell, I deem it mini Yellowstone! You can read about how the shape of the mountains has changed from ice age to during the volcanic eruption and today. It is interesting to learn about and actually see nature taking a course of its own. Quick Note: This is one of the rare places where you get cellphone coverage.
 
 - Lake Helen:
 
-![image6]({{site.baseurl}}/assets/img/lassen7.jpg){:height="800px" width="840px"}
+![image8]({{site.baseurl}}/assets/img/lassen7.jpg){:height="800px" width="840px"}
 
 On your drive out of the park, you can stop by Lake Helen for a light snack/picnic. This gorgeous lake is located at the bottom of Mt Lassen. Expect it to be chilly here during the early summer months. The road is extremely scenic and there are loads of places you can stop your car to just take a minute to appreciate nature.
 
@@ -98,12 +98,12 @@ The most easily accessible location in the park, Sulphur works is just off the r
 
 We stopped at the Kohm Ya-mah-nee Visitor Center on our way out to grab some souvenirs and headed back to the bay. So there you have it - A fun 2 days at Lassen Volcanic Park!
 
-![image6]({{site.baseurl}}/assets/img/lassen6.jpg){:height="800px" width="840px"}
+![image9]({{site.baseurl}}/assets/img/lassen6.jpg){:height="800px" width="840px"}
 
 Other locations that you can check out if you have time:
 1. Bumpass trailhead (The trail was closed when we visited but it is one of the popular trails here. It is a 3 mile roundtrip hike)
 2. Kings Creek Falls (3 mi roundtrip)
 3. Lassen Peak (It is a really hard 4-5 hour roundtrip hike to the peak of Mt Lassen and I would only recommend it if you are accustomed to hiking at altitudes. You will be gaining a lot of height in a short amount of time. This is a 5 mi roundtrip hike)
-![image6]({{site.baseurl}}/assets/img/lassen10.jpg){:height="800px" width="840px"}
+![image10]({{site.baseurl}}/assets/img/lassen10.jpg){:height="800px" width="840px"}
 4. Boiling Spring Lake (2.5 mi roundtrip)
 5. Juniper Lake
