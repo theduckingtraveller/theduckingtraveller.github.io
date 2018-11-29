@@ -2,7 +2,7 @@
 sortingnumber: 16
 layout: post
 title: "A weekend trip to Lassen Volcanic National Park"
-img: lassen7.jpg width="750" height="450"
+img: lassen2.jpg width="750" height="450"
 date: 2018-09-02 12:00:00 +0400
 description:
 tag: [Travel, Blogging, National Park]
@@ -101,14 +101,17 @@ We stopped at the Kohm Ya-mah-nee Visitor Center on our way out to grab some sou
 ![image9]({{site.baseurl}}/assets/img/lassen6.jpg){:height="800px" width="840px"}
 
 Other locations that you can check out if you have time:
-1. Bumpass trailhead (The trail was closed when we visited but it is one of the popular trails here. It is a 3 mile roundtrip hike)
+<ul>
+ <li>Bumpass trailhead (The trail was closed when we visited but it is one of the popular trails here. It is a 3 mile roundtrip hike)</li>
 
-2. Kings Creek Falls (3 mi roundtrip)
+ <li> Kings Creek Falls (3 mi roundtrip) </li>
 
-3. Lassen Peak (It is a really hard 4-5 hour roundtrip hike to the peak of Mt Lassen and I would only recommend it if you are accustomed to hiking at altitudes. You will be gaining a lot of height in a short amount of time. This is a 5 mi roundtrip hike)
+ <li> Lassen Peak (It is a really hard 4-5 hour roundtrip hike to the peak of Mt Lassen and I would only recommend it if you are accustomed to hiking at altitudes. You will be gaining a lot of height in a short amount of time. This is a 5 mi roundtrip hike) </li>
 
 ![image10]({{site.baseurl}}/assets/img/lassen10.jpg){:height="800px" width="840px"}
 
-4. Boiling Spring Lake (2.5 mi roundtrip)
+ <li> Boiling Spring Lake (2.5 mi roundtrip) </li>
 
-5. Juniper Lake
+ <li> Juniper Lake </li>
+
+</ul> 
