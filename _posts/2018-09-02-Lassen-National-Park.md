@@ -2,7 +2,7 @@
 sortingnumber: 16
 layout: post
 title: "A weekend trip to Lassen Volcanic National Park"
-img: lassen7.jpg
+img: lassen7.jpg width="750" height="450"
 date: 2018-09-02 12:00:00 +0400
 description:
 tag: [Travel, Blogging, National Park]
