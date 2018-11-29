@@ -102,8 +102,13 @@ We stopped at the Kohm Ya-mah-nee Visitor Center on our way out to grab some sou
 
 Other locations that you can check out if you have time:
 1. Bumpass trailhead (The trail was closed when we visited but it is one of the popular trails here. It is a 3 mile roundtrip hike)
+
 2. Kings Creek Falls (3 mi roundtrip)
+
 3. Lassen Peak (It is a really hard 4-5 hour roundtrip hike to the peak of Mt Lassen and I would only recommend it if you are accustomed to hiking at altitudes. You will be gaining a lot of height in a short amount of time. This is a 5 mi roundtrip hike)
+
 ![image10]({{site.baseurl}}/assets/img/lassen10.jpg){:height="800px" width="840px"}
+
 4. Boiling Spring Lake (2.5 mi roundtrip)
+
 5. Juniper Lake
