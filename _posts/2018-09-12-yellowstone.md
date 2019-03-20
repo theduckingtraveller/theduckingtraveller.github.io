@@ -17,7 +17,7 @@ Car Rental: I would recommend you rent an SUV as you are going to be driving a l
 
 # Day 1:
 
-My first stop was Salt Lake City, Utah. I'd never been to this city before so needless to say, I was pretty excited to cross of a new city from my extensively long list of cities to travel to. I got a really nice deal on expedia.com on the Kimpton Hotel Monaco in downtown Salt Lake City. It has been rated one of the best hotels in the city and I was glad to have gotten a room for a really reasonable rate. I was there in mid-June and this meant the temperatures were in the high 80s to 90s. So if you are travelling during summer, make sure to carry lots of sunscreen, sunglasses, and hats to protect yourself.
+My first stop was Salt Lake City, Utah. I'd never been to this city before so needless to say, I was pretty excited to cross of a new city from my extensively long list of cities to travel to. I got a really nice deal on expedia.com on the Kimpton Hotel Monaco in downtown Salt Lake City. It has been rated one of the best hotels in the city and I was glad to have gotten a room for a really reasonable rate. I was there in mid-June and this meant the temperatures were in the high 80s to 90s. So if you are traveling during summer, make sure to carry lots of sunscreen, sunglasses, and hats to protect yourself.
 
 We reached the hotel in the afternoon and decided to wait for the sun's blaze to lower to go and explore the city. We went to the City Creek Center. It is a really big shopping mall with nice places to eat and get some good ice-cream to beat the heat.
 
