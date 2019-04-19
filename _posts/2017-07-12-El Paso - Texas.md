@@ -18,7 +18,7 @@ A must visit bar:
 
 One of the best places to go is The Hoppy Monk. They serve the margaritas in the biggest glasses. There are a ton of local bars serving a host of fresh brews on Mesa Street. Be sure head there on a Saturday night for one of the liveliest atmospheres.
 
-My favourite restaurant:
+My favorite restaurant:
 
 This city is the best place to get really authentic Mexican food. The spice level is on point and the size is incredibly filling. You get amazing Mexican food at La Posta de Mesilla which is about 45 min from El Paso. Be sure to try their churro’s for dessert. There are a ton of local places which are also pretty good.
 
