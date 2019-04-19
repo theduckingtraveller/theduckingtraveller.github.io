@@ -4,7 +4,7 @@ layout: post
 title: "Toronto - Canada's Biggest City"
 img: toronto_1.jpg {:height="750px" width="400px"}
 date: 2017-07-22 12:55:00 +0300
-description:
+description: A Weekend in Canada's Biggest City
 tag: [Travel, Blogging, Mountains]
 ---
 

@@ -1,10 +1,10 @@
 ---
 sortingnumber: 3
 layout: post
-title: "Denver - The Mile High City"
+title: "Denver, Colorado"
 img: denver_1.jpg {:height="750px" width="400px"}
 date: 2017-08-13 12:00:00 +0300
-description:
+description: The Mile High City
 tag: [Travel, Blogging, Mountains]
 ---
 

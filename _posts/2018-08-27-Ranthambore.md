@@ -4,7 +4,7 @@ layout: post
 title: "Ranthambore National Park, Rajasthan"
 img: ran1.jpg {:height="750px" width="400px"}
 date: 2018-08-27 12:00:00 +0300
-description:
+description: Tiger Safari!
 tag: [Travel, Blogging, Forest, Culture]
 ---
 

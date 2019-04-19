@@ -4,7 +4,7 @@ layout: post
 title: "El Paso - Texas"
 img: el_paso_4.jpg {:height="750px" width="400px"}
 date: 2017-07-12 12:55:00 +0300
-description:
+description: The Sun City
 tag: [Travel, Blogging, Mountains]
 ---
 

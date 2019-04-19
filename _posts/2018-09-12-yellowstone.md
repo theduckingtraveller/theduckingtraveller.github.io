@@ -1,10 +1,10 @@
 ---
 sortingnumber: 17
 layout: post
-title: "Yellowstone and Teton National Parks – A Journey through the Geysers"
+title: "Yellowstone and Teton National Parks"
 img: ys.jpg {:height="750px" width="400px"}
 date: 2018-09-12 12:55:00 +0300
-description:
+description: A Journey through the Geysers
 tag: [Travel, Blogging, Mountains]
 ---
 It's been 3 years now since I came to the United States. Yellowstone and Teton national parks have been on my list of places to visit for twice as long. I mean who wouldn't want to visit the world's first national parks! I finally got the chance to visit the mystical place during the summer of 2017. Better late than never eh?

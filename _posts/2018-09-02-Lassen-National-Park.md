@@ -4,7 +4,7 @@ layout: post
 title: "A weekend trip to Lassen Volcanic National Park"
 img: lassen2.jpg {:height="750px" width="400px"}
 date: 2018-09-02 12:00:00 +0400
-description:
+description: A Peaceful Getaway!
 tag: [Travel, Blogging, National Park]
 ---
 

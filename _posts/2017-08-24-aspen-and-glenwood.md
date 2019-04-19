@@ -4,7 +4,7 @@ layout: post
 title: "Aspen and Glenwood Springs"
 img: aspen_1.jpg {:height="750px" width="400px"}
 date: 2017-08-24 12:00:00 +0300
-description:
+description: Long Weekend Getaway's in the Rockies
 tag: [Travel, Blogging, Mountains]
 ---
 A 160mi drive from Denver, Aspen and Glenwood Springs are both gorgeous cities hidden among the mountains. While in Colorado, I would surely recommend awakening the adventurer inside you and driving down to the winter towns during summer.

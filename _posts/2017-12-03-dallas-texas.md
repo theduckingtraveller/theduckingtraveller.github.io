@@ -4,7 +4,7 @@ layout: post
 title: "Texas - Dallas"
 img: dallas_5.jpg {:height="750px" width="400px"}
 date: 2017-12-03 12:00:00 +0300
-description:
+description: Solo Tripping in Texas
 tag: [Travel, Blogging, Mountains]
 ---
 
