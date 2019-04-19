@@ -58,4 +58,4 @@ While the animal walked along the road without a care, we sat in our canter admi
 
 Apart from the rich animal and bird life here, you also have an abundant plant life. The trees grow in unique shapes and sizes giving the park a rustic vibe. You are not allowed inside the park post-sunset and have to exit before that. This was the last shot I took of the park just before we exited and I really like how the roots of the banyan tree form a perfect arch right along the road.
 
-You can pair your perfect Ranthambore trip by touring Jaipur. For more information on the Pink City visit the blog post link posted here: http://theduckingtraveller.com/Jaipur/
+You can pair your perfect Ranthambore trip by touring Jaipur. For more information on the Pink City visit the blog post link posted here: <a href="http://theduckingtraveller.com/Jaipur/">Jaipur</a> 

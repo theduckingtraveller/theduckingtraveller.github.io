@@ -85,6 +85,7 @@ We hiked the 3 mi roundtrip hike to Cold Boiling lake instead of the Bumpass Hel
 - Bumpass Hell:
 
 ![image7]({{site.baseurl}}/assets/img/lassen9.jpg){:height="800px" width="840px"}
+
 Bumpass Hell is the park's most visited location. It is also the park's largest hydrothermal area. With its mud-pots, boiling water and rotten egg smell, I deem it mini Yellowstone! You can read about how the shape of the mountains has changed from ice age to during the volcanic eruption and today. It is interesting to learn about and actually see nature taking a course of its own. Quick Note: This is one of the rare places where you get cellphone coverage.
 
 - Lake Helen:
