@@ -64,11 +64,11 @@ Be prepared to be covered in dust from the gravely hike trail. The loose sand ma
 
 The fantastic Lava bed was formed during the 1650s Cider Cone Eruption. On the foothill of the Cider Cone is the last bit of shade you will find. Take full advantage of this before you begin your almost vertical ascend to the peak in gravel. Every step you take will drag you 2 steps back. The peak feels very far from reach and there is no side-rails to hold onto. This makes the hike very challenging. You climb 500feet in less than half a mile and it will tire you. But it is all worth it in the end.
 
-![image4]({{site.baseurl}}/assets/img/lassen3.jpg){:height="800px" width="840px"}
+![image4]({{site.baseurl}}/assets/img/lassen3.png){:height="800px" width="840px"}
 
 The painted dunes visible from the top along with the Fantastic belt on one side and the gorgeous forest on the other makes this a wonderful spot to sit back and enjoy nature at its best. Take your time up here to regain energy before you make your way back down.
 
-![image5]({{site.baseurl}}/assets/img/lassen8.jpg){:height="800px" width="840px"}
+![image5]({{site.baseurl}}/assets/img/lassen8.png){:height="800px" width="840px"}
 
 The Cider cone trail along with other hikes will tire you enough to call it a day.
 
@@ -78,19 +78,19 @@ Start off day 2 by driving to the Summit Lake via Devastated Area. If you want t
 
 - Cold Boiling Lake:
 
-![image6]({{site.baseurl}}/assets/img/lassen5.jpg){:height="800px" width="840px"}
+![image6]({{site.baseurl}}/assets/img/lassen5.png){:height="800px" width="840px"}
 
 We hiked the 3 mi roundtrip hike to Cold Boiling lake instead of the Bumpass Hell trail as the Bumpass trail was closed when we visited. If you like lakes, I recommend doing this hike but the lake is not really boiling or has any sulphur works. For the geyser experience, I suggest the Sulphur works or Devils Kitchen hike.
 
 - Bumpass Hell:
 
-![image7]({{site.baseurl}}/assets/img/lassen9.jpg){:height="800px" width="840px"}
+![image7]({{site.baseurl}}/assets/img/lassen9.png){:height="800px" width="840px"}
 
 Bumpass Hell is the park's most visited location. It is also the park's largest hydrothermal area. With its mud-pots, boiling water and rotten egg smell, I deem it mini Yellowstone! You can read about how the shape of the mountains has changed from ice age to during the volcanic eruption and today. It is interesting to learn about and actually see nature taking a course of its own. Quick Note: This is one of the rare places where you get cellphone coverage.
 
 - Lake Helen:
 
-![image8]({{site.baseurl}}/assets/img/lassen7.jpg){:height="800px" width="840px"}
+![image8]({{site.baseurl}}/assets/img/lassen7.png){:height="800px" width="840px"}
 
 On your drive out of the park, you can stop by Lake Helen for a light snack/picnic. This gorgeous lake is located at the bottom of Mt Lassen. Expect it to be chilly here during the early summer months. The road is extremely scenic and there are loads of places you can stop your car to just take a minute to appreciate nature.
 
@@ -99,7 +99,7 @@ The most easily accessible location in the park, Sulphur works is just off the r
 
 We stopped at the Kohm Ya-mah-nee Visitor Center on our way out to grab some souvenirs and headed back to the bay. So there you have it - A fun 2 days at Lassen Volcanic Park!
 
-![image9]({{site.baseurl}}/assets/img/lassen6.jpg){:height="800px" width="840px"}
+![image9]({{site.baseurl}}/assets/img/lassen6.png){:height="800px" width="840px"}
 
 Other locations that you can check out if you have time:
 <ul>
@@ -109,7 +109,7 @@ Other locations that you can check out if you have time:
 
  <li> Lassen Peak (It is a really hard 4-5 hour roundtrip hike to the peak of Mt Lassen and I would only recommend it if you are accustomed to hiking at altitudes. You will be gaining a lot of height in a short amount of time. This is a 5 mi roundtrip hike) </li>
 
-![image10]({{site.baseurl}}/assets/img/lassen10.jpg){:height="800px" width="840px"}
+![image10]({{site.baseurl}}/assets/img/lassen10.png){:height="800px" width="840px"}
 
  <li> Boiling Spring Lake (2.5 mi roundtrip) </li>
 
