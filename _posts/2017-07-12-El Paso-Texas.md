@@ -22,7 +22,7 @@ My favorite restaurant:
 
 This city is the best place to get really authentic Mexican food. The spice level is on point and the size is incredibly filling. You get amazing Mexican food at La Posta de Mesilla which is about 45 min from El Paso. Be sure to try their churro’s for dessert. There are a ton of local places which are also pretty good.
 
-National Parks in the Area:
+## National Parks in the Area:
 
 There are two national parks located not too far from El Paso. Make sure to carry legal documents (Passport for international travellers, driving license or birth certificate for locals) while visiting both (there is border security while exiting Texas).
 
