@@ -1,0 +1,94 @@
+---
+layout: default
+---
+{% include header.html %}
+
+<main class="post_content">
+  <article class="post">
+    <header>
+      <div class="post_image">
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+      </div>
+      <div class="post_description">
+        <p class="post_meta">{{page.date | date: '%Y, %b %d'}}</p>
+        <h1 class="post_title">{{page.title}}</h1>
+      </div>
+
+    </header> <!-- End Header -->
+
+    <div class="entry_content">
+      {{page.content | markdownify}}
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fg+5n+6t-e7+r"
+     data-ad-client="ca-pub-5806525966359790"
+     data-ad-slot="8967990855"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    </div>
+    
+    <div class="post_wrapper">
+      <footer class="post_footer cf">
+        <div class="post_share">
+          <span>Share:</span>
+          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+        </div>
+        <div class="post_tag">
+          <span>Tags:</span>
+          {% for tag in page.tags %}
+          <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">{{ tag }}</a>
+          {% endfor %}
+        </div>
+      </footer>
+    </div>
+  </article> <!-- End Section Post -->
+
+  <section class="author cf">
+    <div class="post_wrapper">
+      <div class="author_image">
+        <img src="{{site.baseurl}}/assets/img/face.jpg">
+      </div>
+      <div class="author_info">
+        <h2 class="author_title"> Amrita Savadatti</h2>
+        <p class="author_subtitle"> 
+          Hey there!
+          <br>
+          Let me tell you a little something about me: I’m an Engineer by profession but was bitten by the travel bug a long long time ago. I always talked about writing about my adventures and this is as good a time as ever to start! I also wanted to share my love for traveling with all the other wanderers out there and maybe help you guys plan your next big adventure.
+
+          The world is shrinking and it is possible to go all over and speak to different people and be a part of something that you never thought you could be. I have been able to be a part of a few of these adventures and am here to share my thoughts with all of you out there.
+
+          Hope you enjoy reading the blogs and my travel escapades.
+          <br>
+          <br>
+          Thanks for tuning in!
+        </p>
+        <div class="author_social">
+          <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:{{site.email}}">{{site.email}}</a></span>    
+          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="http://theduckingtraveller.com/" target="_blank">http://theduckingtraveller.com</a></span>         
+        </div>
+      </div>
+    </div>
+  </section> <!-- End Section Author -->
+
+  <section class="recent_box">
+    <div class="post_wrapper">
+      <h2 class="recent_title">Recent post</h2>
+      <div class="recent_list">
+        {% for post in site.posts offset:0 limit:6 %}
+          {% if post.title %}
+            <a href="{{ root_url }}{{ post.url }}" class="recent_item" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )"><span>{{ post.title }}</span></a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </section> <!-- End Section Recent Box -->
+  
+  {% include disqus.html %}
+  
+</main> <!-- End Section Post Content -->
+
+{% include footer.html %}
