@@ -6,6 +6,7 @@ img: denver_1.jpg {:height="750px" width="400px"}
 date: 2017-08-13 12:00:00 +0300
 description: The Mile High City
 tag: [Travel, Blogging, Mountains]
+type: cities
 ---
 
 Most people associate Denver with mountains and legal use of certain “herbs” but this city is so much more than just winter-sports and Colfax Avenue (which is the longest main street in the country). Denver in itself has so many activities inside and in its vicinity that there is never a moment to spare!
