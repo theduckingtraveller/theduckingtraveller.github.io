@@ -6,6 +6,7 @@ img: rocky_1.jpg {:height="750px" width="400px"}
 date: 2017-08-13 12:00:00 +0300
 description: "Time Crunching Road Trip"
 tag: [Travel, Blogging, Mountains]
+type: park
 ---
 
 Located at about 2 1/2 hours or 76 mi from Denver are the Rocky Mountains and for me the Switzerland in the west. If you are fascinated by and love living and getting lost in the great heights, if you love wildlife left in the wild, you must definitely have the Rockies on your bucket list. The park during summer is very busy so you will have to make reservations well in advance if you want to stay at Estes Park.

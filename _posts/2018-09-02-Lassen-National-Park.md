@@ -6,6 +6,7 @@ img: lassen2.jpg {:height="750px" width="400px"}
 date: 2018-09-02 12:00:00 +0400
 description: A Peaceful Getaway!
 tag: [Travel, Blogging, National Park]
+type: park
 ---
 
 Lassen National Park is a highly underrated park in my opinion. The park is like Yellowstone's forgotten second cousin which doesn't get the touristy attention it deserves. The park itself is huge and takes more than a short weekend to go over, just like most of the gorgeous national parks. The volcanic history, the ash ridden hikes and the bountiful fir trees just adds more magic to the already scenic park.  
