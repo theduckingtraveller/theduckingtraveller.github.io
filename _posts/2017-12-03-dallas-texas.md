@@ -6,6 +6,7 @@ img: dallas_5.jpg {:height="750px" width="400px"}
 date: 2017-12-03 12:00:00 +0300
 description: Solo Tripping in Texas
 tag: [Travel, Blogging, Mountains]
+type: cities
 ---
 
 If I had to define Texas in one word, it would be BIG! Everything in this lone star state is ginormous! The roads have more lanes, the cars are bigger even the quantity of food in restaurants is massive. I was in El Paso a few months ago and even in the small city things were so different from that in California.

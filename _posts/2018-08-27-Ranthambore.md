@@ -6,6 +6,7 @@ img: ran1.jpg {:height="750px" width="400px"}
 date: 2018-08-27 12:00:00 +0300
 description: Tiger Safari!
 tag: [Travel, Blogging, Forest, Culture]
+type: india
 ---
 
 My relationship with wildlife and national parks is long and pleasant. Each time I get to see wild animals in their habitat, it makes my heart soar! Ranthambore was a very special experience for me as it was the first time I saw a Tiger in the wild! Those majestic yet shy beasts are really hard to spot but if you do, you have the story of your life!!
