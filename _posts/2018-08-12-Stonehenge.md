@@ -6,6 +6,7 @@ img: stone2.jpg {:height="750px" width="400px"}
 date: 2018-08-12 12:00:00 +0300
 description: Feeling One with the Druids
 tag: [Travel, Blogging, Wonders]
+type: others
 ---
 
 The Stonehenge is one of the 7 wonders of the world as you might already know. If it isn't already on your bucket list, it needs to go there immediately. The experience of physically seeing this mystery gets your mind thinking of the vast possibilities of the how it got there and the why. This 3000-year-old historic monument is so mysterious, we still don't know its purpose or how it got there!
