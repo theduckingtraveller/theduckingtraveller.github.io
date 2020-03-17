@@ -4,7 +4,7 @@ layout: main
 
 {% for post in paginator.posts %}
   <div class="chapter">
-    <a href="{{post.url | prepend: site.baseurl}}">
+    <a href="{{post.url | prepend: site.baseurl}}" target="_blank">
       {% if post.img %}
       <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
       {% endif %}
