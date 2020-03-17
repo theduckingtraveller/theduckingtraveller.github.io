@@ -6,7 +6,7 @@ img: arch1.jpg {:height="750px" width="400px"}
 date: 2019-11-25 12:55:00 +0300
 description: Heart of Utah
 tag: [Travel, Blogging, Mountains]
-type: parks
+type: park
 ---
 
 The magic that lies in West Texas is definitely felt in El Paso or ‘The Sun City’. The city lies near the United States – Mexico border and the culture of Mexico can surely be felt here. There are a ton of things to do in and around the city. From taking a tram to the top of Franklin mountain to having a host of dive bars to chill in at night, there is little time to waste here. El Paso is a wonderful weekend destination and it is more special to me because a dear friend of mine who lives here gave me a tour of the city.
