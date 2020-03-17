@@ -1,5 +1,5 @@
 ---
-sortingnumber: 1
+sortingnumber: 24
 layout: post
 title: "Long Weekend in Bryce and Antelope Canyon"
 img: bryce.jpg {:height="750px" width="400px"}
