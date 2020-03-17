@@ -1,9 +1,9 @@
 ---
 sortingnumber: 1
 layout: post
-title: "4 day trip to Bryce and Antelope Canyon"
+title: "Long Weekend in Bryce and Antelope Canyon"
 img: bryce.jpg {:height="750px" width="400px"}
-date: 2019-07-4 12:55:00 +0300
+date: 2019-07-04 12:55:00 +0300
 description: Bryce and Antelope Canyon
 tag: [Travel, Blogging, Mountains]
 type: park
