@@ -3868,11 +3868,11 @@ blockquote {
   border-left: 3px solid #c25b6c;
   padding-left: 2rem;
   margin: 0 0 1.75rem;
-  color: #333333;
+  color: #1C1C1C;
 }
 
 blockquote p {
-  color: #333333;
+  color: #1C1C1C;
   font-size: 1.2rem;
 }
 
@@ -3939,7 +3939,7 @@ cite {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: #1c1c1c;
+  background-color: #C2C5CC;
   z-index: 1;
 }
 
@@ -4085,7 +4085,7 @@ cite {
   padding: 1.35rem 3rem;
   -webkit-border-radius: 2.5rem;
           border-radius: 2.5rem;
-  background-color: #333333;
+  background-color: #1F1F1F;
   color: #6e6e6e;
   border: none;
   outline: none;
@@ -4149,7 +4149,7 @@ cite {
 .top {
   position: fixed;
   bottom: 25px;
-  background-color: #333333;
+  background-color: #1C1C1C;
   -webkit-border-radius: 0.3rem;
           border-radius: 0.3rem;
   color: #ffffff;
@@ -4199,7 +4199,7 @@ cite {
   list-style: none;
   margin: 0;
   text-align: center;
-  border-bottom: 1px solid #333333;
+  border-bottom: 1px solid #1C1C1C;
 }
 
 .social_footer li {
