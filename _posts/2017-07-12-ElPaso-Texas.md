@@ -11,7 +11,7 @@ type: cities
 
 The magic that lies in West Texas is definitely felt in El Paso or ‘The Sun City’. The city lies near the United States – Mexico border and the culture of Mexico can surely be felt here. There are a ton of things to do in and around the city. From taking a tram to the top of Franklin mountain to having a host of dive bars to chill in at night, there is little time to waste here. El Paso is a wonderful weekend destination and it is more special to me because a dear friend of mine who lives here gave me a tour of the city.
 
-![image1]({{site.baseurl}}/assets/img/el_paso_1.jpg){:max-width: 100%;height: auto}
+![image1]({{site.baseurl}}/assets/img/el_paso_1.jpg){:height="400px" width="440px"}
 
 One place that I would suggest is to go on the scenic overlook drive. You can see the Mexico border and miles into Mexico. You get a really nice view of the city as well.  The Wyler Aerial Tramway is a destination inside Franklin Mountain State Park which gives really panoramic views of the city. There are various hikes and trails inside the park which range from easy to strenuous. The best part about the park is that you are never too far from the city.
 
