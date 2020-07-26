@@ -33,17 +33,17 @@ There are two national parks located not too far from El Paso. Make sure to carr
 
 What felt like the middle of nowhere, the landscape deserted and barren, we were driving to the biggest caves in the world. The Carlsbad Caverns National Park is a 2-hour drive from El Paso. You cross the mighty Guadalupe Mountain National Park on your way here.
 
-![image2]({{site.baseurl}}/assets/img/el_paso_2.jpg){:height="600px" width="340px"}
+![image2]({{site.baseurl}}/assets/img/el_paso_2.jpg){:height="340px" width="600px"}
 
 We entered the visitors’ centre and obviously couldn’t see the caves yet but my mind was really excited wondering what was in store for us. This was my first cave exploration so I was looking forward to it.
 
 It is amazing how the caves, located miles from any major city, was even discovered! There are two ways to reach the main room in the caves: 1. The lazy take-the-elevator to the main room way or 2. Hike down the mountains straight into the mouth of the caves way. It is pretty obvious we hiked down.
 
-![image3]({{site.baseurl}}/assets/img/el_paso_3.jpg){:height="600px" width="340px"}
+![image3]({{site.baseurl}}/assets/img/el_paso_3.jpg){:height="340px" width="600px"}
 
 The entire hike down takes about 1.5 to 2 hrs to complete but trust me, it is worth the effort. There are warning signs displayed everywhere about how strenuous the hike is. It is tiring and although it is not more than a 2 mi round trip, the steep incline/decline does leave you stopping for brakes.
 
-![image4]({{site.baseurl}}/assets/img/el_paso_4.jpg){:height="800px" width="840px"}
+![image4]({{site.baseurl}}/assets/img/el_paso_4.jpg){:height="340px" width="600px"}
 
 The trail is barely lit and the caves haven’t been tampered with and have been left in their natural state. This gives them a rustic and almost mystical feel. The stalagmites and stalactites weighing almost a few tons were a sight to see. The draperies on the ceiling looked like Lord Voldemort was making an appearance here.
 
