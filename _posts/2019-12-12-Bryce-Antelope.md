@@ -85,7 +85,7 @@ The walking is at a relatively fast pace so you don't get to spend a lot of time
 
 This was the last day of our trip and after the canyon tour, we made our way back to Las Vegas. On our way back, we stopped at "Coral Pink Sand Dunes". It is along the way - about 1.5 hours from Page and makes for a nice stop for a quick stretch.
 
-![image1]({{site.baseurl}}/assets/img/bryce/18.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/bryce/8.jpg){:height="400px" width="840px"}
 
 
 
