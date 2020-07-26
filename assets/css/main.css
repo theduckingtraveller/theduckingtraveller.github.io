@@ -3865,14 +3865,14 @@ p {
 blockquote {
   font-size: 1.2rem;
   font-style: italic;
-  border-left: 3px solid #d4d0c7;
+  border-left: 3px solid #c25b6c;
   padding-left: 2rem;
   margin: 0 0 1.75rem;
-  color: #d4d0c7;
+  color: #1C1C1C;
 }
 
 blockquote p {
-  color: #d4d0c7;
+  color: #1C1C1C;
   font-size: 1.2rem;
 }
 
@@ -3939,7 +3939,7 @@ cite {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: #d4d0c7;
+  background-color: #C2C5CC;
   z-index: 1;
 }
 
@@ -3967,7 +3967,7 @@ cite {
 }
 
 #banner .content {
-  padding: 12rem 5rem 12rem 5rem;
+  padding: 12rem 0 12rem 0;
 }
 
 #banner .content .title, #banner .content .sub_title {
@@ -3989,7 +3989,7 @@ cite {
 }
 
 .chapters {
-  padding: 2rem 2rem;
+  padding: 2rem 0;
 }
 
 .chapters .chapter {
@@ -4010,6 +4010,7 @@ cite {
 
 .chapters .chapter img {
   width: 100%;
+  vertical-align: middle;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
 }
@@ -4033,7 +4034,7 @@ cite {
 .chapters .chapter_inner .chapter_number {
   font-size: 0.9rem;
   text-transform: uppercase;
-  margin: 1rem 0 1rem 0;
+  margin: 0 0 1rem 0;
 }
 
 .chapters .chapter_inner .chapter_number::after {
@@ -4084,7 +4085,7 @@ cite {
   padding: 1.35rem 3rem;
   -webkit-border-radius: 2.5rem;
           border-radius: 2.5rem;
-  background-color: #d4d0c7;
+  background-color: #1F1F1F;
   color: #6e6e6e;
   border: none;
   outline: none;
@@ -4148,7 +4149,7 @@ cite {
 .top {
   position: fixed;
   bottom: 25px;
-  background-color: #d4d0c7;
+  background-color: #1C1C1C;
   -webkit-border-radius: 0.3rem;
           border-radius: 0.3rem;
   color: #ffffff;
@@ -4190,7 +4191,7 @@ cite {
 }
 
 .main_footer {
-  background-color: #d4d0c7;
+  background-color: #1c1c1c;
 }
 
 .social_footer {
@@ -4198,7 +4199,7 @@ cite {
   list-style: none;
   margin: 0;
   text-align: center;
-  border-bottom: 1px solid #d4d0c7;
+  border-bottom: 1px solid #1C1C1C;
 }
 
 .social_footer li {
@@ -4537,7 +4538,7 @@ cite {
 #tags h1 {
   text-align: center;
   margin: 2rem 0 3rem;
-  color: #767676;
+  color: #262626;
 }
 
 #tags .tags {
@@ -4813,7 +4814,7 @@ cite {
 
 @media only screen and (max-width: 768px) {
   #banner .content {
-    padding: 7rem 7rem;
+    padding: 7rem 0;
   }
   #banner .content .title {
     font-size: 2.5rem;
