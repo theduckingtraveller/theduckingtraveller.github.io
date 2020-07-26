@@ -17,7 +17,7 @@ The best way to start your trip is to fly into either Las Vegas or Phoenix - I p
 
 You can rent a car from Las Vegas Airport and drive to either Springdale or Orderville, Utah on day1. We booked an Airbnb for 2 night at Orderville. Although it is 1 hour away from the Visitor Center, Orderville has a cute downtown area with really good Mexican food places.
 
-#### Bryce Canyon National Park:
+# Bryce Canyon National Park:
 
 
 
@@ -39,23 +39,27 @@ You can rent a car from Las Vegas Airport and drive to either Springdale or Orde
 ![image1]({{site.baseurl}}/assets/img/bryce/7.jpg){:height="400px" width="840px"}
 
 
-#### Horseshoe Bend
+# Horseshoe Bend
 
 ![image1]({{site.baseurl}}/assets/img/bryce/9.jpg)
 
-
-From Orderville, we started to make our way to Page,AZ which is about an hour and half drive. The drive itself is very scenic and shorter in comparasion to the previous days hectic schedule.
+From Orderville, we started to make our way to Page, AZ which is about an hour and half drive. The drive itself is very scenic and shorter in comparison to the previous days hectic schedule. Around an hour into the trip, we made a pitstop at Wahweep. It has the most gorgeous views of the Wahweep bay.
 
 ![image1]({{site.baseurl}}/assets/img/bryce/10.jpg)
 
+I really loved just sitting still and taking in the gorgeous mountains, the vast clear blue sky and the crystal clear water below.
+
+One of the most important things to note to here and the biggest tip I can give is to keep track of the time. This is where two time zones collide and it can get quite confusing as to what the time really is.
 
 ![image1]({{site.baseurl}}/assets/img/bryce/12.jpg)
 
+Horseshoe bend is notably one of the most touristy location in Utah. I honestly thought it would be underwhelming but after the short hike to the bend, I was blown away. The bend is really breath-taking and truly worth the hype.
 
 ![image1]({{site.baseurl}}/assets/img/bryce/11.jpg){:height="400px" width="840px"}
 
+The bend is famous for its sunset and sunrise views. We stayed a while among the crowd. There were a LOT of people but everyone was very respectable and just enjoying the view.
 
-### Antelope Canyon National Park
+# Antelope Canyon National Park
 
 [Antelope Canyon Tour](https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/)
 
