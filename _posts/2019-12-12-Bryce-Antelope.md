@@ -49,26 +49,39 @@ From Orderville, we started to make our way to Page, AZ which is about an hour a
 
 I really loved just sitting still and taking in the gorgeous mountains, the vast clear blue sky and the crystal clear water below.
 
-One of the most important things to note to here and the biggest tip I can give is to keep track of the time. This is where two time zones collide and it can get quite confusing as to what the time really is.
+One of the most important things to note to here and the biggest tip I can give is to keep track of the time. This is where two time zones collide and it can get quite confusing as to what the time really is. The Horseshoe bend is about a 5 minute drive from downtown Page.
 
 ![image1]({{site.baseurl}}/assets/img/bryce/12.jpg)
 
-Horseshoe bend is notably one of the most touristy location in Utah. I honestly thought it would be underwhelming but after the short hike to the bend, I was blown away. The bend is really breath-taking and truly worth the hype.
+Horseshoe bend is notably one of the most touristy location in Utah. I honestly thought it would be underwhelming but after the short 0.6 mile one-way hike to the bend, I was blown away. The bend is really breath-taking and truly worth the hype. There is a parking lot at the start of the hike. The parking fee for vehicles is $10USD.
 
 ![image1]({{site.baseurl}}/assets/img/bryce/11.jpg){:height="400px" width="840px"}
 
 The bend is famous for its sunset and sunrise views. We stayed a while among the crowd. There were a LOT of people but everyone was very respectable and just enjoying the view.
 
+For day 2, we rented another Airbnb in Page.
+
 # Antelope Canyon National Park
+
+The Antelope Canyons are about a 15 minute drive from downtown Page.
 
 [Antelope Canyon Tour](https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/)
 
+There are two walking and guided tours of the Antelope Canyon - The Upper and Lower Canyon Tours. Both of these tours are quite similar and equally wonderful. I went on the lower canyon hike and similar to the horseshoe bend, had low expectations but was very surprised at how pretty the canyons are!
+
 ![image1]({{site.baseurl}}/assets/img/bryce/13.jpg){:height="400px" width="840px"}
+
+For the lower canyon, there is a steep drop and people with a phobia of heights are recommended to steer clear of this hike. Bookings for the guided-tour sell out really fast so I highly recommend buying your tickets in advance. It usually costs around $40USD per person. We booked Ken's Tour and our guide was very knowledgeable and friendly.The hikes are 1mile round trip and usually takes about 1 hour to complete.
 
 ![image1]({{site.baseurl}}/assets/img/bryce/14.jpg){:height="400px" width="840px"}
 
+The walking is at a relatively fast pace so you don't get to spend a lot of time really admiring the unique formations in the rocks but it is still a unique experience. There are many slots throughout the day and the noon spot is the most coveted one and sell out first.
+
 ![image1]({{site.baseurl}}/assets/img/bryce/15.jpg){:height="400px" width="840px"}
 
+This was the last day of our trip and after the canyon tour, we made our way back to Las Vegas. On our way back, we stopped at "Coral Pink Sand Dunes". It is along the way - about 1.5 hours from Page and makes for a nice stop for a quick stretch.
+
+![image1]({{site.baseurl}}/assets/img/bryce/18.jpg){:height="400px" width="840px"}
 
 –
 
