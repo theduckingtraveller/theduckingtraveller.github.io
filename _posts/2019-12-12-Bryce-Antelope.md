@@ -79,7 +79,7 @@ For the lower canyon, there is a steep drop and people with a phobia of heights 
 
 ![image1]({{site.baseurl}}/assets/img/bryce/14.jpg){:height="400px" width="840px"}
 
-The walking is at a relatively fast pace so you don't get to spend a lot of time really admiring the unique formations in the rocks but it is still a unique experience. There are many slots throughout the day and the noon spot is the most coveted one and sell out first.
+The walking is at a relatively fast pace so you don't get to spend a lot of time really admiring the unique formations in the rocks but it is still a distinctive experience. There are many slots throughout the day and the noon spot is the most coveted one and sell out first.
 
 ![image1]({{site.baseurl}}/assets/img/bryce/15.jpg){:height="400px" width="840px"}
 
