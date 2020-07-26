@@ -11,7 +11,7 @@ type: cities
 
 The magic that lies in West Texas is definitely felt in El Paso or ‘The Sun City’. The city lies near the United States – Mexico border and the culture of Mexico can surely be felt here. There are a ton of things to do in and around the city. From taking a tram to the top of Franklin mountain to having a host of dive bars to chill in at night, there is little time to waste here. El Paso is a wonderful weekend destination and it is more special to me because a dear friend of mine who lives here gave me a tour of the city.
 
-![image1]({{site.baseurl}}/assets/img/el_paso_1.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/el_paso_1.jpg){:max-width: 100%;height: auto}
 
 One place that I would suggest is to go on the scenic overlook drive. You can see the Mexico border and miles into Mexico. You get a really nice view of the city as well.  The Wyler Aerial Tramway is a destination inside Franklin Mountain State Park which gives really panoramic views of the city. There are various hikes and trails inside the park which range from easy to strenuous. The best part about the park is that you are never too far from the city.
 
@@ -33,13 +33,13 @@ There are two national parks located not too far from El Paso. Make sure to carr
 
 What felt like the middle of nowhere, the landscape deserted and barren, we were driving to the biggest caves in the world. The Carlsbad Caverns National Park is a 2-hour drive from El Paso. You cross the mighty Guadalupe Mountain National Park on your way here.
 
-![image2]({{site.baseurl}}/assets/img/el_paso_2.jpg){:height="800px" width="840px"}
+![image2]({{site.baseurl}}/assets/img/el_paso_2.jpg){:height="500px" width="540px"}
 
 We entered the visitors’ centre and obviously couldn’t see the caves yet but my mind was really excited wondering what was in store for us. This was my first cave exploration so I was looking forward to it.
 
 It is amazing how the caves, located miles from any major city, was even discovered! There are two ways to reach the main room in the caves: 1. The lazy take-the-elevator to the main room way or 2. Hike down the mountains straight into the mouth of the caves way. It is pretty obvious we hiked down.
 
-![image3]({{site.baseurl}}/assets/img/el_paso_3.jpg){:height="800px" width="840px"}
+![image3]({{site.baseurl}}/assets/img/el_paso_3.jpg){:height="500px" width="540px"}
 
 The entire hike down takes about 1.5 to 2 hrs to complete but trust me, it is worth the effort. There are warning signs displayed everywhere about how strenuous the hike is. It is tiring and although it is not more than a 2 mi round trip, the steep incline/decline does leave you stopping for brakes.
 
