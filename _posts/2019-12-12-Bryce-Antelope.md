@@ -9,50 +9,54 @@ tag: [Travel, Blogging, Mountains]
 type: park
 ---
 
-The magic that lies in West Texas is definitely felt in El Paso or ‘The Sun City’. The city lies near the United States – Mexico border and the culture of Mexico can surely be felt here. There are a ton of things to do in and around the city. From taking a tram to the top of Franklin mountain to having a host of dive bars to chill in at night, there is little time to waste here. El Paso is a wonderful weekend destination and it is more special to me because a dear friend of mine who lives here gave me a tour of the city.
+Bryce and Antelope Canyon have been on my list for quite some time now. I saw a images of the 'Horseshoe Bend' on Instagram and instantly fell in love. The short trip can get exhausting but a long weekend is plenty of time to visit the parks and really take the nature in. If you have more time on your hands, this trip can easily be coupled with Zion Nation Park as well. I have spoken in detail about Zion in another post that you can find here - [Zion National Park](https://theduckingtraveller.com/zion-park/)
 
-![image1]({{site.baseurl}}/assets/img/el_paso_1.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/bryce/1.jpg){:height="400px" width="840px"}
+
+The best way to start your trip is to fly into either Las Vegas or Phoenix - I personally recommend Las Vegas as there is just so much to do there if you have a spare day or two. The drive to Bryce Canyon is approximately 4 hours from Vegas.
+
+You can rent a car from Las Vegas Airport and drive to either Springdale or Orderville, Utah on day1.
 
 
-## National Parks in the Area:
 
-
-#### Carlsbad Caverns:
+#### Bryce Canyon National Park:
 
 [Map of the Park](https://www.nps.gov/cave/planyourvisit/upload/cave_map.pdf)
 
 
-![image2]({{site.baseurl}}/assets/img/el_paso_2.jpg){:height="800px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/bryce/2.jpg){:height="400px" width="840px"}
 
 
-![image3]({{site.baseurl}}/assets/img/el_paso_3.jpg){:height="800px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/bryce/3.jpg){:height="400px" width="840px"}
 
 
-![image4]({{site.baseurl}}/assets/img/el_paso_4.jpg){:height="800px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/bryce/4.jpg){:height="400px" width="840px"}
 
 
-![image5]({{site.baseurl}}/assets/img/el_paso_5.jpg){:height="800px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/bryce/5.jpg){:height="400px" width="840px"}
 
 
-![image6]({{site.baseurl}}/assets/img/el_paso_6.jpg){:height="800px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/bryce/7.jpg){:height="400px" width="840px"}
 
 
-#### White Sand National Park:
+#### Horseshoe Bend
 
 [Dunes Drive Map](https://www.nps.gov/whsa/planyourvisit/upload/Dunes_Drive_Map_8_11_16_-870KB_PDF.pdf)
 
 
-![image7]({{site.baseurl}}/assets/img/el_paso_7.jpg){:height="800px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/bryce/12.jpg){:height="400px" width="840px"}
 
 
-![image8]({{site.baseurl}}/assets/img/el_paso_8.jpg){:height="800px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/bryce/11.jpg){:height="400px" width="840px"}
 
 
+### Antelope Canyon National Park
 
+![image1]({{site.baseurl}}/assets/img/bryce/13.jpg){:height="400px" width="840px"}
 
-![image9]({{site.baseurl}}/assets/img/el_paso_9.jpg){:height="800px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/bryce/14.jpg){:height="400px" width="840px"}
 
-
+![image1]({{site.baseurl}}/assets/img/bryce/15.jpg){:height="400px" width="840px"}
 
 
 –
