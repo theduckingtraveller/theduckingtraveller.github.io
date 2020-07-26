@@ -33,7 +33,7 @@ There are two national parks located not too far from El Paso. Make sure to carr
 
 What felt like the middle of nowhere, the landscape deserted and barren, we were driving to the biggest caves in the world. The Carlsbad Caverns National Park is a 2-hour drive from El Paso. You cross the mighty Guadalupe Mountain National Park on your way here.
 
-![image2]({{site.baseurl}}/assets/img/el_paso_2.jpg){:height="340px" width="600px"}
+<img src="/assets/img/el_paso_2.jpg" alt="el_paso_2" title="Mountain" width="150" height="100" />
 
 We entered the visitors’ centre and obviously couldn’t see the caves yet but my mind was really excited wondering what was in store for us. This was my first cave exploration so I was looking forward to it.
 
