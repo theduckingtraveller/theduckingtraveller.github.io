@@ -21,7 +21,7 @@ You can rent a car from Las Vegas Airport and drive to either Springdale or Orde
 
 #### Bryce Canyon National Park:
 
-[Map of the Park](https://www.nps.gov/cave/planyourvisit/upload/cave_map.pdf)
+[Map of the Park](https://images.saymedia-content.com/.image/cs_srgb/MTQ4NTAyNTE4NjQzNTY2MTA0/bryce-canyon-mp-map_npsxx.pdf)
 
 
 ![image1]({{site.baseurl}}/assets/img/bryce/2.jpg){:height="400px" width="840px"}
@@ -41,16 +41,17 @@ You can rent a car from Las Vegas Airport and drive to either Springdale or Orde
 
 #### Horseshoe Bend
 
-[Dunes Drive Map](https://www.nps.gov/whsa/planyourvisit/upload/Dunes_Drive_Map_8_11_16_-870KB_PDF.pdf)
 
 
-![image1]({{site.baseurl}}/assets/img/bryce/12.jpg =250x250)
+![image1]({{site.baseurl}}/assets/img/bryce/12.jpg | height=100)
 
 
 ![image1]({{site.baseurl}}/assets/img/bryce/11.jpg){:height="400px" width="840px"}
 
 
 ### Antelope Canyon National Park
+
+[Antelope Canyon Tour](https://navajonationparks.org/guided-tour-operators/antelope-canyon-tour-operators/)
 
 ![image1]({{site.baseurl}}/assets/img/bryce/13.jpg){:height="400px" width="840px"}
 
