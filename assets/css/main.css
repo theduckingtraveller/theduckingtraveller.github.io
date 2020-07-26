@@ -4084,7 +4084,7 @@ cite {
   padding: 1.35rem 3rem;
   -webkit-border-radius: 2.5rem;
           border-radius: 2.5rem;
-  background-color: #1F1F1F;
+  background-color: #d4d0c7;
   color: #6e6e6e;
   border: none;
   outline: none;
@@ -4148,7 +4148,7 @@ cite {
 .top {
   position: fixed;
   bottom: 25px;
-  background-color: #000000;
+  background-color: #d4d0c7;
   -webkit-border-radius: 0.3rem;
           border-radius: 0.3rem;
   color: #ffffff;
@@ -4190,7 +4190,7 @@ cite {
 }
 
 .main_footer {
-  background-color: #333333;
+  background-color: #d4d0c7;
 }
 
 .social_footer {
@@ -4198,7 +4198,7 @@ cite {
   list-style: none;
   margin: 0;
   text-align: center;
-  border-bottom: 1px solid #333333;
+  border-bottom: 1px solid #d4d0c7;
 }
 
 .social_footer li {
