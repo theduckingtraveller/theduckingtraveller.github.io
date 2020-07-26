@@ -44,7 +44,7 @@ You can rent a car from Las Vegas Airport and drive to either Springdale or Orde
 [Dunes Drive Map](https://www.nps.gov/whsa/planyourvisit/upload/Dunes_Drive_Map_8_11_16_-870KB_PDF.pdf)
 
 
-![image1]({{site.baseurl}}/assets/img/bryce/12.jpg=250x250)
+![image1]({{site.baseurl}}/assets/img/bryce/12.jpg =250x250)
 
 
 ![image1]({{site.baseurl}}/assets/img/bryce/11.jpg){:height="400px" width="840px"}
