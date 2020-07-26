@@ -29,11 +29,11 @@ Along with the many hoodoos, Bryce Canyon also offers one of the best locations 
 
 ![image1]({{site.baseurl}}/assets/img/bryce/3.jpg){:height="400px" width="840px"}
 
-Some of the more popular spots to visit in the park include - Sunset and Sunrise points, Inspiration point and Bryce point. There are several hidden hikes within the hoodoos that you can take as well. You can also walk along the rim while taking in the gorgeous view that stretch beyond the horizons. The Fairyland Loop trail is one of the more popular hikes  
+Some of the more popular spots to visit in the park include - Sunset and Sunrise points, Inspiration point and Bryce point. There are several hidden hikes within the hoodoos that you can take as well. You can also walk along the rim while taking in the gorgeous view that stretches beyond the horizons. The Fairyland Loop trail(takes about 3 hours to complete and is tagged as moderate) and Peek-a-boo(shorter but more crowd than the Fairyland) are the more popular hikes.  
 
 ![image1]({{site.baseurl}}/assets/img/bryce/4.jpg){:height="400px" width="840px"}
 
-Inspiration point has several telescopes set after sunset for travellers to view different celestial objects. A ranger is usually present to walk you through what is visible.
+The Queens Garden is also very popular but it was under renovation when we were visiting. It is also a really popular 3mi hike. Inspiration point has several telescopes set after sunset for travellers to view different celestial objects. A ranger is usually present to walk you through what is visible.
 
 ![image1]({{site.baseurl}}/assets/img/bryce/5.jpg){:height="400px" width="840px"}
 
