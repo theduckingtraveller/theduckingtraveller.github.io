@@ -3995,7 +3995,7 @@ cite {
 .chapters .chapter {
   position: relative;
   float: center;
-  width: 50%;
+  width: 60%;
   margin: 1% 0.5% 1% 0.5%;
   overflow: hidden;
   -webkit-transition: -webkit-transform 0.4s;
