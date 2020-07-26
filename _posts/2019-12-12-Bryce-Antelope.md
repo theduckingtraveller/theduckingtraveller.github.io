@@ -47,17 +47,17 @@ Farther into the park, you will find the Natural Bridge, a rock arch that was fo
 
 ![image1]({{site.baseurl}}/assets/img/bryce/9.jpg)
 
-From Orderville, we started to make our way to Page, AZ which is about an hour and half drive. The drive itself is very scenic and shorter in comparison to the previous days hectic schedule. Around an hour into the trip, we made a pitstop at Wahweep. It has the most gorgeous views of the Wahweep bay.
+From Orderville, we started to make our way to Page, AZ which is about an hour and half drive. The drive itself is very scenic and shorter in comparison to the previous days hectic schedule. Around an hour into the trip, we made a pitstop at Wahweap. The 'Wahweap Overlook' has the most gorgeous views of the Wahweap bay.
 
 ![image1]({{site.baseurl}}/assets/img/bryce/10.jpg)
 
 I really loved just sitting still and taking in the gorgeous mountains, the vast clear blue sky and the crystal clear water below.
 
-One of the most important things to note to here and the biggest tip I can give is to keep track of the time. This is where two time zones collide and it can get quite confusing as to what the time really is. The Horseshoe bend is about a 5 minute drive from downtown Page.
+One of the most important things to note to here and the biggest tip I can give is to keep track of the time. This is where two time zones collide and it can get quite confusing as to what the time really is.
 
 ![image1]({{site.baseurl}}/assets/img/bryce/12.jpg)
 
-Horseshoe bend is notably one of the most touristy location in Utah. I honestly thought it would be underwhelming but after the short 0.6 mile one-way hike to the bend, I was blown away. The bend is really breath-taking and truly worth the hype. There is a parking lot at the start of the hike. The parking fee for vehicles is $10USD.
+The Horseshoe bend is about a 5 minute drive from downtown Page. Horseshoe bend is notably one of the most touristy location in Utah. I honestly thought it would be underwhelming but after the short 0.6 mile one-way hike to the bend, I was blown away. The bend is really breath-taking and truly worth the hype. There is a parking lot at the start of the hike. The parking fee for vehicles is $10USD.
 
 ![image1]({{site.baseurl}}/assets/img/bryce/11.jpg){:height="400px" width="840px"}
 
@@ -75,7 +75,7 @@ There are two walking and guided tours of the Antelope Canyon - The Upper and Lo
 
 ![image1]({{site.baseurl}}/assets/img/bryce/13.jpg){:height="400px" width="840px"}
 
-For the lower canyon, there is a steep drop and people with a phobia of heights are recommended to steer clear of this hike. Bookings for the guided-tour sell out really fast so I highly recommend buying your tickets in advance. It usually costs around $40USD per person. We booked Ken's Tour and our guide was very knowledgeable and friendly.The hikes are 1mile round trip and usually takes about 1 hour to complete.
+For the lower canyon, there is a steep drop and people with a phobia of heights are recommended to steer clear of this hike. Bookings for the guided-tour sell out really fast so I highly recommend buying your tickets in advance. It usually costs around $40USD per person. We booked Ken's Tour and our guide was very knowledgeable and friendly. The hikes are 1mile round trip and usually takes about 1 hour to complete.
 
 ![image1]({{site.baseurl}}/assets/img/bryce/14.jpg){:height="400px" width="840px"}
 
