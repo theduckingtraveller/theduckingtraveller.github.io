@@ -3993,7 +3993,7 @@ cite {
 }
 
 .chapters .chapter {
-  position: center;
+  position: relative;
   float: center;
   width: 60%;
   margin: 5% 20% 5% 20%;
