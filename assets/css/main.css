@@ -3868,11 +3868,11 @@ blockquote {
   border-left: 3px solid #d4d0c7;
   padding-left: 2rem;
   margin: 0 0 1.75rem;
-  color: #000000;
+  color: #d4d0c7;
 }
 
 blockquote p {
-  color: #000000;
+  color: #d4d0c7;
   font-size: 1.2rem;
 }
 
