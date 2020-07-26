@@ -3865,10 +3865,10 @@ p {
 blockquote {
   font-size: 1.2rem;
   font-style: italic;
-  border-left: 3px solid #000000;
+  border-left: 3px solid #2c5b6c;
   padding-left: 2rem;
   margin: 0 0 1.75rem;
-  color: #d4d0c7;
+  color: #000000;
 }
 
 blockquote p {
@@ -4190,7 +4190,7 @@ cite {
 }
 
 .main_footer {
-  background-color: #d4d0c7;
+  background-color: #333333;
 }
 
 .social_footer {
@@ -4198,7 +4198,7 @@ cite {
   list-style: none;
   margin: 0;
   text-align: center;
-  border-bottom: 1px solid #d4d0c7;
+  border-bottom: 1px solid #333333;
 }
 
 .social_footer li {
