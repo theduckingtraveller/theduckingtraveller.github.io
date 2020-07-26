@@ -4813,7 +4813,7 @@ cite {
 
 @media only screen and (max-width: 768px) {
   #banner .content {
-    padding: 7rem 0;
+    padding: 7rem 7rem;
   }
   #banner .content .title {
     font-size: 2.5rem;
