@@ -11,7 +11,7 @@ type: park
 
 Bryce and Antelope Canyon have been on my list for quite some time now. I saw a images of the 'Horseshoe Bend' on Instagram and instantly fell in love. The short trip can get exhausting but a long weekend is plenty of time to visit the parks and really take the nature in. If you have more time on your hands, this trip can easily be coupled with Zion Nation Park as well. I have spoken in detail about Zion in another post that you can find here - [Zion National Park](https://theduckingtraveller.com/zion-park/)
 
-![image1]({{site.baseurl}}/assets/img/bryce/1.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/bryce/1.jpg =250x250)
 
 The best way to start your trip is to fly into either Las Vegas or Phoenix - I personally recommend Las Vegas as there is just so much to do there if you have a spare day or two. The drive to Bryce Canyon is approximately 4 hours from Vegas.
 
@@ -44,7 +44,7 @@ You can rent a car from Las Vegas Airport and drive to either Springdale or Orde
 [Dunes Drive Map](https://www.nps.gov/whsa/planyourvisit/upload/Dunes_Drive_Map_8_11_16_-870KB_PDF.pdf)
 
 
-![image1]({{site.baseurl}}/assets/img/bryce/12.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/bryce/12.jpg=250x250)
 
 
 ![image1]({{site.baseurl}}/assets/img/bryce/11.jpg){:height="400px" width="840px"}
