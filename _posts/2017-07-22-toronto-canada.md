@@ -6,7 +6,7 @@ img: toronto_1.jpg {:height="750px" width="400px"}
 date: 2017-07-22 12:55:00 +0300
 description: A Weekend in Canada's Biggest City
 tag: [Travel, Blogging, Mountains]
-type: cities
+type: international
 ---
 
 Toronto, one of the most popular urban cities in North America is a hub for business, arts, and culture. This metropolitan city has a charm and charisma of its own. I travelled here during April and the sun had just started burning a little brighter than it does in winter. I love spring and Toronto definitely lights up as summer starts to roll in. There are a ton of activities to do in and around the city and there won’t be a moment to spare.
