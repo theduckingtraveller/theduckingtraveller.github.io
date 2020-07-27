@@ -17,6 +17,8 @@ The best way to start your trip is to fly into either Las Vegas or Phoenix - I p
 
 You can rent a car from Las Vegas Airport and drive to either Springdale or Orderville, Utah on day1. We booked an Airbnb for 2 night at Orderville. Although it is 1 hour away from the Visitor Center, Orderville has a cute downtown area with really good Mexican food places.
 
+You can visit these locations almost anytime through the year. Summer(May to September) is always a very popular time for many. To avoid the crowds, October or March/April prove to be really good times as the weather is still not as cold but the crowds are not as high too. 
+
 # Bryce Canyon National Park:
 
 Located in the south of Utah, this park is one of the many boons that Utah has to offer. Bryce Canyon is famous for its many 'Hoodoos' i.e the irregular columns of rocks that you see in the pictures.
