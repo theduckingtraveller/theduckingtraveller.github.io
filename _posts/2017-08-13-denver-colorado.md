@@ -17,20 +17,20 @@ Here are a few of the innumerable things you could be doing when you visit the M
 
 
 
-### Denver Downtown:
+## Denver Downtown
 Downtown Denver is one of the liveliest downtown areas that I have been to. It is full of art, crafts, and music. The area has a lot of fun activities including brewery tours and shopping malls. A few places I would recommend are:
 
-####        1. Coors Field:
+### Coors Field
 
 ![image1]({{site.baseurl}}/assets/img/denver_1.jpg){:height="400px" width="840px"}
 
 The home ground for Colorado Rockies is one of the places where you can grab a glass of beer and relax on a Sunday. The stadium is very close to the Union Square station and 16th Street Mall. You can always visit these places after the game for some good food.
 
-####        2. 16th Street Mall:
+### 16th Street Mall
 
 16th street is a pedestrian road surrounded by great places to shop and eat. Located in the heart of downtown Denver, there is not a dull moment on the streets. You can find people playing music and performing on the streets, horse-carts carrying people on the roads and the general hustle-bustle of the tourists in the city. The FreeMallRide buses offer free bus services on the street so you don’t have to walk the entire way. There are over 50 restaurants and 300 local shops on this street alone.
 
-####        3. Capitol Hill:
+### Capitol Hill
 
 
 ![image2]({{site.baseurl}}/assets/img/denver_2.jpg){:height="600px" width="840px"}
@@ -38,19 +38,20 @@ The home ground for Colorado Rockies is one of the places where you can grab a g
 
 Located at the intersection of Broadway, Colfax Avenue, Downing Street and Seventh Avenue is the Capitol building. If you are in the city during 4th of July, this is the place to be. The firework show is wonderful and the downtown area is as always a treat.
 
-####        4. Confluence Park
+### Confluence Park
 
 If you feel nostalgic about water bodies and like going for a walk near the riverside, this is the place to go. There is green grass and a sidewalk to walk, run or cycle.
 
-### Places around Denver
-####  1. Lookout Mountain Overlook:
+## Places around Denver
+
+###  Lookout Mountain Overlook
 
 ![image3]({{site.baseurl}}/assets/img/denver_3.jpg){:height="800px" width="840px"}
 
 Daytime View from the Overlook
 Located at about 30 min drive from the city, you get one of the most mesmerizing views of the city lights. The skies are generally clear and you can gaze into the millions of lights above and below you.
 
-####   2. Mount Evans and the Scenic Byway
+### Mount Evans and the Scenic Byway
 
 ![image4]({{site.baseurl}}/assets/img/denver_4.jpg){:height="800px" width="840px"}
 
@@ -58,7 +59,7 @@ Mt Evans is the highest summit in the Front Range of the Rocky Mountains. It is 
 
 You can visit Echo lake park on your drive to Mt Evans. The picturesque lake is surrounded by majestic mountains on all sides and is very serene. There is a restaurant and a gift shop here. You can have a lunch picnic by the lake while enjoying the calm beauty of nature.
 
-####    3. Pikes Peak
+### Pikes Peak
 
 ![image5]({{site.baseurl}}/assets/img/denver_5.jpg){:height="300px" width="840px"}
 
@@ -67,7 +68,7 @@ Pikes Peak is the highest summit in the southern Front Range of the Colorado Roc
 
 When at Pikes Peak, be sure to get the really hot and fresh doughnuts along with some warm coffee. The lines can get really long but they are worth the wait. The doughnuts have been served here for more than a century and you will know why they are famous when you try one for yourself.
 
-####    4. Garden of the Gods:
+### Garden of the Gods
 
 ![image9]({{site.baseurl}}/assets/img/denver_9.jpg){:height="700px" width="740px"}
 
@@ -80,7 +81,7 @@ The sedimentary rocks are a popular tourist destination because of the bright re
 
 You can combine the Pikes Peak and Garden of the Gods in a one-day trip from Denver.
 
-####    5. Boulder, Colorado:
+### Boulder, Colorado
 
 This college town is located at a 40 min drive from Denver. There are wonderful places to eat and drink in the city. You can visit the University of Colorado, Boulder to witness beautiful architecture. The Rocky Mountain National Park is just a 1.5-hour drive from here.
 
@@ -94,6 +95,7 @@ Venice: If you are looking for an intimate family dining experience, the Venice 
 
 ![image8]({{site.baseurl}}/assets/img/denver_8.jpg){:height="600px" width="640px"}
 
+See what else you can do around Denver, Colorado here:
 
-
-For information on the Rockie Mountains National Park or about visiting Aspen during Summer, log into the National Park section of the website.
+<a href="https://theduckingtraveller.com/rocky-mountain/">Rocky Mountains National Park</a>  
+<a href="https://theduckingtraveller.com/aspen-and-glenwood/">Aspen during Summer</a>

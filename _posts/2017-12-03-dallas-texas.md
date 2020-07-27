@@ -15,9 +15,9 @@ My trip to Dallas was impromptu and short and since the tickets were really inex
 
 The airports are located about 45 minutes and since ride-sharing is really expensive here, the best way to get around the city is to rent a car at the airport.
 
-## Touristy things to see in Dallas:
+## Touristy things to see in Dallas
 
-### The Dallas Arboretum and Botanical Gardens:
+### The Dallas Arboretum and Botanical Gardens
 
 ![image2]({{site.baseurl}}/assets/img/dallas_2.jpeg){:height="850px" width="840px"}
 
@@ -60,7 +60,7 @@ A giant 30 ft eyeball in the middle of the city is just what the city was missin
 
 ### Mexican Food:
 
-RJ Mexican Cuisine –>
+- RJ Mexican Cuisine
 
 I love myself some good spicy Mexican food at all times of the day and night. If you are as much of a foodie as I am and love Mexican cuisine, you should stop for dinner at the RJ Mexican Cuisine. They serve delicious food in huge quantities and also provide a very calm and classy atmosphere with outdoor seating. It is located at the North Market Street in downtown Dallas.
 
@@ -68,19 +68,19 @@ I love myself some good spicy Mexican food at all times of the day and night. If
 
 Uptown has the best bars and clubs in Dallas. You can park your car at your hotel and hop bars exploring new themes and the culture of Dallas. The bars are vibrant, happening and have a really great crowd turn up even on weekdays. A few I really liked are:
 
-### Sambuca
+- Sambuca
 
 ![image9]({{site.baseurl}}/assets/img/dallas_9.jpg){:height="600px" width="840px"}
 
 If you like live music, good food, and great beer, Sambuca is the place to go. There is one in Uptown and another in Legacy drive in Plano. Both of them have great bands playing live country music and they take requests as well.
 
-### Concrete Cowboy
+- Concrete Cowboy
 
 ![image10]({{site.baseurl}}/assets/img/dallas_10.jpg){:height="600px" width="840px"}
 
 If you like listening and dancing to pop music, Concrete Cowboys is the place you should be at. It has a huge dance floor and a wide variety of drinks available. I really liked the atmosphere that they have here and the people seem like they are having a really good time.
 
-### The Rustic
+- The Rustic
 
 The Rustic is famous for its wide range of beers, live music, and outdoor seating. You can go here on any day and the crowd is just as high on energy as the weekend. I really liked the service here and the beer is served is huge goblet like glasses. They have a really good food selection including burgers and sandwiches. I would recommend spending an entire evening here just catching up with old friends or making new ones all while listening to extraordinary music!
 
