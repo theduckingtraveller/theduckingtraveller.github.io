@@ -98,4 +98,4 @@ Venice: If you are looking for an intimate family dining experience, the Venice 
 See what else you can do around Denver, Colorado here:
 
 <a href="https://theduckingtraveller.com/rocky-mountain/">Rocky Mountains National Park</a>  
-<a href="https://theduckingtraveller.com/aspen-and-glenwood/">Aspen during Summer</a>
+<a href="https://theduckingtraveller.com/aspen-and-glenwood/">Aspen and Glenwood Springs during Summer</a>
