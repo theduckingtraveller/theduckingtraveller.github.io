@@ -14,18 +14,20 @@ A 160mi drive from Denver, Aspen and Glenwood Springs are both gorgeous cities h
 
 Although Aspen is known for its winter sports, the city is just as splendid during summer. Must do things when you are here include:
 
-### Silver Queen Gondola:
+### Silver Queen Gondola
+
 For a wonderful view of Aspen from a height, you can take a Gondola ride to the top. The ride is primarily used in winter to get to the ski slopes. During summer, it is a great family activity. It takes about 20min to reach the top and there is a restaurant where you can have food and enjoy the view.
 
 ![image2]({{site.baseurl}}/assets/img/aspen_2.jpg){:height="500px" width="840px"}
 
 ### Gondola ride in Aspen
+
 The cost to ride the Gondola is $24 per person and the ride is as breathtaking as the destination itself. There is a host of hiking trails on the top and you can explore the mountains from 11,000 feet above sea level!
 
 
 ![image3]({{site.baseurl}}/assets/img/aspen_3.jpg){:height="350px" width="840px"}
 
-### Maroon Bells:
+### Maroon Bells
 
 A reflective lake, snow-clad mountains, beautiful greenery everywhere you look is the perfect recipe for any trek loving human and that is what Maroon Bells offers us.
 
@@ -44,7 +46,7 @@ The hike is a 1mi round trip and the terrain is very easy to walk on and is very
 
 ## Glenwood Springs
 
-### White Water Rafting:
+### White Water Rafting
 
 One of the most adventurous experience you can have when you are here is going white water rafting on the Colorado River. This should be on your list of things to do and trust me it is a lot of fun. If you are not a good swimmer or if this will be your first time choose the level 1 or 2 rapids. If you feel really confident, the level 3 rapids are extremely bumpy and will get your adrenaline flowing for sure.
 
@@ -52,13 +54,13 @@ One of the most adventurous experience you can have when you are here is going w
 
 There are a ton of white water rafting companies that provide level 1-6 rafting experiences for people of all ages. I choose the Whitewater Rafting LLC. They drove us to a location and caught the Rapids back to the main parking lot. The entire session from getting on a bus to the departure zone and back takes about 3 hours.
 
-### Hot Springs:
+### Hot Springs
 
 Glenwood Spring is famous for its year-long hot spring pool located at Glenwood Hot Spring Resort. This is the worlds largest hot spring pool and has been the same since 1888. You can go for a dip in the hot pool at the rate ranging from $14 to $25.
 
 There are many natural hot springs along the Colorado River where you can dip into as well. You can find these easily if you go white water rafting.
 
-### Hanging Lake:
+### Hanging Lake
 
 One of the most strenuous hikes you will ever complete is the Hanging Lake Trek. It is located 10mi from Glenwood spring and is a 2.4mi round trip hike. This may not seem like a lot but it has a steep incline and unpaved roads leading up to the turquoise blue lake. It takes about 3-4 hours to complete the hike so be sure to carry lots of fluids as it is very easy to get dehydrated here.
 
@@ -83,6 +85,6 @@ As I mentioned, the hike is very difficult and is very very steep. If you are no
 There are no restrooms or garbage disposal bins at the top so you need to be prepared on that front as well.
 
 
-### Georgetown:
+### Georgetown
 
 On your return trip back to Denver, I would recommend taking a break at Georgetown. This quirky little town was known for its mining industry but is now known for its Victorian architecture and will probably be the smallest downtown you have ever visited. They have a really tasty homemade ice cream store that you must check out.
