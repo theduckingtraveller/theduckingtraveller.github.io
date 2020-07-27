@@ -14,11 +14,9 @@ type: park
 ![image1]({{site.baseurl}}/assets/img/el_paso_1.jpg){:height="400px" width="840px"}
 
 
-## National Parks in the Area:
 
 
-
-#### Carlsbad Caverns:
+# Canyonlands National Park
 
 [Map of the Park](https://www.nps.gov/cave/planyourvisit/upload/cave_map.pdf)
 
@@ -39,7 +37,7 @@ type: park
 ![image6]({{site.baseurl}}/assets/img/el_paso_6.jpg){:height="800px" width="840px"}
 
 
-#### White Sand National Park:
+# Arches National Park
 
 [Dunes Drive Map](https://www.nps.gov/whsa/planyourvisit/upload/Dunes_Drive_Map_8_11_16_-870KB_PDF.pdf)
 
