@@ -6,7 +6,7 @@ img: Menu.jpeg {:height="750px" width="400px"}
 date: 2022-03-12 12:55:00 +0300
 description: Menu for Holi Party
 tag: [Travel, Blogging, Mountains]
-type: India
+type: india
 ---
 
 
