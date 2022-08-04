@@ -1,5 +1,5 @@
 ---
-sortingnumber: 13
+sortingnumber: 14
 layout: post
 title: "The Mysterious Stonehenge during Summer Equinox"
 img: stone2.jpg {:height="750px" width="400px"}

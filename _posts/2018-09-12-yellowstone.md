@@ -1,5 +1,5 @@
 ---
-sortingnumber: 17
+sortingnumber: 18
 layout: post
 title: "Yellowstone and Teton National Parks"
 img: ys.jpg {:height="750px" width="400px"}
