@@ -3523,7 +3523,7 @@ template {
 }
 
 .highlighter-rouge {
-  color: #e74b3c;
+  color: #ffffff04;
   font-weight: 400;
   border: 1px solid #607D8B;
   -webkit-border-radius: 3px;
@@ -3850,7 +3850,7 @@ template {
 body {
   font-family: "Lato", sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-color: #262626;
+  background-color: #F5F5DC;
   margin: 0;
 }
 
