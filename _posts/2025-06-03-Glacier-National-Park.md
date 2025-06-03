@@ -37,6 +37,9 @@ Hidden Lake Overlook
 ![image1]({{site.baseurl}}/assets/img/GlacierNP/5.jpg){:height="400px" width="840px"}
 
 
+Avalanche Lake
+
+
 
 Logan Pass
 
