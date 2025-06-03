@@ -11,57 +11,70 @@ type: park
 
 
 
-![image1]({{site.baseurl}}/assets/img/arches/1.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/1.jpg){:height="400px" width="840px"}
 
 
 
 
 # Glacier National Park
 
-[Map of the Park](https://www.nps.gov/cave/planyourvisit/upload/cave_map.pdf)
+[Map of the Park](https://www.nps.gov/glac/planyourvisit/maps.htm)
+
+
+Day 1:
+
+Sunset at Lake McDonald 
+![image1]({{site.baseurl}}/assets/img/GlacierNP/2.jpg){:height="400px" width="840px"}
 
 
 
-![image1]({{site.baseurl}}/assets/img/arches/2.jpg){:height="400px" width="840px"}
+Day 2: 
+
+Hidden Lake Overlook
+![image1]({{site.baseurl}}/assets/img/GlacierNP/3.jpg){:height="400px" width="840px"}
 
 
-![image1]({{site.baseurl}}/assets/img/arches/3.jpg){:height="400px" width="840px"}
-
-
-![image1]({{site.baseurl}}/assets/img/arches/5.jpg){:height="400px" width="840px"}
-
-
-![image1]({{site.baseurl}}/assets/img/arches/6.jpg){:height="400px" width="840px"}
-
-
-![image1]({{site.baseurl}}/assets/img/arches/7.jpg){:height="400px" width="840px"}
-
-
-# Arches National Park
-
-[Dunes Drive Map](https://www.nps.gov/whsa/planyourvisit/upload/Dunes_Drive_Map_8_11_16_-870KB_PDF.pdf)
-
-
-![image1]({{site.baseurl}}/assets/img/arches/8.jpg){:height="400px" width="840px"}
-
-
-![image1]({{site.baseurl}}/assets/img/arches/9.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/5.jpg){:height="400px" width="840px"}
 
 
 
-![image1]({{site.baseurl}}/assets/img/arches/10.jpg){:height="400px" width="840px"}
+Logan Pass
 
-![image1]({{site.baseurl}}/assets/img/arches/11.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/6.jpg){:height="400px" width="840px"}
 
-![image1]({{site.baseurl}}/assets/img/arches/12.jpg){:height="400px" width="840px"}
 
-![image1]({{site.baseurl}}/assets/img/arches/13.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/7.jpg){:height="400px" width="840px"}
 
-![image1]({{site.baseurl}}/assets/img/arches/14.jpg){:height="400px" width="840px"}
 
-![image1]({{site.baseurl}}/assets/img/arches/15.jpg){:height="400px" width="840px"}
+Avalanche Lake via trail of cedars
 
-![image1]({{site.baseurl}}/assets/img/arches/16.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/8.jpg){:height="400px" width="840px"}
+
+
+![image1]({{site.baseurl}}/assets/img/GlacierNP/9.jpg){:height="400px" width="840px"}
+
+Day 3:
+
+Hike day at Grinnell Glacier!
+
+![image1]({{site.baseurl}}/assets/img/GlacierNP/10.jpg){:height="400px" width="840px"}
+
+![image1]({{site.baseurl}}/assets/img/GlacierNP/11.jpg){:height="400px" width="840px"}
+
+![image1]({{site.baseurl}}/assets/img/GlacierNP/12.jpg){:height="400px" width="840px"}
+
+![image1]({{site.baseurl}}/assets/img/GlacierNP/13.jpg){:height="400px" width="840px"}
+
+![image1]({{site.baseurl}}/assets/img/GlacierNP/14.jpg){:height="400px" width="840px"}
+
+![image1]({{site.baseurl}}/assets/img/GlacierNP/15.jpg){:height="400px" width="840px"}
+
+![image1]({{site.baseurl}}/assets/img/GlacierNP/16.jpg){:height="400px" width="840px"}
+
+
+Day 4:
+
+Going to the Sun Road with multiple view points along the way
 
 
 
