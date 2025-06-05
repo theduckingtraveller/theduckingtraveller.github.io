@@ -1,0 +1,176 @@
+/* Base Typography */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Poppins:wght@400;500;600;700&display=swap');
+
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+:root {
+  --primary: #c0334a;
+  --primary-light: rgba(192, 51, 74, 0.1);
+  --dark: #1c1c1c;
+  --text: #525c65;
+  --text-light: #667085;
+  --background: #f5f5f7;
+  --white: #ffffff;
+  --transition: all 0.3s ease;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background-color: var(--background);
+  color: var(--text);
+  line-height: 1.6;
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
+  color: var(--dark);
+  line-height: 1.3;
+  margin-top: 0;
+}
+
+/* Modern Card Design */
+.chapters .chapter {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--white);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  transition: var(--transition);
+  margin-bottom: 2rem;
+}
+
+.chapters .chapter:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.chapters .chapter img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  transition: var(--transition);
+}
+
+.chapters .chapter_inner {
+  padding: 1.5rem;
+  background: linear-gradient(to top, rgba(0,0,0,0.8), transparent);
+}
+
+.chapters .chapter_number {
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  color: var(--primary);
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  letter-spacing: 1px;
+}
+
+.chapters .chapter_title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--white);
+  margin-bottom: 1rem;
+}
+
+/* Post Styles */
+.post {
+  background: var(--white);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  margin-bottom: 2rem;
+}
+
+.post header {
+  position: relative;
+}
+
+.post header img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+
+.post_meta {
+  font-size: 0.875rem;
+  color: var(--text-light);
+  margin-bottom: 0.5rem;
+}
+
+.post_title {
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--dark);
+  margin-bottom: 1rem;
+}
+
+.entry_content {
+  padding: 2rem;
+}
+
+/* Button Styles */
+.button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--white);
+  background-color: var(--primary);
+  border-radius: 8px;
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+.button:hover {
+  background-color: var(--primary-dark);
+  transform: translateY(-2px);
+}
+
+/* Footer Styles */
+.main_footer {
+  background-color: var(--dark);
+  padding: 4rem 0;
+  color: var(--white);
+}
+
+.social_footer {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.social_footer a {
+  color: var(--text-light);
+  font-size: 1.5rem;
+  transition: var(--transition);
+}
+
+.social_footer a:hover {
+  color: var(--primary);
+  transform: translateY(-2px);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .chapters .chapter {
+    width: 100%;
+    margin: 0 0 1.5rem 0;
+  }
+  
+  .post header img {
+    height: 300px;
+  }
+  
+  .post_title {
+    font-size: 1.5rem;
+  }
+  
+  .entry_content {
+    padding: 1.5rem;
+  }
+} 
