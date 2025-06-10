@@ -2,7 +2,7 @@
 sortingnumber: 26
 layout: post
 title: "Glacier National Park - Must Visit!"
-img: arch1.jpg {:height="750px" width="400px"}
+img: glacier.jpeg {:height="750px" width="400px"}
 date: 2025-06-03 12:55:00 +0300
 description: Might of the North
 tag: [Travel, Blogging, Mountains]
