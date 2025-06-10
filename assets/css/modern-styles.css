@@ -27,8 +27,7 @@ body {
 }
 
 .page-content {
-  max-width: var(--max-width);
-  margin: 0 auto;
+  width: 100%;
   padding: 0 1rem;
 }
 
@@ -44,9 +43,10 @@ h1, h2, h3, h4, h5, h6 {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 2rem;
-  max-width: 1200px;
-  margin: 0 auto;
+  width: 100%;
   padding: 2rem;
+  justify-items: center;
+  justify-content: center;
 }
 
 .chapters .chapter {
@@ -54,9 +54,10 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 12px;
   overflow: hidden;
   background: var(--white);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  box-shadow: var(--shadow-md);
   transition: var(--transition);
-  margin-bottom: 2rem;
+  width: 100%;
+  max-width: 400px;
 }
 
 .chapters .chapter:hover {
