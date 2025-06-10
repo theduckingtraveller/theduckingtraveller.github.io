@@ -26,7 +26,7 @@ Day 1:
 Sunset at Lake McDonald 
 ![image1]({{site.baseurl}}/assets/img/GlacierNP/lake1.jpg){:height="400px" width="840px"}
 
-![image1]({{site.baseurl}}/assets/img/GlacierNP/lake2.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/lake2.jpeg){:height="400px" width="840px"}
 
 
 Day 2: 
@@ -54,20 +54,20 @@ Logan Pass
 
 Avalanche Lake via trail of cedars
 
-![image1]({{site.baseurl}}/assets/img/GlacierNP/Avlake.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/avlake.jpg){:height="400px" width="840px"}
 
 
-![image1]({{site.baseurl}}/assets/img/GlacierNP/9.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/A.jpg){:height="400px" width="840px"}
 
 Day 3:
 
 Hike day at Grinnell Glacier!
 
-![image1]({{site.baseurl}}/assets/img/GlacierNP/10.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/G1.jpg){:height="400px" width="840px"}
 
-![image1]({{site.baseurl}}/assets/img/GlacierNP/11.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/grin5.jpg){:height="400px" width="840px"}
 
-![image1]({{site.baseurl}}/assets/img/GlacierNP/12.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/grin6.jpg){:height="400px" width="840px"}
 
 ![image1]({{site.baseurl}}/assets/img/GlacierNP/13.jpg){:height="400px" width="840px"}
 
