@@ -24,17 +24,20 @@ type: park
 Day 1:
 
 Sunset at Lake McDonald 
-![image1]({{site.baseurl}}/assets/img/GlacierNP/2.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/lake1.jpg){:height="400px" width="840px"}
 
+![image1]({{site.baseurl}}/assets/img/GlacierNP/lake2.jpg){:height="400px" width="840px"}
 
 
 Day 2: 
 
 Hidden Lake Overlook
-![image1]({{site.baseurl}}/assets/img/GlacierNP/3.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/A.jpeg){:height="400px" width="840px"}
+
+![image1]({{site.baseurl}}/assets/img/GlacierNP/hidden1.jpeg){:height="400px" width="840px"}
 
 
-![image1]({{site.baseurl}}/assets/img/GlacierNP/5.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/hidden.jpeg){:height="400px" width="840px"}
 
 
 Avalanche Lake
@@ -43,15 +46,15 @@ Avalanche Lake
 
 Logan Pass
 
-![image1]({{site.baseurl}}/assets/img/GlacierNP/6.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/drive.jpg){:height="400px" width="840px"}
 
 
-![image1]({{site.baseurl}}/assets/img/GlacierNP/7.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/drive1.jpeg){:height="400px" width="840px"}
 
 
 Avalanche Lake via trail of cedars
 
-![image1]({{site.baseurl}}/assets/img/GlacierNP/8.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/Avlake.jpg){:height="400px" width="840px"}
 
 
 ![image1]({{site.baseurl}}/assets/img/GlacierNP/9.jpg){:height="400px" width="840px"}
@@ -70,9 +73,9 @@ Hike day at Grinnell Glacier!
 
 ![image1]({{site.baseurl}}/assets/img/GlacierNP/14.jpg){:height="400px" width="840px"}
 
-![image1]({{site.baseurl}}/assets/img/GlacierNP/15.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/grin5.jpg){:height="400px" width="840px"}
 
-![image1]({{site.baseurl}}/assets/img/GlacierNP/16.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/G1.jpg){:height="400px" width="840px"}
 
 
 Day 4:
@@ -80,8 +83,17 @@ Day 4:
 Going to the Sun Road with multiple view points along the way
 
 
+![image1]({{site.baseurl}}/assets/img/GlacierNP/falls.jpeg){:height="400px" width="840px"}
+
+Lake Josephine
+
+![image1]({{site.baseurl}}/assets/img/GlacierNP/lakeJ.jpeg){:height="400px" width="840px"}
 
 
+![image1]({{site.baseurl}}/assets/img/GlacierNP/mcD.jpeg){:height="400px" width="840px"}
+
+
+![image1]({{site.baseurl}}/assets/img/GlacierNP/huck.jpeg){:height="400px" width="840px"}
 
 
 –
