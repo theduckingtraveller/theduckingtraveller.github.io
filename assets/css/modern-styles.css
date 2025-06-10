@@ -33,6 +33,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Modern Card Design */
+.chapters {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
 .chapters .chapter {
   position: relative;
   border-radius: 12px;
