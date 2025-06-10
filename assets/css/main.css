@@ -4016,20 +4016,19 @@ cite {
 }
 
 .chapters {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  width: 100%;
-  padding: 2rem;
-  justify-items: center;
-  justify-content: center;
+  padding: 2rem 0;
 }
 
 .chapters .chapter {
   position: relative;
-  width: 100%;
-  max-width: 400px;
-  margin: 0;
+  float: center;
+  width: 60%;
+  margin: 5% 20% 5% 20%;
+  overflow: hidden;
+  -webkit-transition: -webkit-transform 0.4s;
+  transition: -webkit-transform 0.4s;
+  transition: transform 0.4s;
+  transition: transform 0.4s, -webkit-transform 0.4s;
 }
 
 .chapters .chapter a {
@@ -4829,6 +4828,7 @@ cite {
             transform: translateY(0);
   }
 }
+
 @media only screen and (max-width: 960px) {
   .chapters {
     padding: 2rem 0;
