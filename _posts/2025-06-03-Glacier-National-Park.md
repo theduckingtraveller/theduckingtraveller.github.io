@@ -1,5 +1,5 @@
 ---
-sortingnumber: 26
+sortingnumber: 27
 layout: post
 title: "Glacier National Park - Must Visit!"
 img: glacier.jpeg {:height="750px" width="400px"}
