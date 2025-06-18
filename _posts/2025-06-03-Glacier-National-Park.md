@@ -100,7 +100,7 @@ Day 3:
 
 Hike day at Grinnell Glacier!
 
-![image1]({{site.baseurl}}/assets/img/GlacierNP/A.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/GlacierNP/A.jpeg){:height="400px" width="840px"}
 
 Where do I even begin with describing one of the best hikes I have ever done. Grinnell Glacier is a signature Glacier National Park hike. The base of this hike is located at the north most part of the park - near Many Glacier Hotel. 
 
