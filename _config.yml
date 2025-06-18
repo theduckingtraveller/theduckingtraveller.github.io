@@ -24,7 +24,7 @@ video: sunset.mp4
 banner-title: >
   The Ducking Traveller
 banner-desc: > # this means to ignore newlines until "baseurl:"
-  In Pursuit of Nirvana
+  From my passport to your plans - A realistic guide to inspire your next escape.
 
 # Paginate
 paginate: 50
@@ -36,4 +36,3 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  
