@@ -3,8 +3,8 @@ layout: default
 ---
 
 {% include header.html %}
-{% include banner.html %}
 {% include header-2.html %}
+{% include banner.html %}
 
 <main class="post_content">
   <article class="post">
@@ -73,7 +73,7 @@ layout: default
       <div class="recent_list">
         {% for post in site.posts offset:0 limit:4 %}
           {% if post.title %}
-            <a href="{{ root_url }}{{ post.url }}>{{ page.title }}" class="recent_item" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )"><span>{{ post.title }}</span></a>
+            <a href="{{ root_url }}{{ post.url }}" class="recent_item" style="background-image: url('{{ "/assets/img/" | prepend: site.baseurl | append : post.img}}')"><span>{{ post.title }}</span></a>
           {% endif %}
         {% endfor %}
       </div>
