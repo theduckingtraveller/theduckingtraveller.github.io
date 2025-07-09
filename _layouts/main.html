@@ -6,9 +6,81 @@ layout: default
   {% include banner.html %}
   <main class="page-content" aria-label="Content">
     <section class="chapters cf">
-    <p style="text-align: center;font-size: 40px;font-weight: bold;"><strong>What trip do you want to plan today?</strong></p>
-
-      {{ content }}
+      <style>
+      .main-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        justify-content: center;
+        margin: 2rem 0;
+      }
+      .main-destination {
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+        width: 45%;
+        min-width: 300px;
+        max-width: 400px;
+        margin-bottom: 2rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 1.5rem 1rem;
+        text-align: center;
+        transition: box-shadow 0.2s;
+      }
+      .main-destination:hover {
+        box-shadow: 0 4px 16px rgba(192,51,74,0.15);
+      }
+      .main-destination img {
+        width: 100%;
+        max-width: 320px;
+        height: 180px;
+        object-fit: cover;
+        border-radius: 8px;
+        margin-bottom: 1rem;
+      }
+      @media (max-width: 900px) {
+        .main-destination { width: 90%; }
+      }
+      </style>
+      <div class="main-grid">
+        <div class="main-destination">
+          <a href="/india/">
+            <img src="/assets/img/kerala_1.jpg" alt="India Destinations">
+          </a>
+          <h3>India Destinations</h3>
+          <p>Explore the vibrant culture, natural beauty, and historic wonders of India.</p>
+        </div>
+        <div class="main-destination">
+          <a href="/us-cities/">
+            <img src="/assets/img/denver_1.jpg" alt="US Cities">
+          </a>
+          <h3>US Cities</h3>
+          <p>Discover the diversity and excitement of cities across the United States.</p>
+        </div>
+        <div class="main-destination">
+          <a href="/national-parks/">
+            <img src="/assets/img/arch1.jpg" alt="US National Parks">
+          </a>
+          <h3>US National Parks</h3>
+          <p>Experience the breathtaking landscapes and wildlife of America's national parks.</p>
+        </div>
+        <div class="main-destination">
+          <a href="/international/">
+            <img src="/assets/img/Maldives.jpeg" alt="International Destinations">
+          </a>
+          <h3>International Cities</h3>
+          <p>Travel the world through stories and guides from international adventures.</p>
+        </div>
+        <div class="main-destination">
+          <a href="/events/">
+            <img src="/assets/img/stone1.jpg" alt="Events">
+          </a>
+          <h3>Rhythms of Nature</h3>
+          <p>Special events and natural phenomena from around the globe.</p>
+        </div>
+      </div>
     </section>
 
   <section class="About">
