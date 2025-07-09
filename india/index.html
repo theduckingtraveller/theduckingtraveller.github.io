@@ -3,18 +3,80 @@ layout: main-2
 ---
 {% include banner.html %}
 
-{% assign new-posts = site.posts | where: "type","india" %}
+{% comment %} India Destinations Visual Grid {% endcomment %}
+<style>
+.india-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  margin: 2rem 0;
+}
+.india-destination {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  width: 45%;
+  min-width: 300px;
+  max-width: 400px;
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.5rem 1rem;
+  text-align: center;
+  transition: box-shadow 0.2s;
+}
+.india-destination:hover {
+  box-shadow: 0 4px 16px rgba(192,51,74,0.15);
+}
+.india-destination img {
+  width: 100%;
+  max-width: 320px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+@media (max-width: 900px) {
+  .india-destination { width: 90%; }
+}
+</style>
 
-{% for post in new-posts %}
-  <div class="chapter">
-    <a href="{{post.url | prepend: site.baseurl}}" target="_blank">
-      {% if post.img %}
-      <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
-      {% endif %}
+<div class="india-grid">
+  <div class="india-destination">
+    <a href="https://theduckingtraveller.com/kerala/" target="_blank">
+      <img src="https://via.placeholder.com/320x180?text=Kerala+Backwaters" alt="Kerala Backwaters">
     </a>
-    <div class="chapter_inner">
-      <p class="chapter_number">{{post.date | date: '%Y, %b %d'}}</p>
-      <h3 class="chapter_title">{{post.title}}</h3>
-    </div>
+    <h3>Kerala Backwaters</h3>
+    <p>Experience the tranquil beauty of Kerala's palm-lined backwaters, houseboats, and lush landscapes—a true escape into nature's lap.</p>
   </div>
-{% endfor %}
+  <div class="india-destination">
+    <a href="https://theduckingtraveller.com/Jaipur/" target="_blank">
+      <img src="https://via.placeholder.com/320x180?text=Jaipur" alt="Jaipur">
+    </a>
+    <h3>Jaipur</h3>
+    <p>The Pink City dazzles with its royal palaces, vibrant bazaars, and rich Rajasthani culture—perfect for history and architecture lovers.</p>
+  </div>
+  <div class="india-destination">
+    <a href="https://theduckingtraveller.com/assam/" target="_blank">
+      <img src="https://via.placeholder.com/320x180?text=Guwahati+%26+Shillong" alt="Guwahati and Shillong">
+    </a>
+    <h3>Guwahati and Shillong</h3>
+    <p>Discover the gateway to Northeast India with Guwahati's temples and Shillong's rolling hills, waterfalls, and colonial charm.</p>
+  </div>
+  <div class="india-destination">
+    <a href="https://theduckingtraveller.com/Ranthambore/" target="_blank">
+      <img src="https://via.placeholder.com/320x180?text=Ranthambore+National+Forest" alt="Ranthambore National Forest">
+    </a>
+    <h3>Ranthambore National Forest</h3>
+    <p>Home to majestic tigers, Ranthambore offers thrilling safaris, ancient ruins, and a wild adventure in Rajasthan's heart.</p>
+  </div>
+  <div class="india-destination">
+    <a href="https://theduckingtraveller.com/assam1/" target="_blank">
+      <img src="https://via.placeholder.com/320x180?text=Kaziranga+%26+Cherrapunji" alt="Kaziranga National Park and Cherrapunji Forest">
+    </a>
+    <h3>Kaziranga National Park and Cherrapunji Forest</h3>
+    <p>Witness the one-horned rhino in Kaziranga and explore the lush, rain-soaked wonders of Cherrapunji's forests and caves.</p>
+  </div>
+</div>

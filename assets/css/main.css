@@ -4504,7 +4504,7 @@ cite {
 }
 
 .recent_box .recent_list .recent_item:hover {
-  opacity: .9;
+  opacity: 10;
 }
 
 .recent_box .recent_list .recent_item span {

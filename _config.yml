@@ -27,8 +27,12 @@ banner-desc: > # this means to ignore newlines until "baseurl:"
   From my passport to your plans - A realistic guide to inspire your next escape.
 
 # Paginate
-paginate: 50
+banner-title: >
+ Where are you heading next?
+paginate: 5
 paginate_path: /page:num/
+
+#Latest Posts
 
 
 # Build settings
