@@ -4,71 +4,123 @@ layout: main-2
 {% include banner.html %}
 
 <style>
-.intl-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-  justify-content: center;
-  margin: 2rem 0;
-}
-.intl-destination {
-  background: #fff;
-  border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
-  width: 45%;
-  min-width: 300px;
-  max-width: 400px;
-  margin-bottom: 2rem;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 1.5rem 1rem;
-  text-align: center;
-  transition: box-shadow 0.2s;
-}
-.intl-destination:hover {
-  box-shadow: 0 4px 16px rgba(192,51,74,0.15);
-}
-.intl-destination img {
-  width: 100%;
-  max-width: 320px;
-  height: 180px;
-  object-fit: cover;
-  border-radius: 8px;
-  margin-bottom: 1rem;
-}
-@media (max-width: 900px) {
-  .intl-destination { width: 90%; }
-}
+  .intl-flex-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 2.5rem;
+    margin: 2.5rem 0;
+    flex-wrap: wrap;
+  }
+  .intl-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    flex: 2 1 600px;
+    min-width: 320px;
+    max-width: 900px;
+  }
+  .intl-row {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .intl-destination {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    width: 320px;
+    min-width: 220px;
+    max-width: 400px;
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.5rem 1rem;
+    text-align: center;
+    transition: box-shadow 0.2s;
+  }
+  .intl-destination:hover {
+    box-shadow: 0 4px 16px rgba(192,51,74,0.15);
+  }
+  .intl-destination img {
+    width: 100%;
+    max-width: 320px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+  }
+  .about-amrita {
+    flex: 1 1 320px;
+    max-width: 350px;
+    background: #fff8f8;
+    border-radius: 14px;
+    box-shadow: 0 2px 10px rgba(192,51,74,0.07);
+    padding: 2rem 2.5rem;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+  }
+  @media (max-width: 1100px) {
+    .intl-flex-container {
+      flex-direction: column;
+      align-items: center;
+    }
+    .about-amrita {
+      max-width: 700px;
+      margin: 2rem auto;
+      align-self: stretch;
+    }
+  }
 </style>
-
-<div class="intl-grid">
-  <div class="intl-destination">
-    <a href="https://theduckingtraveller.com/toronto-canada/" target="_blank">
-      <img src="/assets/img/toronto_1.jpg" alt="Toronto">
-    </a>
-    <h3>Toronto</h3>
-    <p>Canada's largest city, Toronto is a vibrant metropolis with diverse neighborhoods and iconic landmarks.</p>
+<div class="intl-flex-container">
+  <div class="intl-grid">
+    <div class="intl-row">
+      <div class="intl-destination">
+        <a href="https://theduckingtraveller.com/toronto-canada/" target="_blank">
+          <img src="/assets/img/toronto_1.jpg" alt="Toronto">
+        </a>
+        <h3>Toronto</h3>
+        <p>Canada's largest city, Toronto is a vibrant metropolis with diverse neighborhoods and iconic landmarks.</p>
+      </div>
+      <div class="intl-destination">
+        <a href="https://theduckingtraveller.com/dubai/" target="_blank">
+          <img src="/assets/img/dubai_1.jpg" alt="Dubai">
+        </a>
+        <h3>Dubai</h3>
+        <p>Dubai dazzles with its futuristic skyline, luxury shopping, and desert adventures.</p>
+      </div>
+    </div>
+    <div class="intl-row">
+      <div class="intl-destination">
+        <a href="https://theduckingtraveller.com/rome/" target="_blank">
+          <img src="/assets/img/Rome.jpg" alt="Rome">
+        </a>
+        <h3>Rome</h3>
+        <p>The Eternal City is a treasure trove of ancient ruins, art, and Italian cuisine.</p>
+      </div>
+      <div class="intl-destination">
+        <a href="https://theduckingtraveller.com/maldives/" target="_blank">
+          <img src="/assets/img/Maldives.jpeg" alt="Maldives">
+        </a>
+        <h3>Maldives</h3>
+        <p>Relax in paradise on the white-sand beaches and turquoise waters of the Maldives.</p>
+      </div>
+    </div>
   </div>
-  <div class="intl-destination">
-    <a href="https://theduckingtraveller.com/dubai/" target="_blank">
-      <img src="/assets/img/dubai_1.jpg" alt="Dubai">
-    </a>
-    <h3>Dubai</h3>
-    <p>Dubai dazzles with its futuristic skyline, luxury shopping, and desert adventures.</p>
-  </div>
-  <div class="intl-destination">
-    <a href="https://theduckingtraveller.com/rome/" target="_blank">
-      <img src="/assets/img/Rome.jpg" alt="Rome">
-    </a>
-    <h3>Rome</h3>
-    <p>The Eternal City is a treasure trove of ancient ruins, art, and Italian cuisine.</p>
-  </div>
-  <div class="intl-destination">
-    <a href="https://theduckingtraveller.com/maldives/" target="_blank">
-      <img src="/assets/img/Maldives.jpeg" alt="Maldives">
-    </a>
-    <h3>Maldives</h3>
-    <p>Relax in paradise on the white-sand beaches and turquoise waters of the Maldives.</p>
-  </div>
+  <section class="about-amrita">
+    <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+      <img src="/assets/img/amrita.jpg" alt="Amrita profile photo" style="width: 300px; height: 300px; object-fit: cover; border-radius: 50%; border: 5px solid #c0334a; box-shadow: 0 2px 12px rgba(192,51,74,0.13); margin: 0 0 1.5rem 0;">
+    </div>
+    <h2 style="font-size: 2.2rem; margin-bottom: 0.5rem; color: #c0334a;">Hi, I’m Amrita!</h2>
+    <p style="font-size: 1.2rem; color: #333; margin-bottom: 0;">I’m a traveller and itinerary planner from India who loves to share honest and doable guides to inspire your next adventure. Welcome to my little corner of the internet. By day, I’m an engineer, but my heart has always belonged to exploring new places, meeting people, and collecting moments (and a few misadventures too!). I hope my posts inspire you to pack your bags, and maybe help you plan your own adventures a little better.
+    </p>
+  </section>
 </div>
