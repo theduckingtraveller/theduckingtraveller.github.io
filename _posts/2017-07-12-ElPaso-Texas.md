@@ -12,10 +12,8 @@ type: cities
 
 In this Post:
 
-<ol type="a">
-<li> [Carlsbad Caverns](#carlsbad-caverns)</li>
-<li>[White Sand National Park](#white-sand-national-park)</li>
-</ol>
+- [Carlsbad Caverns](#carlsbad-caverns)
+- [White Sand National Park](#white-sand-national-park)
 
 The magic that lies in West Texas is definitely felt in El Paso or ‘The Sun City’. The city lies near the United States – Mexico border and the culture of Mexico can surely be felt here. There are a ton of things to do in and around the city. From taking a tram to the top of Franklin mountain to having a host of dive bars to chill in at night, there is little time to waste here. El Paso is a wonderful weekend destination and it is more special to me because a dear friend of mine who lives here gave me a tour of the city.
 
