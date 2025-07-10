@@ -9,27 +9,53 @@ tag: [Travel, Blogging, Mountains]
 type: cities
 ---
 
+<div style="background: #f8f9fa; border-left: 4px solid #c0334a; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <h3 style="color: #000; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: 600;">📋 In this Post:</h3>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0.5rem; color: #000;">
+    <div style="padding: 0.5rem 0;">
+      <a href="#city-overview" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌆 City Overview</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#scenic-overlook" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏔️ Scenic Overlook Drive</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#wyler-tramway" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🚠 Wyler Aerial Tramway</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#hoppy-monk" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🍺 The Hoppy Monk</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#mexican-food" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌮 Mexican Food</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#national-parks" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏞️ National Parks in the Area</a>
+    </div>
+    <div style="padding: 0.5rem 0; margin-left: 1rem;">
+      <a href="#carlsbad-caverns" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🕳️ Carlsbad Caverns</a>
+    </div>
+    <div style="padding: 0.5rem 0; margin-left: 1rem;">
+      <a href="#white-sand-national-park" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏜️ White Sand National Park</a>
+    </div>
+  </div>
+</div>
 
-In this Post:
-
-- [Carlsbad Caverns](#carlsbad-caverns)
-- [White Sand National Park](#white-sand-national-park)
-
-The magic that lies in West Texas is definitely felt in El Paso or ‘The Sun City’. The city lies near the United States – Mexico border and the culture of Mexico can surely be felt here. There are a ton of things to do in and around the city. From taking a tram to the top of Franklin mountain to having a host of dive bars to chill in at night, there is little time to waste here. El Paso is a wonderful weekend destination and it is more special to me because a dear friend of mine who lives here gave me a tour of the city.
+The magic that lies in West Texas is definitely felt in El Paso or 'The Sun City'. The city lies near the United States – Mexico border and the culture of Mexico can surely be felt here. There are a ton of things to do in and around the city. From taking a tram to the top of Franklin mountain to having a host of dive bars to chill in at night, there is little time to waste here. El Paso is a wonderful weekend destination and it is more special to me because a dear friend of mine who lives here gave me a tour of the city.
 
 ![image1]({{site.baseurl}}/assets/img/el_paso_1.jpg){: height=150px width=200px}
 
+## <a id="city-overview"></a>City Overview
+
 One place that I would suggest is to go on the scenic overlook drive. You can see the Mexico border and miles into Mexico. You get a really nice view of the city as well.  The Wyler Aerial Tramway is a destination inside Franklin Mountain State Park which gives really panoramic views of the city. There are various hikes and trails inside the park which range from easy to strenuous. The best part about the park is that you are never too far from the city.
 
-#### A must visit bar
+## <a id="hoppy-monk"></a>A must visit bar
 
 One of the best places to go is The Hoppy Monk. They serve the margaritas in the biggest glasses. There are a ton of local bars serving a host of fresh brews on Mesa Street. Be sure head there on a Saturday night for one of the liveliest atmospheres.
 
-#### My favourite restaurant
+## <a id="mexican-food"></a>My favourite restaurant
 
 This city is the best place to get really authentic Mexican food. The spice level is on point and the size is incredibly filling. You get amazing Mexican food at La Posta de Mesilla which is about 45 min from El Paso. Be sure to try their churro’s for dessert. There are a ton of local places which are also pretty good.
 
-## National Parks in the Area
+## <a id="national-parks"></a>National Parks in the Area
 
 There are two national parks located not too far from El Paso. Make sure to carry legal documents (Passport for international travellers, driving license or birth certificate for locals) while visiting both (there is border security while exiting Texas).
 

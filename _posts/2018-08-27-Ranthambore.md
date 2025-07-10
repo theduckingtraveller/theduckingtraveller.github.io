@@ -9,9 +9,36 @@ tag: [Travel, Blogging, Forest, Culture]
 type: india
 ---
 
+<div style="background: #f8f9fa; border-left: 4px solid #c0334a; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <h3 style="color: #000; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: 600;">📋 In this Post:</h3>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0.5rem; color: #000;">
+    <div style="padding: 0.5rem 0;">
+      <a href="#where-to-stay" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏨 Where to Stay</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#how-to-get-here" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🚗 How to Get Here</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#what-to-eat" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🍽️ What to Eat</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#what-to-wear" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">👕 What to Wear</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#preparation" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🎯 Preparation Tips</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#inside-park" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏞️ Inside the Park</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#tiger-sighting" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🐅 Tiger Sighting Experience</a>
+    </div>
+  </div>
+</div>
+
 My relationship with wildlife and national parks is long and pleasant. Each time I get to see wild animals in their habitat, it makes my heart soar! Ranthambore was a very special experience for me as it was the first time I saw a Tiger in the wild! Those majestic yet shy beasts are really hard to spot but if you do, you have the story of your life!!
 
-## Where to stay?
+## <a id="where-to-stay"></a>Where to stay?
 
 ![image1]({{site.baseurl}}/assets/img/ran2.jpg){:height="650px" width="840px"}
 
@@ -19,22 +46,22 @@ Although there are many fancy resorts and hotels that you can choose from at the
 
 The resort has a private chef who cooks whatever you are in the mood for and the food is fresh, hot and delicious. When I went here, the place was deserted and I was the only guest but I felt very welcome and safe! The staff is available on call and even sets up a bonfire on request.
 
-## How to get here?
+## <a id="how-to-get-here"></a>How to get here?
 The national park is 130 km from Jaipur. You can hire a chauffeur driven vehicle from Jaipur to get to the park. To enter the park itself, you have to use the government-sanctioned tour vehicles. It costs about 1400 INR to go on a Jeep and 1000 INR to tour in a canter.
 
-## What to eat?
+## <a id="what-to-eat"></a>What to eat?
 As everywhere in Rajasthan, you have food for all dietary restrictions available. We ate at our restaurant as the food was really good and fresh.
 
-## What to wear?
+## <a id="what-to-wear"></a>What to wear?
 No matter where you go on a safari, weather plays a huge role in deciding what to wear. I went to the Ranthambore national park during winter and it was pretty cold and dry, especially during the early morning safari. The best thing to wear during the morning safaris is layers! You can take the layers off if it gets warm but being uncomfortably cold makes no one happy.
 
 Be sure to also carry sunglasses, sunscreen, water and a hat. If you are sensitive to dust, be sure to carry a mask or a scarf.
 
-Prepare yourself!
+## <a id="preparation"></a>Prepare yourself!
 
 The likelihood of seeing a tiger is very slim. Tigers are one of the shyest cats. They tend to hide out in the deeper parts of the park and on very rare occasions will it grace you with their presence. To increase the chances of seeing the cat, you may have to go to the park more than once over many days. The best time to actually catch a glimpse of a tiger is early in the morning.
 
-## Inside the Park
+## <a id="inside-park"></a>Inside the Park
 
 ![image2]({{site.baseurl}}/assets/img/ran3.jpg){:height="650px" width="840px"}
 
@@ -46,7 +73,7 @@ The park is full of water bodies attracting various birds and amphibians. You wi
 
 ![image4]({{site.baseurl}}/assets/img/ran5.jpg){:height="650px" width="840px"}
 
-## Getting to see the Indian national animal in the wild
+## <a id="tiger-sighting"></a>Getting to see the Indian national animal in the wild
 
 We woke up early in the morning (04:30 am) to hop on a canter to go around in the park trying to find one of these majestic creatures. The tour was for 4 hours and we were almost 3 hours into it and still had no luck spotting a tiger. We had almost given up when out of nowhere a 14-month-old cub emerged from the bushes and started walking along the road where our canter was parked.
 
