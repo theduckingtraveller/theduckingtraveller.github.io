@@ -8,14 +8,30 @@ description: A Weekend in Canada's Biggest City
 tag: [Travel, Blogging, Mountains]
 type: international
 ---
-In this Post:
 
-- [CN Tower](#CN-Tower)
-- [St Lawrence Market](#Lawrence-Market)
-- [Distillery District](#Distillery-District)
-- [Yonge-Dundas Square](#YD-Square)
-- [Path](#path)
-- [Niagara Falls](#Niagara-Falls)
+<div style="background: #f8f9fa; border-left: 4px solid #c0334a; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <h3 style="color: #000; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: 600;">📋 In this Post:</h3>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0.5rem; color: #000;">
+    <div style="padding: 0.5rem 0;">
+      <a href="#CN-Tower" style="color: #000; text-decoration: none; font-weight: 500; transition: color 0.2s;">🏗️ CN Tower</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#Lawrence-Market" style="color: #000; text-decoration: none; font-weight: 500; transition: color 0.2s;">🛒 St Lawrence Market</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#Distillery-District" style="color: #000; text-decoration: none; font-weight: 500; transition: color 0.2s;">🏭 Distillery District</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#YD-Square" style="color: #000; text-decoration: none; font-weight: 500; transition: color 0.2s;">🏙️ Yonge-Dundas Square</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#path" style="color: #000; text-decoration: none; font-weight: 500; transition: color 0.2s;">🚇 PATH</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#Niagara-Falls" style="color: #000; text-decoration: none; font-weight: 500; transition: color 0.2s;">🌊 Niagara Falls</a>
+    </div>
+  </div>
+</div>
 
 
 Toronto, one of the most popular urban cities in North America is a hub for business, arts, and culture. This metropolitan city has a charm and charisma of its own. I travelled here during April and the sun had just started burning a little brighter than it does in winter. I love spring and Toronto definitely lights up as summer starts to roll in. There are a ton of activities to do in and around the city and there won’t be a moment to spare.
