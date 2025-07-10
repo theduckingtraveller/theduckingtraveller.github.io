@@ -10,10 +10,12 @@ type: cities
 ---
 
 
-- [A must visit bar](#a-must-visit-bar)
-- [My favourite restaurant](#my-favourite-restaurant)
-- [Carlsbad Caverns](#carlsbad-caverns)
-- [White Sand National Park](#white-sand-national-park)
+In this Post:
+
+<ol type="a">
+<li> [Carlsbad Caverns](#carlsbad-caverns)</li>
+<li>[White Sand National Park](#white-sand-national-park)</li>
+</ol>
 
 The magic that lies in West Texas is definitely felt in El Paso or ‘The Sun City’. The city lies near the United States – Mexico border and the culture of Mexico can surely be felt here. There are a ton of things to do in and around the city. From taking a tram to the top of Franklin mountain to having a host of dive bars to chill in at night, there is little time to waste here. El Paso is a wonderful weekend destination and it is more special to me because a dear friend of mine who lives here gave me a tour of the city.
 
@@ -21,11 +23,11 @@ The magic that lies in West Texas is definitely felt in El Paso or ‘The Sun Ci
 
 One place that I would suggest is to go on the scenic overlook drive. You can see the Mexico border and miles into Mexico. You get a really nice view of the city as well.  The Wyler Aerial Tramway is a destination inside Franklin Mountain State Park which gives really panoramic views of the city. There are various hikes and trails inside the park which range from easy to strenuous. The best part about the park is that you are never too far from the city.
 
-#### <a id="a-must-visit-bar"></a>A must visit bar
+#### A must visit bar
 
 One of the best places to go is The Hoppy Monk. They serve the margaritas in the biggest glasses. There are a ton of local bars serving a host of fresh brews on Mesa Street. Be sure head there on a Saturday night for one of the liveliest atmospheres.
 
-#### <a id="my-favourite-restaurant"></a>My favourite restaurant
+#### My favourite restaurant
 
 This city is the best place to get really authentic Mexican food. The spice level is on point and the size is incredibly filling. You get amazing Mexican food at La Posta de Mesilla which is about 45 min from El Paso. Be sure to try their churro’s for dessert. There are a ton of local places which are also pretty good.
 
