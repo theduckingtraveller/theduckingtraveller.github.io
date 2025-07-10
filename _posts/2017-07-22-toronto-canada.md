@@ -8,6 +8,15 @@ description: A Weekend in Canada's Biggest City
 tag: [Travel, Blogging, Mountains]
 type: international
 ---
+In this Post:
+
+- [CN Tower](#CN-Tower)
+- [St Lawrence Market](#Lawrence-Market)
+- [Distillery District](#Distillery-District)
+- [Yonge-Dundas Square](#YD-Square)
+- [Path](#path)
+- [Niagara Falls](#Niagara-Falls)
+
 
 Toronto, one of the most popular urban cities in North America is a hub for business, arts, and culture. This metropolitan city has a charm and charisma of its own. I travelled here during April and the sun had just started burning a little brighter than it does in winter. I love spring and Toronto definitely lights up as summer starts to roll in. There are a ton of activities to do in and around the city and there won’t be a moment to spare.
 
@@ -25,7 +34,7 @@ Book your tickets to CN tower and other tourist attractions online to save time 
 
 ## Things to do in Toronto
 
-### CN Tower
+###  <a id="CN-Tower"></a>CN Tower
 
 ![image2]({{site.baseurl}}/assets/img/toronto_2.jpg){:height="800px" width="840px"}
 
@@ -33,13 +42,13 @@ The CN tower is one of the most popular tourist spots in downtown Toronto. At 55
 
 ![image3]({{site.baseurl}}/assets/img/toronto_3.jpg){:height="800px" width="840px"}
 
-### St Lawrence Market
+###  <a id="Lawrence-Market"></a>St Lawrence Market
 
 It is one of the largest markets in Canada. You get a variety of fresh produce here. Think of this place as a farmer’s market of sorts. You can load up on local food here. The entrance to the market is free.
 
 ![image4]({{site.baseurl}}/assets/img/toronto_4.jpg){:height="800px" width="840px"}
 
-### Distillery District
+###  <a id="Distillery-District"></a>Distillery District
 
 Located to the east of St.Lawrence Market is the Distillery District. During the 1800s, it was the largest whiskey producer in the world. It is worth taking a walk around here. The Victorian architecture and ambience of the place will enrich your senses. Grab a cup of fresh brew or local hot chocolate and get the feel of a hug in a cup. There are a ton of classy restaurants and boutiques here to satiate the Miranda Priestly in you.
 
@@ -49,7 +58,7 @@ The district is also home to wonderful modern architecture to promote love and p
 
 ![image6]({{site.baseurl}}/assets/img/toronto_6.jpg){:height="800px" width="840px"}
 
-### Yonge-Dundas Square
+###  <a id="YD-Square"></a>Yonge-Dundas Square
 
 ![image7]({{site.baseurl}}/assets/img/toronto_7.jpg){:height="800px" width="840px"}
 
@@ -57,7 +66,7 @@ At the intersection of Yonge St and Dundas St lies the heart of downtown Toronto
 
 ![image8]({{site.baseurl}}/assets/img/toronto_8.jpg){:height="800px" width="840px"}
 
-### PATH
+###  <a id="path"></a> PATH
 
 The Path is the underground walkway and shopping area connecting all major towers in downtown Toronto. It is the largest underground shopping complex in the world. If it’s too hot or cold outside, you can spend some time here window shopping or buy souvenirs for your friends back home. The path also is the central bus and train terminal so if you live outside the city, you can catch your ride from here.
 
@@ -65,7 +74,7 @@ The Path is the underground walkway and shopping area connecting all major tower
 
 Walking on the beach or on the boardwalk by Lake Ontario is great ways to spend an evening during summer. You can take a boat to the Toronto islands to see the skyline of the city after sunset.
 
-### Niagara Falls
+###  <a id="Niagara-Falls"></a>Niagara Falls
 
 If you have seen The Niagara Falls from Buffalo, NY you are just fooling yourself. The view from the friendly neighbours is the view to see. It is incomparable and I now understand why it is one of the seven natural wonders of the world. The beauty of the falls is indescribable. The velocity with which the water was gushing surely took my breath away.
 
