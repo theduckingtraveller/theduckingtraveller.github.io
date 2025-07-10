@@ -12,6 +12,12 @@ type: international
 <div style="background: #f8f9fa; border-left: 4px solid #c0334a; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
   <h3 style="color: #000; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: 600;">📋 In this Post:</h3>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0.5rem; color: #000;">
+  <div style="padding: 0.5rem 0;">
+      <a href="#Info" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏗️ Basic Information</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#Info" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏗️ Getting Here</a>
+    </div>
     <div style="padding: 0.5rem 0;">
       <a href="#CN-Tower" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏗️ CN Tower</a>
     </div>
@@ -25,9 +31,6 @@ type: international
       <a href="#YD-Square" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏙️ Yonge-Dundas Square</a>
     </div>
     <div style="padding: 0.5rem 0;">
-      <a href="#path" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🚇 PATH</a>
-    </div>
-    <div style="padding: 0.5rem 0;">
       <a href="#Niagara-Falls" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌊 Niagara Falls</a>
     </div>
   </div>
@@ -35,6 +38,16 @@ type: international
 
 
 Toronto, one of the most popular urban cities in North America is a hub for business, arts, and culture. This metropolitan city has a charm and charisma of its own. I travelled here during April and the sun had just started burning a little brighter than it does in winter. I love spring and Toronto definitely lights up as summer starts to roll in. There are a ton of activities to do in and around the city and there won’t be a moment to spare.
+
+### <a id="Info"></a>Basic Information
+
+PATH - The Path is the underground walkway and shopping area connecting all major towers in downtown Toronto. It is the largest underground shopping complex in the world. If it’s too hot or cold outside, you can spend some time here window shopping or buy souvenirs for your friends back home. The path also is the central bus and train terminal so if you live outside the city, you can catch your ride from here.
+
+VISA - Make sure that you have the right documentation such as a valid visa and passport before traveling to Canada. The Visa process can take a few weeks so plan ahead! For Indian passport holders, your visa is valid till the time your passport is valid.
+
+Currency in Canada is CAD and 1CAD = 0.73 USD.
+
+Get a roaming sim card using  <a href="https://www.getnomad.app/">Nomad</a> Use my referal code AMRI34EB for $5 off your first eSIM data plan purchase.
 
 ### Getting here
 
@@ -82,9 +95,6 @@ At the intersection of Yonge St and Dundas St lies the heart of downtown Toronto
 
 ![image8]({{site.baseurl}}/assets/img/toronto_8.jpg){:height="800px" width="840px"}
 
-###  <a id="path"></a> PATH
-
-The Path is the underground walkway and shopping area connecting all major towers in downtown Toronto. It is the largest underground shopping complex in the world. If it’s too hot or cold outside, you can spend some time here window shopping or buy souvenirs for your friends back home. The path also is the central bus and train terminal so if you live outside the city, you can catch your ride from here.
 
 ### Spending the day at the beach and going to the Toronto Islands
 
