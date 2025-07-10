@@ -19,7 +19,7 @@ type: park
       <a href="#best-time" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">📅 Best Time to Visit</a>
     </div>
     <div style="padding: 0.5rem 0;">
-      <a href="#bryce-canyon" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏔️ Bryce Canyon National Park (Sunset & Sunrise Points, Rainbow Point, Natural Bridge)</a>
+      <a href="#bryce-canyon" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏔️ Bryce Canyon National Park - Sunset & Sunrise Points, Rainbow Point, Natural Bridge</a>
     </div>
     <div style="padding: 0.5rem 0;">
       <a href="#horseshoe-bend" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🐎 Horseshoe Bend</a>

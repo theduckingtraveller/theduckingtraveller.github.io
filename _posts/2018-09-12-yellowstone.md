@@ -21,7 +21,7 @@ tag: [Travel, Blogging, Mountains]
       <a href="#day2" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🚗 Day 2 - Drive to West Yellowstone</a>
     </div>
     <div style="padding: 0.5rem 0;">
-      <a href="#day3" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌋 Day 3 - Yellowstone National Park, Gibbon Falls, Canyon Village & Upper Falls, Hayden Valley, Mammoth Hot Springs</a>
+      <a href="#day3" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌋 Day 3 - Yellowstone National Park(Gibbon Falls, Canyon Village & Upper Falls, Hayden Valley, Mammoth Hot Springs)</a>
     </div>
     <div style="padding: 0.5rem 0;">
       <a href="#day4" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌈 Day 4 - Grand Prismatic & Old Faithful, Yellowstone Lake</a>
