@@ -9,6 +9,42 @@ tag: [Travel, Blogging, Mountains]
 type: park
 ---
 
+<div style="background: #f8f9fa; border-left: 4px solid #c0334a; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <h3 style="color: #000; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: 600;">📋 In this Post:</h3>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0.5rem; color: #000;">
+    <div style="padding: 0.5rem 0;">
+      <a href="#getting-there" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">✈️ Getting There</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#best-time" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">📅 Best Time to Visit</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#bryce-canyon" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏔️ Bryce Canyon National Park</a>
+    </div>
+    <div style="padding: 0.5rem 0; margin-left: 1rem;">
+      <a href="#sunset-sunrise" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌅 Sunset & Sunrise Points</a>
+    </div>
+    <div style="padding: 0.5rem 0; margin-left: 1rem;">
+      <a href="#rainbow-point" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌈 Rainbow Point</a>
+    </div>
+    <div style="padding: 0.5rem 0; margin-left: 1rem;">
+      <a href="#natural-bridge" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌉 Natural Bridge</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#horseshoe-bend" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🐎 Horseshoe Bend</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#wahweap" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏞️ Wahweap Overlook</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#antelope-canyon" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏜️ Antelope Canyon</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#coral-pink" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏖️ Coral Pink Sand Dunes</a>
+    </div>
+  </div>
+</div>
+
 Bryce and Antelope Canyon have been on my list for quite some time now. I saw a images of the 'Horseshoe Bend' on Instagram and instantly fell in love. The short trip can get exhausting but a long weekend is plenty of time to visit the parks and really take the nature in. If you have more time on your hands, this trip can easily be coupled with Zion Nation Park as well. I have spoken in detail about Zion in another post that you can find here - [Zion National Park](https://theduckingtraveller.com/zion-park/)
 
 ![image1]({{site.baseurl}}/assets/img/bryce/1.jpg)
@@ -19,7 +55,7 @@ You can rent a car from Las Vegas Airport and drive to either Springdale or Orde
 
 You can visit these locations almost anytime through the year. Summer(May to September) is always a very popular time for many. To avoid the crowds, October or March/April prove to be really good times as the weather is still not as cold but the crowds are not as high too.
 
-# Bryce Canyon National Park
+# <a id="bryce-canyon"></a>Bryce Canyon National Park
 
 Located in the south of Utah, this park is one of the many boons that Utah has to offer. Bryce Canyon is famous for its many 'Hoodoos' i.e the irregular columns of rocks that you see in the pictures.
 
@@ -29,7 +65,7 @@ Located in the south of Utah, this park is one of the many boons that Utah has t
 
 Along with the many hoodoos, Bryce Canyon also offers one of the best locations to star gaze. There is very minimum light pollution here and that makes this an ideal location to gaze into the night sky.
 
-### Sunset Point, Sunrise Point, Inspiration Point
+### <a id="sunset-sunrise"></a>Sunset Point, Sunrise Point, Inspiration Point
 
 ![image1]({{site.baseurl}}/assets/img/bryce/3.jpg){:height="400px" width="840px"}
 
@@ -41,21 +77,21 @@ The Queens Garden is also very popular but it was under renovation when we were 
 
 ![image1]({{site.baseurl}}/assets/img/bryce/5.jpg){:height="400px" width="840px"}
 
-### Rainbow Point
+### <a id="rainbow-point"></a>Rainbow Point
 
 One of my favourite view from within the park was the Rainbow point. You can embark on a short hike (Bristlecone Loop trail) that gives you a different perspective of the park. You also get a short break from the hoodoos and can see the more green side of the park.
 
-### Natural Bridge
+### <a id="natural-bridge"></a>Natural Bridge
 
 ![image1]({{site.baseurl}}/assets/img/bryce/7.jpg){:height="400px" width="840px"}
 
 Farther into the park, you will find the Natural Bridge, a rock arch that was formed due to water corroding through the rocks. It is quite exciting to see a naturally formed arch.
 
-# Horseshoe Bend
+# <a id="horseshoe-bend"></a>Horseshoe Bend
 
 ![image1]({{site.baseurl}}/assets/img/bryce/9.jpg)
 
-### Wahweap Overlook
+### <a id="wahweap"></a>Wahweap Overlook
 
 From Orderville, we started to make our way to Page, AZ which is about an hour and half drive. The drive itself is very scenic and shorter in comparison to the previous days hectic schedule. Around an hour into the trip, we made a pitstop at Wahweap. The 'Wahweap Overlook' has the most gorgeous views of the Wahweap bay.
 
@@ -75,7 +111,7 @@ The bend is famous for its sunset and sunrise views. We stayed a while among the
 
 For day 2, we rented another Airbnb in Page.
 
-# Antelope Canyon National Park
+# <a id="antelope-canyon"></a>Antelope Canyon National Park
 
 The Antelope Canyons are about a 15 minute drive from downtown Page.
 
@@ -93,7 +129,7 @@ The walking is at a relatively fast pace so you don't get to spend a lot of time
 
 ![image1]({{site.baseurl}}/assets/img/bryce/15.jpg){:height="400px" width="840px"}
 
-### Coral Pink Sand Dunes
+### <a id="coral-pink"></a>Coral Pink Sand Dunes
 
 This was the last day of our trip and after the canyon tour, we made our way back to Las Vegas. On our way back, we stopped at "Coral Pink Sand Dunes". It is along the way - about 1.5 hours from Page and makes for a nice stop for a quick stretch.
 
