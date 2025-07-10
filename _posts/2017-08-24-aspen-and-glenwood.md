@@ -8,9 +8,31 @@ description: Long Weekend Getaway's in the Rockies
 tag: [Travel, Blogging, Mountains]
 type: park
 ---
+
+<div style="background: #f8f9fa; border-left: 4px solid #c0334a; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <h3 style="color: #000; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: 600;">📋 In this Post:</h3>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0.5rem; color: #000;">
+    <div style="padding: 0.5rem 0;">
+      <a href="#aspen" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏔️ Aspen</a>
+    </div>
+    <div style="padding: 0.5rem 0; margin-left: 1rem;">
+      <a href="#maroon-bells" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏔️ Maroon Bells</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#glenwood-springs" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌊 Glenwood Springs</a>
+    </div>
+    <div style="padding: 0.5rem 0; margin-left: 1rem;">
+      <a href="#hanging-lake" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏞️ Hanging Lake</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#georgetown" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏘️ Georgetown</a>
+    </div>
+  </div>
+</div>
+
 A 160mi drive from Denver, Aspen and Glenwood Springs are both gorgeous cities hidden among the mountains. While in Colorado, I would surely recommend awakening the adventurer inside you and driving down to the winter towns during summer.
 
-## Aspen
+## <a id="aspen"></a>Aspen
 
 Although Aspen is known for its winter sports, the city is just as splendid during summer. Must do things when you are here include:
 
@@ -27,7 +49,7 @@ The cost to ride the Gondola is $24 per person and the ride is as breathtaking a
 
 ![image3]({{site.baseurl}}/assets/img/aspen_3.jpg){:height="350px" width="840px"}
 
-### Maroon Bells
+### <a id="maroon-bells"></a>Maroon Bells
 
 A reflective lake, snow-clad mountains, beautiful greenery everywhere you look is the perfect recipe for any trek loving human and that is what Maroon Bells offers us.
 
@@ -44,7 +66,7 @@ The hike is a 1mi round trip and the terrain is very easy to walk on and is very
 ![image5]({{site.baseurl}}/assets/img/aspen_5.jpg){:height="500px" width="840px"}
 
 
-## Glenwood Springs
+## <a id="glenwood-springs"></a>Glenwood Springs
 
 ### White Water Rafting
 
@@ -60,7 +82,7 @@ Glenwood Spring is famous for its year-long hot spring pool located at Glenwood 
 
 There are many natural hot springs along the Colorado River where you can dip into as well. You can find these easily if you go white water rafting.
 
-### Hanging Lake
+### <a id="hanging-lake"></a>Hanging Lake
 
 One of the most strenuous hikes you will ever complete is the Hanging Lake Trek. It is located 10mi from Glenwood spring and is a 2.4mi round trip hike. This may not seem like a lot but it has a steep incline and unpaved roads leading up to the turquoise blue lake. It takes about 3-4 hours to complete the hike so be sure to carry lots of fluids as it is very easy to get dehydrated here.
 
@@ -85,6 +107,6 @@ As I mentioned, the hike is very difficult and is very very steep. If you are no
 There are no restrooms or garbage disposal bins at the top so you need to be prepared on that front as well.
 
 
-### Georgetown
+### <a id="georgetown"></a>Georgetown
 
 On your return trip back to Denver, I would recommend taking a break at Georgetown. This quirky little town was known for its mining industry but is now known for its Victorian architecture and will probably be the smallest downtown you have ever visited. They have a really tasty homemade ice cream store that you must check out.

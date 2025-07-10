@@ -9,28 +9,56 @@ tag: [Travel, Blogging, Mountains]
 type: cities
 ---
 
+<div style="background: #f8f9fa; border-left: 4px solid #c0334a; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <h3 style="color: #000; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: 600;">📋 In this Post:</h3>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0.5rem; color: #000;">
+    <div style="padding: 0.5rem 0;">
+      <a href="#downtown" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏙️ Denver Downtown</a>
+    </div>
+    <div style="padding: 0.5rem 0; margin-left: 1rem;">
+      <a href="#coors-field" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">⚾ Coors Field</a>
+    </div>
+    <div style="padding: 0.5rem 0; margin-left: 1rem;">
+      <a href="#16th-street" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🛍️ 16th Street Mall</a>
+    </div>
+    <div style="padding: 0.5rem 0; margin-left: 1rem;">
+      <a href="#capitol-hill" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏛️ Capitol Hill</a>
+    </div>
+    <div style="padding: 0.5rem 0; margin-left: 1rem;">
+      <a href="#confluence-park" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌊 Confluence Park</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#places-around" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🗺️ Places Around Denver</a>
+    </div>
+    <div style="padding: 0.5rem 0; margin-left: 1rem;">
+      <a href="#boulder" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🎓 Boulder, Colorado</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#where-to-eat" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🍽️ Where to Eat</a>
+    </div>
+  </div>
+</div>
+
 Most people associate Denver with mountains and legal use of certain “herbs” but this city is so much more than just winter-sports and Colfax Avenue (which is the longest main street in the country). Denver in itself has so many activities inside and in its vicinity that there is never a moment to spare!
 
 I know the winters here are surreal and this is a famous destination known for its beautiful ski slopes but in my opinion, Denver during summer has a charm that is very difficult to resist. From hiking up one of the tallest peaks to biking around the city to sitting in one of the many breweries or just catching a ball game. There is something here for all ages and in all moods.
 
 Here are a few of the innumerable things you could be doing when you visit the Mile-High City.
 
-
-
-## Denver Downtown
+## <a id="downtown"></a>Denver Downtown
 Downtown Denver is one of the liveliest downtown areas that I have been to. It is full of art, crafts, and music. The area has a lot of fun activities including brewery tours and shopping malls. A few places I would recommend are:
 
-### Coors Field
+### <a id="coors-field"></a>Coors Field
 
 ![image1]({{site.baseurl}}/assets/img/denver_1.jpg){:height="400px" width="840px"}
 
 The home ground for Colorado Rockies is one of the places where you can grab a glass of beer and relax on a Sunday. The stadium is very close to the Union Square station and 16th Street Mall. You can always visit these places after the game for some good food.
 
-### 16th Street Mall
+### <a id="16th-street"></a>16th Street Mall
 
 16th street is a pedestrian road surrounded by great places to shop and eat. Located in the heart of downtown Denver, there is not a dull moment on the streets. You can find people playing music and performing on the streets, horse-carts carrying people on the roads and the general hustle-bustle of the tourists in the city. The FreeMallRide buses offer free bus services on the street so you don’t have to walk the entire way. There are over 50 restaurants and 300 local shops on this street alone.
 
-### Capitol Hill
+### <a id="capitol-hill"></a>Capitol Hill
 
 
 ![image2]({{site.baseurl}}/assets/img/denver_2.jpg){:height="600px" width="840px"}
@@ -38,11 +66,11 @@ The home ground for Colorado Rockies is one of the places where you can grab a g
 
 Located at the intersection of Broadway, Colfax Avenue, Downing Street and Seventh Avenue is the Capitol building. If you are in the city during 4th of July, this is the place to be. The firework show is wonderful and the downtown area is as always a treat.
 
-### Confluence Park
+### <a id="confluence-park"></a>Confluence Park
 
 If you feel nostalgic about water bodies and like going for a walk near the riverside, this is the place to go. There is green grass and a sidewalk to walk, run or cycle.
 
-## Places around Denver
+## <a id="places-around"></a>Places around Denver
 
 ###  Lookout Mountain Overlook
 
@@ -81,11 +109,11 @@ The sedimentary rocks are a popular tourist destination because of the bright re
 
 You can combine the Pikes Peak and Garden of the Gods in a one-day trip from Denver.
 
-### Boulder, Colorado
+### <a id="boulder"></a>Boulder, Colorado
 
 This college town is located at a 40 min drive from Denver. There are wonderful places to eat and drink in the city. You can visit the University of Colorado, Boulder to witness beautiful architecture. The Rocky Mountain National Park is just a 1.5-hour drive from here.
 
-## Where to Eat?
+## <a id="where-to-eat"></a>Where to Eat?
 
 Voodoo Doughnut: If you like unusual, tasty doughnuts with funky names, this is the place you want to be. The doughnut store from Portland has a branch in Denver and they have the most mouth-watering selection of doughnuts.
 

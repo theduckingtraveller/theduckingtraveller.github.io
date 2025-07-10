@@ -9,13 +9,30 @@ tag: [Travel, Blogging, Mountains]
 type: cities
 ---
 
+<div style="background: #f8f9fa; border-left: 4px solid #c0334a; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <h3 style="color: #000; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: 600;">📋 In this Post:</h3>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0.5rem; color: #000;">
+    <div style="padding: 0.5rem 0;">
+      <a href="#getting-there" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">✈️ Getting There</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#touristy-things" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏛️ Touristy Things to See</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#mexican-food" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌮 Where to Eat</a>
+    </div>
+  </div>
+</div>
+
 If I had to define Texas in one word, it would be BIG! Everything in this lone star state is ginormous! The roads have more lanes, the cars are bigger even the quantity of food in restaurants is massive. I was in El Paso a few months ago and even in the small city things were so different from that in California.
 
 My trip to Dallas was impromptu and short and since the tickets were really inexpensive, I decided to make my way to the Big D! There are two major airports in the Dallas metropolitan area, Dallas-Fort Worth (which is the fourth busiest airport in the country) and Dallas Airport. If you are visiting from a different state, the best and quickest way to reach the city would be flying into one of the two airports.
 
+## <a id="getting-there"></a>Getting There
+
 The airports are located about 45 minutes and since ride-sharing is really expensive here, the best way to get around the city is to rent a car at the airport.
 
-## Touristy things to see in Dallas
+## <a id="touristy-things"></a>Touristy things to see in Dallas
 
 ### The Dallas Arboretum and Botanical Gardens
 
@@ -58,7 +75,7 @@ Have you ever heard a park located over a freeway? No? Klyde Warren Park is! It 
 
 A giant 30 ft eyeball in the middle of the city is just what the city was missing. Situated within the Hotel Joule, the eyeball is an art piece created by Chicago based artist Tony Tasset. The eyeball is a very popular photography destination for many tourists.
 
-### Mexican Food:
+### <a id="mexican-food"></a> Where to Eat:
 
 - RJ Mexican Cuisine
 
