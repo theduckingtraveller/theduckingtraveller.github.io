@@ -21,31 +21,13 @@ tag: [Travel, Blogging, Mountains]
       <a href="#day2" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🚗 Day 2 - Drive to West Yellowstone</a>
     </div>
     <div style="padding: 0.5rem 0;">
-      <a href="#day3" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌋 Day 3 - Yellowstone National Park</a>
+      <a href="#day3" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌋 Day 3 - Yellowstone National Park, Gibbon Falls, Canyon Village & Upper Falls, Hayden Valley, Mammoth Hot Springs</a>
     </div>
     <div style="padding: 0.5rem 0;">
-      <a href="#gibbon-falls" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">💧 Gibbon Falls</a>
+      <a href="#day4" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌈 Day 4 - Grand Prismatic & Old Faithful, Yellowstone Lake</a>
     </div>
     <div style="padding: 0.5rem 0;">
-      <a href="#canyon-village" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏘️ Canyon Village & Upper Falls</a>
-    </div>
-    <div style="padding: 0.5rem 0;">
-      <a href="#hayden-valley" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🦬 Hayden Valley</a>
-    </div>
-    <div style="padding: 0.5rem 0;">
-      <a href="#mammoth" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">♨️ Mammoth Hot Springs</a>
-    </div>
-    <div style="padding: 0.5rem 0;">
-      <a href="#day4" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌈 Day 4 - Grand Prismatic & Old Faithful</a>
-    </div>
-    <div style="padding: 0.5rem 0;">
-      <a href="#yellowstone-lake" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏞️ Yellowstone Lake</a>
-    </div>
-    <div style="padding: 0.5rem 0;">
-      <a href="#day5" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🚴 Day 5 - Teton National Park</a>
-    </div>
-    <div style="padding: 0.5rem 0;">
-      <a href="#jackson-hole" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🦌 Jackson Hole</a>
+      <a href="#day5" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🚴 Day 5 - Teton National Park, Jackson Hole</a>
     </div>
     <div style="padding: 0.5rem 0;">
       <a href="#day6" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🧂 Day 6 - Bonneville Salt Flats</a>
