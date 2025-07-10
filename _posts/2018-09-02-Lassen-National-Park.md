@@ -9,15 +9,42 @@ tag: [Travel, Blogging, National Park]
 type: park
 ---
 
+<div style="background: #f8f9fa; border-left: 4px solid #c0334a; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <h3 style="color: #000; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: 600;">📋 In this Post:</h3>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0.5rem; color: #000;">
+    <div style="padding: 0.5rem 0;">
+      <a href="#getting-there" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🚗 Getting Here</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#tips" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">💡 Tips</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#where-to-stay" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏨 Where to Stay</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#when-to-go" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">📅 When to Go</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#what-to-eat" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🍽️ What to Eat</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#things-to-do" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🎯 Things to Do</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#other-locations" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">📍 Other Locations</a>
+    </div>
+  </div>
+</div>
+
 Lassen National Park is a highly underrated park in my opinion. The park is like Yellowstone's forgotten second cousin which doesn't get the touristy attention it deserves. The park itself is huge and takes more than a short weekend to go over, just like most of the gorgeous national parks. The volcanic history, the ash ridden hikes and the bountiful fir trees just adds more magic to the already scenic park.  
 
 If you haven't been to Yellowstone National Park but want to witness similar natural phenomenon, Lassen is your best bet. For information planning your trip to Yellowstone, visit my post named Yellowstone National Park.
 
-#### Getting here:
+#### <a id="getting-there"></a>Getting here:
 
 Driving is your best bet here. The 250 mile drive takes about 4 hours to get to from San Francisco via the Manzanita entrance. Within the park, you will have to rely on the map provided at the ranger station as there is very limited cellphone coverage. Check out the park map here <a href= "https://www.nps.gov/lavo/planyourvisit/maps.htm" target="_blank"> MAP </a>
 
-#### TIPS:
+#### <a id="tips"></a>TIPS:
 
 > It can get really hot during summer so apply generous amounts of sunscreen.
 
@@ -29,19 +56,19 @@ Driving is your best bet here. The 250 mile drive takes about 4 hours to get to 
 
 > You will reach a height of 8000 feet and the air tends to be thinner here. Don't be alarmed if you find yourself grasping for breath!
 
-#### Where to stay:
+#### <a id="where-to-stay"></a>Where to stay:
 
 Although you might find hotels and Airbnb's in and around the park, your best bet to adore the park is to camp out. I find myself not talking a lot about the joy of camping at parks but my camping experiences tend to be my best ones. There are a lot of walk-in campsites within the park and if you arrive before 11 am on a weekend, you will easily find a spot without too much fuss.
 
 If you want to live in a hotel or in an Airbnb, Redding has a lot of really affordable options (less than $100.00 per night) but it is an hour's drive from Redding to get to the Lassen Park's entrance.
 
-#### When to go:
+#### <a id="when-to-go"></a>When to go:
 Best time to visit the park is between March to October. The park tends to get heavy snowfall during winter and the roads remain closed for most of the cold months. Be sure to check the park website for latest weather updates and plan accordingly.
 
-#### What to eat:
+#### <a id="what-to-eat"></a>What to eat:
 There is a serious lack of restaurants within the park. Your best bet is to carry food. There are grocery stores and coffee shops within the park at locations such as Lake Manzanita and the Kohm Ya-mah-nee Visitor Center. I would still recommend carrying snacks and energy bars with you.
 
-#### Things to do in Lassen Volcanic Park:
+#### <a id="things-to-do"></a>Things to do in Lassen Volcanic Park:
 
 - Lake Manzanita:
 
@@ -102,7 +129,7 @@ We stopped at the Kohm Ya-mah-nee Visitor Center on our way out to grab some sou
 
 ![image9]({{site.baseurl}}/assets/img/lassen6.jpg){:height="800px" width="840px"}
 
-Other locations that you can check out if you have time:
+<a id="other-locations"></a>Other locations that you can check out if you have time:
 <ul>
  <li>Bumpass trailhead (The trail was closed when we visited but it is one of the popular trails here. It is a 3 mile roundtrip hike)</li>
 

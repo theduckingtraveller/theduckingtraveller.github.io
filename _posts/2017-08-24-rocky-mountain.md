@@ -9,13 +9,46 @@ tag: [Travel, Blogging, Mountains]
 type: park
 ---
 
+<div style="background: #f8f9fa; border-left: 4px solid #c0334a; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <h3 style="color: #000; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: 600;">📋 In this Post:</h3>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0.5rem; color: #000;">
+    <div style="padding: 0.5rem 0;">
+      <a href="#estes-park" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏘️ Estes Park</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#trail-ridge-road" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🛣️ Trail Ridge Road</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#lakes" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏞️ Lakes</a>
+    </div>
+    <div style="padding: 0.5rem 0; margin-left: 1rem;">
+      <a href="#emerald-lake" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">💎 Emerald Lake</a>
+    </div>
+    <div style="padding: 0.5rem 0; margin-left: 1rem;">
+      <a href="#nymph-lake" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌸 Nymph Lake</a>
+    </div>
+    <div style="padding: 0.5rem 0; margin-left: 1rem;">
+      <a href="#bear-lake" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🐻 Bear Lake</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#tundra" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏔️ Exploring the Tundra Region</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#alpine-visitor" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏔️ Alpine Visitor Centre</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#forest-canyon" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌲 Forest Canyon Overlook</a>
+    </div>
+  </div>
+</div>
+
 Located at about 2 1/2 hours or 76 mi from Denver are the Rocky Mountains and for me the Switzerland in the west. If you are fascinated by and love living and getting lost in the great heights, if you love wildlife left in the wild, you must definitely have the Rockies on your bucket list. The park during summer is very busy so you will have to make reservations well in advance if you want to stay at Estes Park.
 
 There are a host of campgrounds here and the best way to actually enjoy the park would be to camp. Buses run inside the park for hikers and campers to go from one spot to another.
 
 It is very difficult to capture the beauty of the park over a span of a few days (it has over 350 mi of trails) but I will start by giving you the highlights:
 
-### Estes Park
+### <a id="estes-park"></a>Estes Park
 
 This is the eastern entrance to the Rocky Mountain National Park. It is popular for its summer resorts and is the closest town to the national park. The Lake Estes is a popular spot for a daytime picnic and water sports activities. There are a ton of eateries here including Nepal’s Cafe, Claire’s on the Park and Hayley’s Ice cream.
 
@@ -27,7 +60,7 @@ You can pay the entrance fee at the Visitor Centre and also get information abou
 
 [Rocky Mountain National Park Map](https://www.nps.gov/romo/planyourvisit/maps.htm)
 
-### Trail Ridge Road
+### <a id="trail-ridge-road"></a>Trail Ridge Road
 
 The Trail Ridge Road is a 48 mi road leading from Estes Park into the Rocky Mountains. Located at 11,500 ft above sea level, this road offers visitors a thrilling view of the mountains and the wildlife. It is the highest continuous paved road in the United States and with its breathtaking view, the best one too.
 
@@ -39,17 +72,17 @@ You get beautiful panoramic views of the mountains and the tundra it is engulfed
 
 The weather here can change dramatically so you need to be ready for it all. As the park is located at a high altitude, it can get really cold during summer. Mid-Afternoon thunderstorms are also a usual around here so be well prepared.
 
-### Emerald Lake
+### <a id="lakes"></a>Emerald Lake
 
 The Nymph Lake trail is on the way to the Emerald Lake and one of the most popular trails in the Rocky Mountains. Despite it being crowded by tourists at any given time, this is one of the most stunning lakes in the park. Surrounded by trees and tall mountains, you get a sense of zen while you are here. On the hike, you will pass through meadows, see waterfalls, unique flowers, and animals as well. The lake is full of lily pads and this makes the lake even more unique.
 
 ![image5]({{site.baseurl}}/assets/img/rocky_5.jpg){:height="400px" width="840px"}
 
-### Nymph Lake
+### <a id="nymph-lake"></a>Nymph Lake
 
 The Emerald Lake trail is a 4 mi round trip hike which can be categorized as moderate and I definitely recommend it. You can hike to the Nymph lake or the Dream Lake if you don’t want to hike all the way to Emerald Lake.
 
-### Bear Lake
+### <a id="bear-lake"></a>Bear Lake
 
 If you want to see a gorgeous lake without having to hike at all, this is the place you want to be. The Bear Lake is the most popular spot in the Park. Surrounded by the majestic mountains in all directions, this lake is a hidden gem and very easily accessible.
 
@@ -57,7 +90,7 @@ If you want to see a gorgeous lake without having to hike at all, this is the pl
 
 Since the spot is very popular, you may have problems getting a parking spot here. Be sure to arrive very early to get a spot to park your car and enjoy the lake. The loop of the lake is a 0.8mi trek and has many benches and rest stops along the way.
 
-### Exploring the Tundra Region
+### <a id="tundra"></a>Exploring the Tundra Region
 
 The Rockies have a spectacular display of the high tundra wilderness. The harsh environment in the area allows only the strong and sturdy trees to grow and flourish. Because of the height, unpredictable and difficult weather and thin soil, surviving is a challenge for the wilderness here.
 
@@ -65,7 +98,7 @@ The Rockies have a spectacular display of the high tundra wilderness. The harsh 
 
 If you have never seen tundra-like conditions, this place is surely going to grant you that experience. If you want to have a moment where you can really enjoy the vast tundra here, I recommend the UTE trail. Although the trail is a 4 mi round trip one, you can turn back at any time or just sit back and take it all in.
 
-### Alpine Visitor Centre
+### <a id="alpine-visitor"></a>Alpine Visitor Centre
 
 Alpine is the highest Visitor Center in the United States, at 11,796 ft. It offers a 360 View of the mountains and is covered in snow even during summer. You can witness the unique tundra wilderness from the visitor centre from the large viewing deck located here. Since it is located at a high altitude, the visitor centre does not function year-long and can be accessed only during summer.
 
@@ -73,7 +106,7 @@ Alpine is the highest Visitor Center in the United States, at 11,796 ft. It offe
 
 There are restrooms, café and a souvenir store here. You can have a pit stop to rest and enjoy the mountains. The Visitor Center is on the Trail Ridge Road.
 
-### Forest Canyon Overlook
+### <a id="forest-canyon"></a>Forest Canyon Overlook
 
 One of the most dramatic and panoramic views of the park can be seen from the Forest Canyon Overlook. It is located on the Trail Ridge Road and parking can be tricky here.
 
