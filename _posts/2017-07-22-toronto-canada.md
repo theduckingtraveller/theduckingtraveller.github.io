@@ -13,22 +13,22 @@ type: international
   <h3 style="color: #000; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: 600;">📋 In this Post:</h3>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0.5rem; color: #000;">
     <div style="padding: 0.5rem 0;">
-      <a href="#CN-Tower" style="color: #000; text-decoration: none; font-weight: 500; transition: color 0.2s;">🏗️ CN Tower</a>
+      <a href="#CN-Tower" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏗️ CN Tower</a>
     </div>
     <div style="padding: 0.5rem 0;">
-      <a href="#Lawrence-Market" style="color: #000; text-decoration: none; font-weight: 500; transition: color 0.2s;">🛒 St Lawrence Market</a>
+      <a href="#Lawrence-Market" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🛒 St Lawrence Market</a>
     </div>
     <div style="padding: 0.5rem 0;">
-      <a href="#Distillery-District" style="color: #000; text-decoration: none; font-weight: 500; transition: color 0.2s;">🏭 Distillery District</a>
+      <a href="#Distillery-District" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏭 Distillery District</a>
     </div>
     <div style="padding: 0.5rem 0;">
-      <a href="#YD-Square" style="color: #000; text-decoration: none; font-weight: 500; transition: color 0.2s;">🏙️ Yonge-Dundas Square</a>
+      <a href="#YD-Square" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏙️ Yonge-Dundas Square</a>
     </div>
     <div style="padding: 0.5rem 0;">
-      <a href="#path" style="color: #000; text-decoration: none; font-weight: 500; transition: color 0.2s;">🚇 PATH</a>
+      <a href="#path" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🚇 PATH</a>
     </div>
     <div style="padding: 0.5rem 0;">
-      <a href="#Niagara-Falls" style="color: #000; text-decoration: none; font-weight: 500; transition: color 0.2s;">🌊 Niagara Falls</a>
+      <a href="#Niagara-Falls" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌊 Niagara Falls</a>
     </div>
   </div>
 </div>

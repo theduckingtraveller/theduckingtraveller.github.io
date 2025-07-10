@@ -9,6 +9,36 @@ tag: [Travel, Blogging, Mountains]
 type: park
 ---
 
+<div style="background: #f8f9fa; border-left: 4px solid #c0334a; padding: 1.5rem; margin: 2rem 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <h3 style="color: #000; margin: 0 0 1rem 0; font-size: 1.3rem; font-weight: 600;">📋 In this Post:</h3>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 0.5rem; color: #000;">
+    <div style="padding: 0.5rem 0;">
+      <a href="#where-to-stay" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏨 Where to Stay</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#getting-here" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">✈️ Getting Here</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#weather" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌤️ Weather</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#day1" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🌅 Day 1 - Lake McDonald</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#day2" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏔️ Day 2 - Hidden Lake & Avalanche</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#day3" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🧊 Day 3 - Grinnell Glacier</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#day4" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🛣️ Day 4 - Going to the Sun Road</a>
+    </div>
+    <div style="padding: 0.5rem 0;">
+      <a href="#tips" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">💡 Additional Tips</a>
+    </div>
+  </div>
+</div>
+
 
 
 ![image1]({{site.baseurl}}/assets/img/GlacierNP/1.jpg){:height="400px" width="840px"}
@@ -22,13 +52,13 @@ type: park
 
 
 
-Where to stay:
+# <a id="where-to-stay"></a>Where to stay:
 
 Glacier National Park is in quite a remote location so there are limited stay options available. The two primary places where you can more easily find accomodations are Kalispell and Whitefish. 
 
 We stayed in an airbnb on a farm near Whitefish but there are several inns and motels around the park.
 
-Getting here:
+# <a id="getting-here"></a>Getting here:
 
 There are two primary ways to come to Glacier National Park
 
@@ -36,11 +66,11 @@ There are two primary ways to come to Glacier National Park
 
 2. By Road - You can drive to Glacier National Park but it can take a while even from Spokane, Washington (closest major city, takes 5 hours) or Boise, ID(takes 10 hours).
 
-Weather:
+# <a id="weather"></a>Weather:
 
 The weather here can be extreme with high temperatures of 80F during summer and lows of -40F during winter months. The sweet spot is between July to September where all the roads and hikes are open to public and the temperatures are very pleasant and the wildlife is very active too.
 
-Day 1:
+# <a id="day1"></a>Day 1:
 
 Sunset at Lake McDonald 
 ![image1]({{site.baseurl}}/assets/img/GlacierNP/lake1.jpg){:height="400px" width="840px"}
@@ -52,7 +82,7 @@ This spot is well known for reflective photos of the mountains in the water on c
 ![image1]({{site.baseurl}}/assets/img/GlacierNP/lake2.jpeg){:height="400px" width="840px"}
 
 
-Day 2: 
+# <a id="day2"></a>Day 2: 
 
 Hidden Lake Overlook
 ![image1]({{site.baseurl}}/assets/img/GlacierNP/A.jpeg){:height="400px" width="840px"}
@@ -96,7 +126,7 @@ This hike will take about 3-4 hours so pack water and energy bars and enjoy a ca
 
 HOT TIP: Go early for good photos. At noon, the sun makes its a little difficult to capture the beauty of this lake.
 
-Day 3:
+# <a id="day3"></a>Day 3:
 
 Hike day at Grinnell Glacier!
 
@@ -124,7 +154,7 @@ Bring layers as the weather gets cooler the more elevation you gain. This is a v
 You can grab food at the Many Glacier hotel but food options are limited so pack before you start the hike. There are two ways to start the hike - we walked the whole way but if you plan in advance, you can take a boat across Swiftcurrent Lake + Lake Josephine and shell about 3 miles each way.
 
 
-Day 4:
+# <a id="day4"></a>Day 4:
 
 Going to the Sun Road with multiple view points along the way
 
@@ -147,7 +177,7 @@ Huckleberry Icecream:
 
 A local treat, you will find huckleberry products such as ice-cream, pies, jams and even hot sauce on sale all around the park during summer. We got this tasty ice-cream at Eddie’s Ice Cream near lake McDonald. 
 
-Additional Tips:
+# <a id="tips"></a>Additional Tips:
 
 - Book early to get a good deal on hotels and flights
 - Bears are very active during summer - Dont be like us and please carry a Bear Spray 
