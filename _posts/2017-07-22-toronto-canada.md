@@ -16,7 +16,7 @@ type: international
       <a href="#Info" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏗️ Basic Information</a>
     </div>
     <div style="padding: 0.5rem 0;">
-      <a href="#Info" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏗️ Getting Here</a>
+      <a href="#Getting-Here" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏗️ Getting Here</a>
     </div>
     <div style="padding: 0.5rem 0;">
       <a href="#CN-Tower" style="color: #000; text-decoration: underline; font-weight: 500; transition: color 0.2s;">🏗️ CN Tower</a>
@@ -49,7 +49,7 @@ Currency in Canada is CAD and 1CAD = 0.73 USD.
 
 Get a roaming sim card using  <a href="https://www.getnomad.app/">Nomad</a> Use my referal code AMRI34EB for $5 off your first eSIM data plan purchase.
 
-### Getting here
+### <a id="Getting-Here"></a> Getting here
 
 If you are staying in Mississauga, Brampton or any neighbouring city, the transportation is really convenient. There are buses and trains that drop you right in the heart of downtown Toronto. There are underground trains that connect the entire city internally as well. I would suggest walking when in the city, to get a feel for the local culture.
 
