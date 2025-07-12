@@ -75,7 +75,7 @@ Both Arches and Canyonlands are such unique national parks with so many arches a
 Your first stop will be at the Island in the Sky Visitor Center where you can purchase tickets to enter the park and souveigners to take home.
 
 
-![image1]({{site.baseurl}}/assets/img/arches/7.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/arches/18.jpg){:height="400px" width="840px"}
 
 
 The first stop on your day will be at Mesa Arch. This is a 0.6 mi roundtrip hike and takes about 30 minutes to cover with an elevation gain of 56ft. This is a perfect spot to view the sunset but beware that this is a popular hike and it might be crowded. 
@@ -98,8 +98,6 @@ On your way out, make a quick stop at the Dead Horse Point State Palk for views 
 ![image1]({{site.baseurl}}/assets/img/arches/15.jpg){:height="400px" width="840px"}
 
 
-
-
 ## <a id="day2"></a> Day 2 Arches National Park
 
 ![image1]({{site.baseurl}}/assets/img/arches/18.jpg){:height="400px" width="840px"}
@@ -117,7 +115,7 @@ Landscape Arch
 
 Sand Dune Arch
 
-![image1]({{site.baseurl}}/assets/img/arches/18.jpg){:height="400px" width="840px"}
+![image1]({{site.baseurl}}/assets/img/arches/3.jpg){:height="400px" width="840px"}
 
 Double Arch, North Window Arch, & Turret Arch
 
@@ -137,13 +135,13 @@ North Window arch is one of the most noticable views of the park only following 
 
 Next up, you can visit the Balanced Rock and The Phallus Pillar which are both unique and fun stops along the way.
 
-![image1]({{site.baseurl}}/assets/img/arches/3.jpg){:height="400px" width="840px"}
-
 ![image1]({{site.baseurl}}/assets/img/arches/5.jpg){:height="400px" width="840px"}
 
+![image1]({{site.baseurl}}/assets/img/arches/arch2.jpg){:height="400px" width="840px"}
 
 
-## <a id="day3"></a> Day 3 - Arches National Park
+
+## <a id="day3"></a> Day 3 - Arches National Park - Delicate Arch 
 
 The final day was a day full of relaxation as we wanted to enjoy the small town of Moab while we were here. We spend time exploring cafes, local shops and relaxing in the hot tub in our hotel. Later in the day, we made our way back to Arches National Park for our final hike of the trip - 
 
@@ -156,8 +154,6 @@ This is one of my favourite hikes which is strenuous with extremely rewarding fr
 ![image1]({{site.baseurl}}/assets/img/arches/21.jpg){:height="400px" width="840px"}
 
 It can take anywhere from 2-3 hours to complete and the best but most popular time to hike this is just before sunset - just be sure to carry a light with you as the sun sets fast in the mountains and it gets dark very quick. 
-
-![image1]({{site.baseurl}}/assets/img/arches/arch2.jpg){:height="400px" width="840px"}
 
 The hike can be a little dangerous as it is steep and the markes can be tricky to find so wear firm grippy shoes and always be alert!
 
