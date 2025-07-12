@@ -1,11 +1,11 @@
 ---
-sortingnumber: 30
+sortingnumber: 32
 layout: post
-title: "Rome, Italy"
+title: "Mexico City"
 img: Rome.jpg {:height="750px" width="400px"}
-date: 2024-11-14 12:00:00 +0300
-description: Viva l'Italia - Exploring the Eternal City
-tag: [Travel, Blogging, Solo, International, Europe]
+date: 2023-09-10 12:00:00 +0300
+description: Let's Explore Mexico City!
+tag: [Travel, Blogging, Solo, International, Mexico]
 type: international
 ---
 
@@ -90,7 +90,7 @@ Rome is a culinary paradise with countless dining options:
 - **Piazza Navona**: Beautiful square with stunning fountains
 - **Castel Sant'Angelo**: Ancient fortress with panoramic views
 
-## <a id="hidden-gems"></a>Hidden Gems
+## <a id="hidden-gems"></a>Hiddens Gems
 
 Beyond the main tourist attractions, Rome has many lesser-known treasures:
 
