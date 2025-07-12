@@ -2,7 +2,7 @@
 sortingnumber: 28
 layout: post
 title: "Mexico City"
-img: Rome.jpg {:height="750px" width="400px"}
+img: cdmx.png {:height="750px" width="400px"}
 date: 2023-09-10 12:00:00 +0300
 description: Let's Explore Mexico City!
 tag: [Travel, Blogging, Solo, International, Mexico]
