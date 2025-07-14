@@ -18,6 +18,7 @@ body {
   position: relative;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .navbar a {
@@ -115,6 +116,123 @@ body {
   transform: translateY(0);
 }
 
+/* Search Bar Styles */
+.search-container {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  position: relative;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 25px;
+  padding: 0.5rem 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+  min-width: 250px;
+}
+
+.search-box:focus-within {
+  box-shadow: 0 4px 12px rgba(192, 51, 74, 0.2);
+  transform: translateY(-1px);
+}
+
+.search-input {
+  border: none;
+  outline: none;
+  background: transparent;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  color: #333;
+  width: 100%;
+  padding: 0.5rem 0;
+}
+
+.search-input::placeholder {
+  color: #999;
+}
+
+.search-button {
+  background: none;
+  border: none;
+  color: #c0334a;
+  cursor: pointer;
+  padding: 0.5rem;
+  margin-left: 0.5rem;
+  transition: all 0.3s ease;
+  border-radius: 50%;
+}
+
+.search-button:hover {
+  background-color: rgba(192, 51, 74, 0.1);
+  transform: scale(1.1);
+}
+
+/* Search Results Dropdown */
+.search-results {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+  min-width: 300px;
+  max-width: 400px;
+  max-height: 400px;
+  overflow-y: auto;
+  z-index: 1000;
+  display: none;
+  margin-top: 0.5rem;
+}
+
+.search-result-item {
+  padding: 1rem;
+  border-bottom: 1px solid #f0f0f0;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.search-result-item:last-child {
+  border-bottom: none;
+}
+
+.search-result-item:hover {
+  background-color: #f8f9fa;
+}
+
+.search-result-item img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.search-result-content h4 {
+  margin: 0 0 0.25rem 0;
+  color: #333;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.search-result-content p {
+  margin: 0;
+  color: #666;
+  font-size: 12px;
+}
+
+.no-results {
+  padding: 1rem;
+  text-align: center;
+  color: #666;
+  font-style: italic;
+}
+
 /* Add a subtle line under the navbar */
 .navbar::after {
   content: '';
@@ -178,91 +296,242 @@ body {
     padding: 1rem 2rem;
     text-align: center;
   }
+  
+  .search-container {
+    margin: 1rem 0;
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .search-box {
+    width: 90%;
+    max-width: 300px;
+  }
+  
+  .search-results {
+    width: 90%;
+    max-width: 300px;
+    right: auto;
+    left: 50%;
+    transform: translateX(-50%);
+  }
 }
 </style>
 </head>
 
 <body>
 <div class="navbar">
-  <div class="dropdown">
-    <a href="/india" class="dropbtn">
-      <span>India</span>
-      <i class="fa fa-caret-down"></i>
-    </a>
-    <div class="dropdown-content">
-      <a href="https://theduckingtraveller.com/kerala/">Kerala Backwaters</a>
-      <a href="https://theduckingtraveller.com/Jaipur/">Jaipur</a>
-      <a href="https://theduckingtraveller.com/assam/">Guwahati and Shillong</a>
-      <a href="https://theduckingtraveller.com/Ranthambore/">Ranthambore National Forest</a>
-      <a href="https://theduckingtraveller.com/assam1/">Kaziranga National Park and Cherrapunji Forest</a>
+  <div style="display: flex; align-items: center;">
+    <div class="dropdown">
+      <a href="/india" class="dropbtn">
+        <span>India</span>
+        <i class="fa fa-caret-down"></i>
+      </a>
+      <div class="dropdown-content">
+        <a href="https://theduckingtraveller.com/kerala/">Kerala Backwaters</a>
+        <a href="https://theduckingtraveller.com/Jaipur/">Jaipur</a>
+        <a href="https://theduckingtraveller.com/assam/">Guwahati and Shillong</a>
+        <a href="https://theduckingtraveller.com/Ranthambore/">Ranthambore National Forest</a>
+        <a href="https://theduckingtraveller.com/assam1/">Kaziranga National Park and Cherrapunji Forest</a>
+      </div>
+    </div>
+
+    <div class="dropdown">
+      <a href="/us-cities" class="dropbtn">
+        <span>US Cities</span>
+        <i class="fa fa-caret-down"></i>
+      </a>
+      <div class="dropdown-content">
+        <a href="https://theduckingtraveller.com/denver-colorado/">Denver</a>
+        <a href="https://theduckingtraveller.com/dallas-texas/">Dallas</a>
+        <a href="https://theduckingtraveller.com/ElPaso-Texas/">El Paso</a>
+        <a href="https://theduckingtraveller.com/austin/">Austin</a>
+        <a href="https://theduckingtraveller.com/tampa/">Tampa Bay</a>
+        <a href="https://theduckingtraveller.com/portland/">Portland</a>
+        <a href="https://theduckingtraveller.com/aspen-and-glenwood/">Aspen and Glenwood Springs</a>
+        <a href="https://theduckingtraveller.com/Hawaii1">Maui - Hawaii</a>
+        <a href="https://theduckingtraveller.com/Hawaii2">Kauai - Hawaii</a>
+      </div>
+    </div>
+
+    <div class="dropdown">
+      <a href="/national-parks" class="dropbtn">
+        <span>US National Parks</span>
+        <i class="fa fa-caret-down"></i>
+      </a>
+      <div class="dropdown-content">
+        <a href="https://theduckingtraveller.com/Arches-Canyonlands/">Arches and Canyonlands National Park</a>
+        <a href="https://theduckingtraveller.com/Alaska/">Alaska and Denali National Park</a>
+        <a href="https://theduckingtraveller.com/Bryce-Antelope/">Bryce and Antelope Canyon National Park</a>
+        <a href="https://theduckingtraveller.com/Glacier-National-Park/">Glacier National Park</a>
+        <a href="https://theduckingtraveller.com/GC/">Grand Canyon National Park</a>
+        <a href="https://theduckingtraveller.com/Lassen-National-Park/">Lassen National Park</a>
+        <a href="https://theduckingtraveller.com/PCH/">Pacific Coast Highway</a>
+        <a href="https://theduckingtraveller.com/rocky-mountain/">Rocky Mountain National Park</a>
+        <a href="https://theduckingtraveller.com/yellowstone/">Yellowstone National Park</a>
+        <a href="https://theduckingtraveller.com/yosemite/">Yosemite National Park</a>
+        <a href="https://theduckingtraveller.com/zion-park/">Zion National Park</a>
+      </div>
+    </div>
+    
+    <div class="dropdown">
+      <a href="/international" class="dropbtn">
+        <span>International Cities</span>
+        <i class="fa fa-caret-down"></i>
+      </a>
+      <div class="dropdown-content">
+        <a href="https://theduckingtraveller.com/toronto-canada/">Toronto</a>
+        <a href="https://theduckingtraveller.com/dubai/">Dubai</a>
+        <a href="https://theduckingtraveller.com/rome/">Rome</a>
+        <a href="https://theduckingtraveller.com/maldives/">Maldives</a>
+        <a href="https://theduckingtraveller.com/mexico-city/">Mexico City</a>
+      </div>
+    </div>
+
+    <div class="dropdown">
+      <a href="/events" class="dropbtn">
+        <span>Rhythms of Nature</span>
+        <i class="fa fa-caret-down"></i>
+      </a>
+      <div class="dropdown-content">
+        <a href="https://theduckingtraveller.com/eclipse/">Total Solar Eclipse 2017</a>
+        <a href="https://theduckingtraveller.com/Stonehenge/">Summer Equinox-Stonehenge</a>
+      </div>
     </div>
   </div>
 
-  <div class="dropdown">
-    <a href="/us-cities" class="dropbtn">
-      <span>US Cities</span>
-      <i class="fa fa-caret-down"></i>
-    </a>
-    <div class="dropdown-content">
-      <a href="https://theduckingtraveller.com/denver-colorado/">Denver</a>
-      <a href="https://theduckingtraveller.com/dallas-texas/">Dallas</a>
-      <a href="https://theduckingtraveller.com/ElPaso-Texas/">El Paso</a>
-      <a href="https://theduckingtraveller.com/austin/">Austin</a>
-      <a href="https://theduckingtraveller.com/tampa/">Tampa Bay</a>
-      <a href="https://theduckingtraveller.com/portland/">Portland</a>
-      <a href="https://theduckingtraveller.com/aspen-and-glenwood/">Aspen and Glenwood Springs</a>
-      <a href="https://theduckingtraveller.com/Hawaii1">Maui - Hawaii</a>
-      <a href="https://theduckingtraveller.com/Hawaii2">Kauai - Hawaii</a>
+  <!-- Search Bar -->
+  <div class="search-container">
+    <div class="search-box">
+      <input type="text" class="search-input" id="searchInput" placeholder="Search posts..." autocomplete="off">
+      <button class="search-button" onclick="performSearch()">
+        <i class="fa fa-search"></i>
+      </button>
     </div>
+    <div class="search-results" id="searchResults"></div>
   </div>
-
-  <div class="dropdown">
-    <a href="/national-parks" class="dropbtn">
-      <span>US National Parks</span>
-      <i class="fa fa-caret-down"></i>
-    </a>
-    <div class="dropdown-content">
-      <a href="https://theduckingtraveller.com/Arches-Canyonlands/">Arches and Canyonlands National Park</a>
-      <a href="https://theduckingtraveller.com/Alaska/">Alaska and Denali National Park</a>
-      <a href="https://theduckingtraveller.com/Bryce-Antelope/">Bryce and Antelope Canyon National Park</a>
-      <a href="https://theduckingtraveller.com/Glacier-National-Park/">Glacier National Park</a>
-      <a href="https://theduckingtraveller.com/GC/">Grand Canyon National Park</a>
-      <a href="https://theduckingtraveller.com/Lassen-National-Park/">Lassen National Park</a>
-      <a href="https://theduckingtraveller.com/PCH/">Pacific Coast Highway</a>
-      <a href="https://theduckingtraveller.com/rocky-mountain/">Rocky Mountain National Park</a>
-      <a href="https://theduckingtraveller.com/yellowstone/">Yellowstone National Park</a>
-      <a href="https://theduckingtraveller.com/yosemite/">Yosemite National Park</a>
-      <a href="https://theduckingtraveller.com/zion-park/">Zion National Park</a>
-    </div>
-  </div>
-  
-  <div class="dropdown">
-    <a href="/international" class="dropbtn">
-      <span>International Cities</span>
-      <i class="fa fa-caret-down"></i>
-    </a>
-    <div class="dropdown-content">
-      <a href="https://theduckingtraveller.com/toronto-canada/">Toronto</a>
-      <a href="https://theduckingtraveller.com/dubai/">Dubai</a>
-      <a href="https://theduckingtraveller.com/rome/">Rome</a>
-      <a href="https://theduckingtraveller.com/maldives/">Maldives</a>
-      <a href="https://theduckingtraveller.com/mexico-city/">Mexico City</a>
-    </div>
-  </div>
-
-  <div class="dropdown">
-    <a href="/events" class="dropbtn">
-      <span>Rhythms of Nature</span>
-      <i class="fa fa-caret-down"></i>
-    </a>
-    <div class="dropdown-content">
-      <a href="https://theduckingtraveller.com/eclipse/">Total Solar Eclipse 2017</a>
-      <a href="https://theduckingtraveller.com/Stonehenge/">Summer Equinox-Stonehenge</a>
-    </div>
-  </div>
-
-  
 </div>
+
+<script>
+// Search functionality
+let searchTimeout;
+const searchInput = document.getElementById('searchInput');
+const searchResults = document.getElementById('searchResults');
+
+// Search data - this will be populated with all your posts
+const searchData = [
+  { title: "Kerala Backwaters", url: "https://theduckingtraveller.com/kerala/", description: "Experience the serene backwaters of Kerala", tags: ["India", "Backwaters", "Nature"] },
+  { title: "Jaipur", url: "https://theduckingtraveller.com/Jaipur/", description: "The Pink City of Rajasthan", tags: ["India", "Rajasthan", "Culture"] },
+  { title: "Guwahati and Shillong", url: "https://theduckingtraveller.com/assam/", description: "Exploring the beauty of Assam and Meghalaya", tags: ["India", "Assam", "Meghalaya"] },
+  { title: "Ranthambore National Forest", url: "https://theduckingtraveller.com/Ranthambore/", description: "Tiger spotting in Ranthambore", tags: ["India", "Wildlife", "Tigers"] },
+  { title: "Kaziranga National Park and Cherrapunji Forest", url: "https://theduckingtraveller.com/assam1/", description: "One-horned rhinos and living root bridges", tags: ["India", "Wildlife", "Rhinos"] },
+  { title: "Denver", url: "https://theduckingtraveller.com/denver-colorado/", description: "The Mile High City", tags: ["US Cities", "Colorado", "Mountains"] },
+  { title: "Dallas", url: "https://theduckingtraveller.com/dallas-texas/", description: "Big D - Everything's bigger in Texas", tags: ["US Cities", "Texas", "Culture"] },
+  { title: "El Paso", url: "https://theduckingtraveller.com/ElPaso-Texas/", description: "The Sun City of Texas", tags: ["US Cities", "Texas", "Border"] },
+  { title: "Austin", url: "https://theduckingtraveller.com/austin/", description: "Keep Austin Weird", tags: ["US Cities", "Texas", "Music"] },
+  { title: "Tampa Bay", url: "https://theduckingtraveller.com/tampa/", description: "The other side of the Sunshine State", tags: ["US Cities", "Florida", "Beaches"] },
+  { title: "Portland", url: "https://theduckingtraveller.com/portland/", description: "The city of Roses", tags: ["US Cities", "Oregon", "Food"] },
+  { title: "Aspen and Glenwood Springs", url: "https://theduckingtraveller.com/aspen-and-glenwood/", description: "Long Weekend Getaway's in the Rockies", tags: ["US Cities", "Colorado", "Mountains"] },
+  { title: "Maui - Hawaii", url: "https://theduckingtraveller.com/Hawaii1", description: "The Valley Isle", tags: ["US Cities", "Hawaii", "Beaches"] },
+  { title: "Kauai - Hawaii", url: "https://theduckingtraveller.com/Hawaii2", description: "Aloha Begins at Kauai", tags: ["US Cities", "Hawaii", "Islands"] },
+  { title: "Arches and Canyonlands National Park", url: "https://theduckingtraveller.com/Arches-Canyonlands/", description: "Red rock wonders of Utah", tags: ["National Parks", "Utah", "Red Rocks"] },
+  { title: "Alaska and Denali National Park", url: "https://theduckingtraveller.com/Alaska/", description: "The Last Frontier", tags: ["National Parks", "Alaska", "Wilderness"] },
+  { title: "Bryce and Antelope Canyon National Park", url: "https://theduckingtraveller.com/Bryce-Antelope/", description: "Hoodoos and slot canyons", tags: ["National Parks", "Utah", "Geology"] },
+  { title: "Glacier National Park", url: "https://theduckingtraveller.com/Glacier-National-Park/", description: "Crown of the Continent", tags: ["National Parks", "Montana", "Glaciers"] },
+  { title: "Grand Canyon National Park", url: "https://theduckingtraveller.com/GC/", description: "One of the Seven Natural Wonders", tags: ["National Parks", "Arizona", "Canyon"] },
+  { title: "Lassen National Park", url: "https://theduckingtraveller.com/Lassen-National-Park/", description: "California's hidden gem", tags: ["National Parks", "California", "Volcanoes"] },
+  { title: "Pacific Coast Highway", url: "https://theduckingtraveller.com/PCH/", description: "America's most scenic drive", tags: ["National Parks", "California", "Coast"] },
+  { title: "Rocky Mountain National Park", url: "https://theduckingtraveller.com/rocky-mountain/", description: "Time Crunching Road Trip", tags: ["National Parks", "Colorado", "Mountains"] },
+  { title: "Yellowstone National Park", url: "https://theduckingtraveller.com/yellowstone/", description: "America's first national park", tags: ["National Parks", "Wyoming", "Geysers"] },
+  { title: "Yosemite National Park", url: "https://theduckingtraveller.com/yosemite/", description: "The Most Precious Gem of the Sierra Range", tags: ["National Parks", "California", "Valley"] },
+  { title: "Zion National Park", url: "https://theduckingtraveller.com/zion-park/", description: "Utah's first national park", tags: ["National Parks", "Utah", "Canyons"] },
+  { title: "Toronto", url: "https://theduckingtraveller.com/toronto-canada/", description: "Canada's largest city", tags: ["International", "Canada", "City"] },
+  { title: "Dubai", url: "https://theduckingtraveller.com/dubai/", description: "City of Gold", tags: ["International", "UAE", "Luxury"] },
+  { title: "Rome", url: "https://theduckingtraveller.com/rome/", description: "The Eternal City", tags: ["International", "Italy", "History"] },
+  { title: "Maldives", url: "https://theduckingtraveller.com/maldives/", description: "Oh the Island Life", tags: ["International", "Islands", "Luxury"] },
+  { title: "Mexico City", url: "https://theduckingtraveller.com/mexico-city/", description: "Let's Explore Mexico City!", tags: ["International", "Mexico", "Culture"] },
+  { title: "Total Solar Eclipse 2017", url: "https://theduckingtraveller.com/eclipse/", description: "Madras, Oregon", tags: ["Events", "Eclipse", "Nature"] },
+  { title: "Summer Equinox-Stonehenge", url: "https://theduckingtraveller.com/Stonehenge/", description: "The Mysterious Stonehenge during Summer Equinox", tags: ["Events", "Stonehenge", "History"] }
+];
+
+searchInput.addEventListener('input', function() {
+  clearTimeout(searchTimeout);
+  searchTimeout = setTimeout(() => {
+    const query = this.value.toLowerCase().trim();
+    if (query.length >= 2) {
+      performSearch(query);
+    } else {
+      searchResults.style.display = 'none';
+    }
+  }, 300);
+});
+
+searchInput.addEventListener('focus', function() {
+  if (this.value.length >= 2) {
+    searchResults.style.display = 'block';
+  }
+});
+
+// Close search results when clicking outside
+document.addEventListener('click', function(e) {
+  if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
+    searchResults.style.display = 'none';
+  }
+});
+
+function performSearch(query = null) {
+  const searchQuery = query || searchInput.value.toLowerCase().trim();
+  
+  if (searchQuery.length < 2) {
+    searchResults.style.display = 'none';
+    return;
+  }
+
+  const results = searchData.filter(item => {
+    return item.title.toLowerCase().includes(searchQuery) ||
+           item.description.toLowerCase().includes(searchQuery) ||
+           item.tags.some(tag => tag.toLowerCase().includes(searchQuery));
+  }).slice(0, 8); // Limit to 8 results
+
+  displaySearchResults(results);
+}
+
+function displaySearchResults(results) {
+  if (results.length === 0) {
+    searchResults.innerHTML = '<div class="no-results">No posts found</div>';
+  } else {
+    searchResults.innerHTML = results.map(item => `
+      <div class="search-result-item" onclick="window.location.href='${item.url}'">
+        <div class="search-result-content">
+          <h4>${item.title}</h4>
+          <p>${item.description}</p>
+          <p style="font-size: 10px; color: #c0334a;">${item.tags.join(', ')}</p>
+        </div>
+      </div>
+    `).join('');
+  }
+  
+  searchResults.style.display = 'block';
+}
+
+// Handle Enter key
+searchInput.addEventListener('keypress', function(e) {
+  if (e.key === 'Enter') {
+    const query = this.value.toLowerCase().trim();
+    if (query.length >= 2) {
+      const results = searchData.filter(item => {
+        return item.title.toLowerCase().includes(query) ||
+               item.description.toLowerCase().includes(query) ||
+               item.tags.some(tag => tag.toLowerCase().includes(query));
+      });
+      
+      if (results.length > 0) {
+        window.location.href = results[0].url;
+      }
+    }
+  }
+});
+</script>
 
 </body>
 </html>

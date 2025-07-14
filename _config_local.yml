@@ -1,0 +1,6 @@
+# Local development configuration
+# This file overrides production settings for local development
+# To use this, run: jekyll serve --config _config.yml,_config_local.yml
+
+# Override the search base URL for local development
+search_base_url: "http://localhost:4000" 

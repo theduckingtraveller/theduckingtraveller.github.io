@@ -1,0 +1,434 @@
+---
+layout: main
+title: "Search Posts"
+description: "Search through all travel posts and destinations"
+---
+
+<style>
+.search-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.search-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.search-header h1 {
+  color: #333;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.search-header p {
+  color: #666;
+  font-size: 1.1rem;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3rem;
+}
+
+.search-box-large {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border: 2px solid #e0e0e0;
+  border-radius: 50px;
+  padding: 1rem 1.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+  min-width: 500px;
+  max-width: 600px;
+}
+
+.search-box-large:focus-within {
+  border-color: #c0334a;
+  box-shadow: 0 6px 20px rgba(192, 51, 74, 0.2);
+}
+
+.search-input-large {
+  border: none;
+  outline: none;
+  background: transparent;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.1rem;
+  color: #333;
+  width: 100%;
+  padding: 0.5rem 0;
+}
+
+.search-input-large::placeholder {
+  color: #999;
+}
+
+.search-button-large {
+  background: #c0334a;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 0.75rem 1.5rem;
+  margin-left: 1rem;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+}
+
+.search-button-large:hover {
+  background: #a02a3f;
+  transform: translateY(-2px);
+}
+
+.filters {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.filter-button {
+  background: #f8f9fa;
+  border: 2px solid #e0e0e0;
+  color: #666;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.9rem;
+}
+
+.filter-button.active {
+  background: #c0334a;
+  border-color: #c0334a;
+  color: white;
+}
+
+.filter-button:hover {
+  border-color: #c0334a;
+  color: #c0334a;
+}
+
+.search-results {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.search-result-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  overflow: hidden;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.search-result-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
+.result-image {
+  width: 100%;
+  height: 200px;
+  background: linear-gradient(135deg, #c0334a, #a02a3f);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 3rem;
+}
+
+.result-content {
+  padding: 1.5rem;
+}
+
+.result-content h3 {
+  margin: 0 0 0.5rem 0;
+  color: #333;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.result-content p {
+  margin: 0 0 1rem 0;
+  color: #666;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.result-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.result-tag {
+  background: #f8f9fa;
+  color: #c0334a;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.no-results {
+  text-align: center;
+  padding: 3rem;
+  color: #666;
+}
+
+.no-results h3 {
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.suggestions {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.suggestions h4 {
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.suggestion-tags {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.suggestion-tag {
+  background: #c0334a;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+}
+
+.suggestion-tag:hover {
+  background: #a02a3f;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  .search-page {
+    padding: 1rem;
+  }
+  
+  .search-box-large {
+    min-width: auto;
+    width: 100%;
+    max-width: none;
+  }
+  
+  .search-results {
+    grid-template-columns: 1fr;
+  }
+  
+  .filters {
+    justify-content: flex-start;
+  }
+}
+</style>
+
+<div class="search-page">
+  <div class="search-header">
+    <h1>🔍 Search Posts</h1>
+    <p>Find your next travel destination from our collection of posts</p>
+  </div>
+
+  <div class="search-container">
+    <div class="search-box-large">
+      <input type="text" class="search-input-large" id="searchInputLarge" placeholder="Search for destinations, activities, or topics..." autocomplete="off">
+      <button class="search-button-large" onclick="performLargeSearch()">
+        <i class="fa fa-search"></i> Search
+      </button>
+    </div>
+  </div>
+
+  <div class="filters">
+    <button class="filter-button active" data-filter="all">All Posts</button>
+    <button class="filter-button" data-filter="India">India</button>
+    <button class="filter-button" data-filter="US Cities">US Cities</button>
+    <button class="filter-button" data-filter="National Parks">National Parks</button>
+    <button class="filter-button" data-filter="International">International</button>
+    <button class="filter-button" data-filter="Events">Events</button>
+  </div>
+
+  <div class="search-results" id="searchResultsLarge">
+    <!-- Results will be populated here -->
+  </div>
+
+  <div class="suggestions" id="suggestions" style="display: none;">
+    <h4>Popular Searches</h4>
+    <div class="suggestion-tags">
+      <span class="suggestion-tag" onclick="searchFor('hawaii')">Hawaii</span>
+      <span class="suggestion-tag" onclick="searchFor('national park')">National Parks</span>
+      <span class="suggestion-tag" onclick="searchFor('india')">India</span>
+      <span class="suggestion-tag" onclick="searchFor('beach')">Beaches</span>
+      <span class="suggestion-tag" onclick="searchFor('mountain')">Mountains</span>
+      <span class="suggestion-tag" onclick="searchFor('city')">Cities</span>
+    </div>
+  </div>
+</div>
+
+<script>
+// Search data - same as in header
+const searchData = [
+  { title: "Kerala Backwaters", url: "{{ site.search_base_url }}/kerala/", description: "Experience the serene backwaters of Kerala", tags: ["India", "Backwaters", "Nature"] },
+  { title: "Jaipur", url: "{{ site.search_base_url }}/Jaipur/", description: "The Pink City of Rajasthan", tags: ["India", "Rajasthan", "Culture"] },
+  { title: "Guwahati and Shillong", url: "{{ site.search_base_url }}/assam/", description: "Exploring the beauty of Assam and Meghalaya", tags: ["India", "Assam", "Meghalaya"] },
+  { title: "Ranthambore National Forest", url: "{{ site.search_base_url }}/Ranthambore/", description: "Tiger spotting in Ranthambore", tags: ["India", "Wildlife", "Tigers"] },
+  { title: "Kaziranga National Park and Cherrapunji Forest", url: "{{ site.search_base_url }}/assam1/", description: "One-horned rhinos and living root bridges", tags: ["India", "Wildlife", "Rhinos"] },
+  { title: "Denver", url: "{{ site.search_base_url }}/denver-colorado/", description: "The Mile High City", tags: ["US Cities", "Colorado", "Mountains"] },
+  { title: "Dallas", url: "{{ site.search_base_url }}/dallas-texas/", description: "Big D - Everything's bigger in Texas", tags: ["US Cities", "Texas", "Culture"] },
+  { title: "El Paso", url: "{{ site.search_base_url }}/ElPaso-Texas/", description: "The Sun City of Texas", tags: ["US Cities", "Texas", "Border"] },
+  { title: "Austin", url: "{{ site.search_base_url }}/austin/", description: "Keep Austin Weird", tags: ["US Cities", "Texas", "Music"] },
+  { title: "Tampa Bay", url: "{{ site.search_base_url }}/tampa/", description: "The other side of the Sunshine State", tags: ["US Cities", "Florida", "Beaches"] },
+  { title: "Portland", url: "{{ site.search_base_url }}/portland/", description: "The city of Roses", tags: ["US Cities", "Oregon", "Food"] },
+  { title: "Aspen and Glenwood Springs", url: "{{ site.search_base_url }}/aspen-and-glenwood/", description: "Long Weekend Getaway's in the Rockies", tags: ["US Cities", "Colorado", "Mountains"] },
+  { title: "Maui - Hawaii", url: "{{ site.search_base_url }}/Hawaii1", description: "The Valley Isle", tags: ["US Cities", "Hawaii", "Beaches"] },
+  { title: "Kauai - Hawaii", url: "{{ site.search_base_url }}/Hawaii2", description: "Aloha Begins at Kauai", tags: ["US Cities", "Hawaii", "Islands"] },
+  { title: "Arches and Canyonlands National Park", url: "{{ site.search_base_url }}/Arches-Canyonlands/", description: "Red rock wonders of Utah", tags: ["National Parks", "Utah", "Red Rocks"] },
+  { title: "Alaska and Denali National Park", url: "{{ site.search_base_url }}/Alaska/", description: "The Last Frontier", tags: ["National Parks", "Alaska", "Wilderness"] },
+  { title: "Bryce and Antelope Canyon National Park", url: "{{ site.search_base_url }}/Bryce-Antelope/", description: "Hoodoos and slot canyons", tags: ["National Parks", "Utah", "Geology"] },
+  { title: "Glacier National Park", url: "{{ site.search_base_url }}/Glacier-National-Park/", description: "Crown of the Continent", tags: ["National Parks", "Montana", "Glaciers"] },
+  { title: "Grand Canyon National Park", url: "{{ site.search_base_url }}/GC/", description: "One of the Seven Natural Wonders", tags: ["National Parks", "Arizona", "Canyon"] },
+  { title: "Lassen National Park", url: "{{ site.search_base_url }}/Lassen-National-Park/", description: "California's hidden gem", tags: ["National Parks", "California", "Volcanoes"] },
+  { title: "Pacific Coast Highway", url: "{{ site.search_base_url }}/PCH/", description: "America's most scenic drive", tags: ["National Parks", "California", "Coast"] },
+  { title: "Rocky Mountain National Park", url: "{{ site.search_base_url }}/rocky-mountain/", description: "Time Crunching Road Trip", tags: ["National Parks", "Colorado", "Mountains"] },
+  { title: "Yellowstone National Park", url: "{{ site.search_base_url }}/yellowstone/", description: "America's first national park", tags: ["National Parks", "Wyoming", "Geysers"] },
+  { title: "Yosemite National Park", url: "{{ site.search_base_url }}/yosemite/", description: "The Most Precious Gem of the Sierra Range", tags: ["National Parks", "California", "Valley"] },
+  { title: "Zion National Park", url: "{{ site.search_base_url }}/zion-park/", description: "Utah's first national park", tags: ["National Parks", "Utah", "Canyons"] },
+  { title: "Toronto", url: "{{ site.search_base_url }}/toronto-canada/", description: "Canada's largest city", tags: ["International", "Canada", "City"] },
+  { title: "Dubai", url: "{{ site.search_base_url }}/dubai/", description: "City of Gold", tags: ["International", "UAE", "Luxury"] },
+  { title: "Rome", url: "{{ site.search_base_url }}/rome/", description: "The Eternal City", tags: ["International", "Italy", "History"] },
+  { title: "Maldives", url: "{{ site.search_base_url }}/maldives/", description: "Oh the Island Life", tags: ["International", "Islands", "Luxury"] },
+  { title: "Mexico City", url: "{{ site.search_base_url }}/mexico-city/", description: "Let's Explore Mexico City!", tags: ["International", "Mexico", "Culture"] },
+  { title: "Total Solar Eclipse 2017", url: "{{ site.search_base_url }}/eclipse/", description: "Madras, Oregon", tags: ["Events", "Eclipse", "Nature"] },
+  { title: "Summer Equinox-Stonehenge", url: "{{ site.search_base_url }}/Stonehenge/", description: "The Mysterious Stonehenge during Summer Equinox", tags: ["Events", "Stonehenge", "History"] }
+];
+
+let currentFilter = 'all';
+let currentResults = [];
+
+// Initialize page
+document.addEventListener('DOMContentLoaded', function() {
+  displayAllPosts();
+  setupEventListeners();
+});
+
+function setupEventListeners() {
+  const searchInput = document.getElementById('searchInputLarge');
+  const filterButtons = document.querySelectorAll('.filter-button');
+
+  searchInput.addEventListener('input', function() {
+    const query = this.value.toLowerCase().trim();
+    if (query.length >= 2) {
+      performLargeSearch(query);
+    } else {
+      displayAllPosts();
+    }
+  });
+
+  searchInput.addEventListener('keypress', function(e) {
+    if (e.key === 'Enter') {
+      performLargeSearch();
+    }
+  });
+
+  filterButtons.forEach(button => {
+    button.addEventListener('click', function() {
+      filterButtons.forEach(btn => btn.classList.remove('active'));
+      this.classList.add('active');
+      currentFilter = this.dataset.filter;
+      filterResults();
+    });
+  });
+}
+
+function performLargeSearch(query = null) {
+  const searchQuery = query || document.getElementById('searchInputLarge').value.toLowerCase().trim();
+  
+  if (searchQuery.length < 2) {
+    displayAllPosts();
+    return;
+  }
+
+  const results = searchData.filter(item => {
+    return item.title.toLowerCase().includes(searchQuery) ||
+           item.description.toLowerCase().includes(searchQuery) ||
+           item.tags.some(tag => tag.toLowerCase().includes(searchQuery));
+  });
+
+  currentResults = results;
+  displaySearchResults(results);
+  document.getElementById('suggestions').style.display = 'none';
+}
+
+function displayAllPosts() {
+  currentResults = searchData;
+  displaySearchResults(searchData);
+  document.getElementById('suggestions').style.display = 'block';
+}
+
+function filterResults() {
+  let filteredResults;
+  
+  if (currentFilter === 'all') {
+    filteredResults = currentResults;
+  } else {
+    filteredResults = currentResults.filter(item => 
+      item.tags.includes(currentFilter)
+    );
+  }
+  
+  displaySearchResults(filteredResults);
+}
+
+function displaySearchResults(results) {
+  const resultsContainer = document.getElementById('searchResultsLarge');
+  
+  if (results.length === 0) {
+    resultsContainer.innerHTML = `
+      <div class="no-results">
+        <h3>No posts found</h3>
+        <p>Try searching for different keywords or browse all posts</p>
+      </div>
+    `;
+  } else {
+    resultsContainer.innerHTML = results.map(item => `
+      <div class="search-result-card" onclick="window.location.href='${item.url}'">
+        <div class="result-image">
+          <i class="fa fa-map-marker"></i>
+        </div>
+        <div class="result-content">
+          <h3>${item.title}</h3>
+          <p>${item.description}</p>
+          <div class="result-tags">
+            ${item.tags.map(tag => `<span class="result-tag">${tag}</span>`).join('')}
+          </div>
+        </div>
+      </div>
+    `).join('');
+  }
+}
+
+function searchFor(query) {
+  document.getElementById('searchInputLarge').value = query;
+  performLargeSearch(query);
+}
+</script> 
