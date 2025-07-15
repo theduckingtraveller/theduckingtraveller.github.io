@@ -1,0 +1,148 @@
+---
+layout: default
+title: World Map - Travel Destinations
+permalink: /world-map/
+---
+
+{% include header.html %}
+{% include header-2.html %}
+
+<style>
+.world-map-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+.stats-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.stats-header h1 {
+  color: #1c1c1c;
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.stats-header p {
+  color: #666;
+  font-size: 1.1rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.stats-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.stat-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  width: 220px;
+  min-width: 180px;
+  max-width: 260px;
+  padding: 2rem 1rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stat-number {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #c0334a;
+  margin-bottom: 0.5rem;
+}
+
+.stat-label {
+  font-size: 1.1rem;
+  color: #333;
+}
+
+@media (max-width: 768px) {
+  .stats-grid {
+    flex-direction: column;
+    gap: 1.5rem;
+    align-items: center;
+  }
+  .stat-card {
+    width: 90%;
+    max-width: 350px;
+  }
+  .stats-header h1 {
+    font-size: 2rem;
+  }
+  .stats-header p {
+    font-size: 1rem;
+  }
+}
+</style>
+
+<div class="world-map-container">
+  <div class="stats-header">
+    <h1>🌍 My Travel Statistics</h1>
+    <p>Here are some fun stats about my travels so far!</p>
+  </div>
+  <div class="stats-grid">
+    <div class="stat-card">
+      <div class="stat-number">20</div>
+      <div class="stat-label">Countries Visited</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">4</div>
+      <div class="stat-label">Continents</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">25+</div>
+      <div class="stat-label">Destinations</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">26</div>
+      <div class="stat-label">National Parks</div>
+    </div>
+  </div>
+</div>
+
+<!-- Destination Modal (kept for future use, but can be removed if not needed) -->
+<div class="destination-modal" id="destinationModal" style="display:none;">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h2 id="modalTitle">Destination Details</h2>
+      <button class="close-modal" onclick="closeModal()">&times;</button>
+    </div>
+    <div class="modal-body">
+      <ul class="destination-list" id="destinationList">
+        <!-- Destinations will be populated by JavaScript -->
+      </ul>
+    </div>
+  </div>
+</div>
+
+<script>
+// Modal code kept for future use
+function closeModal() {
+  const modal = document.getElementById('destinationModal');
+  modal.style.display = 'none';
+}
+document.getElementById('destinationModal').addEventListener('click', function(e) {
+  if (e.target === this) {
+    closeModal();
+  }
+});
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') {
+    closeModal();
+  }
+});
+</script>
+
+{% include footer.html %} 
